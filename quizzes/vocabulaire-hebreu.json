@@ -1,932 +1,687 @@
 [
 	{
-		"Question": "אָנֹכִי \n אֲנִי",
-		"Answer": "je, moi",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אָנֹכִי \n אֲנִי",
+		"backTitle": "je, moi"
 	},
 	{
-		"Question": "אַתָּה",
-		"Answer": "tu, toi",
-		"Image": "",
-		"Description": "(masculin)"
+		"frontTitle": "אַתָּה",
+		"backTitle": "tu, toi",
+		"backDescription": "(masculin)"
 	},
 	{
-		"Question": "אַתְּ",
-		"Answer": "tu, toi",
-		"Image": "",
-		"Description": "(féminin)"
+		"frontTitle": "אַתְּ",
+		"backTitle": "tu, toi",
+		"backDescription": "(féminin)"
 	},
 	{
-		"Question": "מַה",
-		"Answer": "quoi, quel",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "מַה",
+		"backTitle": "quoi, quel"
 	},
 	{
-		"Question": "-הֲ",
-		"Answer": "est-ce que ... ?",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "-הֲ",
+		"backTitle": "est-ce que ... ?"
 	},
 	{
-		"Question": "שֵׁם",
-		"Answer": "nom",
-		"Image": "",
-		"Description": "(ז)\nשֵׁמוֹת"
+		"frontTitle": "שֵׁם",
+		"backTitle": "nom",
+		"backDescription": "(ז)\nשֵׁמוֹת"
 	},
 	{
-		"Question": "שְׁמִי",
-		"Answer": "mon nom",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "שְׁמִי",
+		"backTitle": "mon nom"
 	},
 	{
-		"Question": "שִׁמְךָ",
-		"Answer": "ton nom",
-		"Image": "",
-		"Description": "(se réfère à un homme)"
+		"frontTitle": "שִׁמְךָ",
+		"backTitle": "ton nom",
+		"backDescription": "(se réfère à un homme)"
 	},
 	{
-		"Question": "שְׁמֵךְ",
-		"Answer": "ton nom",
-		"Image": "",
-		"Description": "(se réfère à une femme)"
+		"frontTitle": "שְׁמֵךְ",
+		"backTitle": "ton nom",
+		"backDescription": "(se réfère à une femme)"
 	},
 	{
-		"Question": "מוֹרֶה\nמוֹרָה",
-		"Answer": "maître, enseignant",
-		"Image": "",
-		"Description": "masculin\nféminin\nמוֹרִים\nמוֹרוֹת"
+		"frontTitle": "מוֹרֶה\nמוֹרָה",
+		"backTitle": "maître, enseignant",
+		"backDescription": "masculin\nféminin\nמוֹרִים\nמוֹרוֹת"
 	},
 	{
-		"Question": "תַּלְמִיד\nתַּלְמִידָה",
-		"Answer": "disciple",
-		"Image": "",
-		"Description": "masculin\nféminin\nתַּלְמִידִים\nתַּלְמִידוֹת"
+		"frontTitle": "תַּלְמִיד\nתַּלְמִידָה",
+		"backTitle": "disciple",
+		"backDescription": "masculin\nféminin\nתַּלְמִידִים\nתַּלְמִידוֹת"
 	},
 	{
-		"Question": "נָבִיא",
-		"Answer": "prophète",
-		"Image": "",
-		"Description": "נְבִיאִים"
+		"frontTitle": "נָבִיא",
+		"backTitle": "prophète",
+		"backDescription": "נְבִיאִים"
 	},
 	{
-		"Question": "מֶ֫לֶךְ ",
-		"Answer": "roi",
-		"Image": "",
-		"Description": "מְלָכִים"
+		"frontTitle": "מֶ֫לֶךְ ",
+		"backTitle": "roi",
+		"backDescription": "מְלָכִים"
 	},
 	{
-		"Question": "מַלְכָּה",
-		"Answer": "reinne",
-		"Image": "",
-		"Description": "מְלָכוֹת"
+		"frontTitle": "מַלְכָּה",
+		"backTitle": "reinne",
+		"backDescription": "מְלָכוֹת"
 	},
 	{
-		"Question": "נְבִיאָה",
-		"Answer": "prophètesse",
-		"Image": "",
-		"Description": "נְבִיאוֹת"
+		"frontTitle": "נְבִיאָה",
+		"backTitle": "prophètesse",
+		"backDescription": "נְבִיאוֹת"
 	},
 	{
-		"Question": "כֹּהֵן",
-		"Answer": "prêtre",
-		"Image": "",
-		"Description": "כֹּהֲנִים"
+		"frontTitle": "כֹּהֵן",
+		"backTitle": "prêtre",
+		"backDescription": "כֹּהֲנִים"
 	},
 	{
-		"Question": "סֵ֫פֶר",
-		"Answer": "livre",
-		"Image": "",
-		"Description": "(ז)\nסְפָרִים"
+		"frontTitle": "סֵ֫פֶר",
+		"backTitle": "livre",
+		"backDescription": "(ז)\nסְפָרִים"
 	},
 	{
-		"Question": "בַּ֫יִת",
-		"Answer": "maison",
-		"Image": "",
-		"Description": "(ז)\nבָּתִּים"
+		"frontTitle": "בַּ֫יִת",
+		"backTitle": "maison",
+		"backDescription": "(ז)\nבָּתִּים"
 	},
 	{
-		"Question": "הַר",
-		"Answer": "montagne",
-		"Image": "",
-		"Description": "(ז)\nהָרִים"
+		"frontTitle": "הַר",
+		"backTitle": "montagne",
+		"backDescription": "(ז)\nהָרִים"
 	},
 	{
-		"Question": "שֻׁלְחָן",
-		"Answer": "table",
-		"Image": "",
-		"Description": "(ז)\nשֻׁלְחָנוֹת"
+		"frontTitle": "שֻׁלְחָן",
+		"backTitle": "table",
+		"backDescription": "(ז)\nשֻׁלְחָנוֹת"
 	},
 	{
-		"Question": "כִּסֵּא",
-		"Answer": "chaise",
-		"Image": "",
-		"Description": "(ז)\nכִּסְאוֹת"
+		"frontTitle": "כִּסֵּא",
+		"backTitle": "chaise",
+		"backDescription": "(ז)\nכִּסְאוֹת"
 	},
 	{
-		"Question": "דֶּ֫לֶת",
-		"Answer": "porte",
-		"Image": "",
-		"Description": "(נ)\nדְּלָתוֹת"
+		"frontTitle": "דֶּ֫לֶת",
+		"backTitle": "porte",
+		"backDescription": "(נ)\nדְּלָתוֹת"
 	},
 	{
-		"Question": "מְנוֹרָה",
-		"Answer": "chandelier",
-		"Image": "",
-		"Description": "(נ)\nמְנוֹרוֹת"
+		"frontTitle": "מְנוֹרָה",
+		"backTitle": "chandelier",
+		"backDescription": "(נ)\nמְנוֹרוֹת"
 	},
 	{
-		"Question": "עִיר",
-		"Answer": "ville",
-		"Image": "",
-		"Description": "(נ)עָרִים"
+		"frontTitle": "עִיר",
+		"backTitle": "ville",
+		"backDescription": "(נ)עָרִים"
 	},
 	{
-		"Question": "נְקֵבָה",
-		"Answer": "♀",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "נְקֵבָה",
+		"backTitle": "♀"
 	},
 	{
-		"Question": "זָכָר",
-		"Answer": "♂",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "זָכָר",
+		"backTitle": "♂"
 	},
 	{
-		"Question": "עַל",
-		"Answer": "au dessus",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "עַל",
+		"backTitle": "au dessus"
 	},
 	{
-		"Question": "-בְּ",
-		"Answer": "dans",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "-בְּ",
+		"backTitle": "dans"
 	},
 	{
-		"Question": "תַּ֫חַת",
-		"Answer": "au dessous",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "תַּ֫חַת",
+		"backTitle": "au dessous"
 	},
 	{
-		"Question": "הוּא",
-		"Answer": "il",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "הוּא",
+		"backTitle": "il"
 	},
 	{
-		"Question": "הִיא",
-		"Answer": "elle",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "הִיא",
+		"backTitle": "elle"
 	},
 	{
-		"Question": "בֵּן",
-		"Answer": "fils",
-		"Image": "",
-		"Description": "בָּנִים"
+		"frontTitle": "בֵּן",
+		"backTitle": "fils",
+		"backDescription": "בָּנִים"
 	},
 	{
-		"Question": "בַּת",
-		"Answer": "fille",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "בַּת",
+		"backTitle": "fille"
 	},
 	{
-		"Question": "זֶה\nזֹאת",
-		"Answer": "c'est",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "זֶה\nזֹאת",
+		"backTitle": "c'est"
 	},
 	{
-		"Question": "טוֹב\nטוֹבָה",
-		"Answer": "bon",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "טוֹב\nטוֹבָה",
+		"backTitle": "bon"
 	},
 	{
-		"Question": "רַע\nרָעָה",
-		"Answer": "mauvais",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "רַע\nרָעָה",
+		"backTitle": "mauvais"
 	},
 	{
-		"Question": "גָּדוֹל\nגְּדוֹלָה",
-		"Answer": "grand",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "גָּדוֹל\nגְּדוֹלָה",
+		"backTitle": "grand"
 	},
 	{
-		"Question": "קָטֹן\nקְטַנָּה",
-		"Answer": "petit",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "קָטֹן\nקְטַנָּה",
+		"backTitle": "petit"
 	},
 	{
-		"Question": "חָכָם\nחֲכָמָה",
-		"Answer": "intelligent",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "חָכָם\nחֲכָמָה",
+		"backTitle": "intelligent"
 	},
 	{
-		"Question": "צַדִּיק\nצַדִּיקָה",
-		"Answer": "juste",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "צַדִּיק\nצַדִּיקָה",
+		"backTitle": "juste"
 	},
 	{
-		"Question": "קָדוֹשׁ\nקְדוֹשָׁה",
-		"Answer": "saint",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "קָדוֹשׁ\nקְדוֹשָׁה",
+		"backTitle": "saint"
 	},
 	{
-		"Question": "עָנִי\nעֲנִיָּה",
-		"Answer": "pauvre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "עָנִי\nעֲנִיָּה",
+		"backTitle": "pauvre"
 	},
 	{
-		"Question": "עָשִׁיר\nעֲשִׁירָה",
-		"Answer": "riche",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "עָשִׁיר\nעֲשִׁירָה",
+		"backTitle": "riche"
 	},
 	{
-		"Question": "גַּם ",
-		"Answer": "aussi",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "גַּם ",
+		"backTitle": "aussi"
 	},
 	{
-		"Question": "אֲדֹנָי",
-		"Answer": "Mon Seigneur",
-		"Image": "",
-		"Description": "nom propre, le dieu d'Israël"
+		"frontTitle": "אֲדֹנָי",
+		"backTitle": "Mon Seigneur",
+		"backDescription": "nom propre, le dieu d'Israël"
 	},
 	{
-		"Question": "אֵ֫לֶּה",
-		"Answer": "ce-sont",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אֵ֫לֶּה",
+		"backTitle": "ce-sont"
 	},
 	{
-		"Question": "אִישׁ",
-		"Answer": "homme",
-		"Image": "",
-		"Description": "אֲנָשּׁים"
+		"frontTitle": "אִישׁ",
+		"backTitle": "homme",
+		"backDescription": "אֲנָשּׁים"
 	},
 	{
-		"Question": "אִשָּׁה",
-		"Answer": "femme",
-		"Image": "",
-		"Description": "נָשִׁים"
+		"frontTitle": "אִשָּׁה",
+		"backTitle": "femme",
+		"backDescription": "נָשִׁים"
 	},
 	{
-		"Question": "נַ֫חְנוּ \nאֲנַ֫חְנוּ",
-		"Answer": "nous",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "נַ֫חְנוּ \nאֲנַ֫חְנוּ",
+		"backTitle": "nous"
 	},
 	{
-		"Question": "אַתֶּם\nאַתֶּן / אַתֵּ֫נָה",
-		"Answer": "vous",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אַתֶּם\nאַתֶּן / אַתֵּ֫נָה",
+		"backTitle": "vous"
 	},
 	{
-		"Question": "הֵם / הֵ֫מָּה \n הֵ֫נָּה",
-		"Answer": "ils, elles",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "הֵם / הֵ֫מָּה \n הֵ֫נָּה",
+		"backTitle": "ils, elles"
 	},
 	{
-		"Question": "אֱלֹהִים",
-		"Answer": "Dieu",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אֱלֹהִים",
+		"backTitle": "Dieu"
 	},
 	{
-		"Question": "אֶ֫רֶץ",
-		"Answer": "terre",
-		"Image": "",
-		"Description": "(נ)\nאֲרָצוֹת (הָאָ֫רֶץ)"
+		"frontTitle": "אֶ֫רֶץ",
+		"backTitle": "terre",
+		"backDescription": "(נ)\nאֲרָצוֹת (הָאָ֫רֶץ)"
 	},
 	{
-		"Question": "גּוֹי",
-		"Answer": "nation",
-		"Image": "",
-		"Description": "(ז)\nגּוֹיִם "
+		"frontTitle": "גּוֹי",
+		"backTitle": "nation",
+		"backDescription": "(ז)\nגּוֹיִם "
 	},
 	{
-		"Question": "עַם\n",
-		"Answer": "peuple",
-		"Image": "",
-		"Description": "(ז)עַמִּים"
+		"frontTitle": "עַם\n",
+		"backTitle": "peuple",
+		"backDescription": "(ז)עַמִּים"
 	},
 	{
-		"Question": "יוֹם",
-		"Answer": "jour",
-		"Image": "",
-		"Description": "יָמִים"
+		"frontTitle": "יוֹם",
+		"backTitle": "jour",
+		"backDescription": "יָמִים"
 	},
 	{
-		"Question": "כֹּל \n כָּל־",
-		"Answer": "tout",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "כֹּל \n כָּל־",
+		"backTitle": "tout"
 	},
 	{
-		"Question": "עֵץ",
-		"Answer": "abre",
-		"Image": "",
-		"Description": "(ז)\nעֵצִים"
+		"frontTitle": "עֵץ",
+		"backTitle": "abre",
+		"backDescription": "(ז)\nעֵצִים"
 	},
 	{
-		"Question": "תְּאֵנָה ",
-		"Answer": "figue",
-		"Image": "",
-		"Description": "(נ)\nתְּאֵנִים"
+		"frontTitle": "תְּאֵנָה ",
+		"backTitle": "figue",
+		"backDescription": "(נ)\nתְּאֵנִים"
 	},
 	{
-		"Question": "יָפֶה\nיָפָה",
-		"Answer": "beau\nbelle",
-		"Image": "",
-		"Description": "יָפִים\nיָפוֹת"
+		"frontTitle": "יָפֶה\nיָפָה",
+		"backTitle": "beau\nbelle",
+		"backDescription": "יָפִים\nיָפוֹת"
 	},
 	{
-		"Question": "רַב\nרַבָּה",
-		"Answer": "nombreux\nnombreuse",
-		"Image": "",
-		"Description": "רַבִּים\nרַבּוֹת"
+		"frontTitle": "רַב\nרַבָּה",
+		"backTitle": "nombreux\nnombreuse",
+		"backDescription": "רַבִּים\nרַבּוֹת"
 	},
 	{
-		"Question": "מְאֹד",
-		"Answer": "très",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "מְאֹד",
+		"backTitle": "très"
 	},
 	{
-		"Question": "לֶ֫חֶם",
-		"Answer": "Pain",
-		"Image": "",
-		"Description": "(ז)"
+		"frontTitle": "לֶ֫חֶם",
+		"backTitle": "Pain",
+		"backDescription": "(ז)"
 	},
 	{
-		"Question": "לַ֫יְלָה",
-		"Answer": "nuit",
-		"Image": "",
-		"Description": "(ז)\nלֵילוֹת"
+		"frontTitle": "לַ֫יְלָה",
+		"backTitle": "nuit",
+		"backDescription": "(ז)\nלֵילוֹת"
 	},
 	{
-		"Question": "אַחֵר\nאַחֶ֫רֶת",
-		"Answer": "autre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אַחֵר\nאַחֶ֫רֶת",
+		"backTitle": "autre"
 	},
 	{
-		"Question": "שָׁפַט",
-		"Answer": "juger",
-		"Image": "",
-		"Description": "שָׁפוֹט"
+		"frontTitle": "שָׁפַט",
+		"backTitle": "juger",
+		"backDescription": "שָׁפוֹט"
 	},
 	{
-		"Question": "שָׁכַב",
-		"Answer": "être coucher",
-		"Image": "",
-		"Description": "שָׁכוֹב"
+		"frontTitle": "שָׁכַב",
+		"backTitle": "être coucher",
+		"backDescription": "שָׁכוֹב"
 	},
 	{
-		"Question": "אָכַל",
-		"Answer": "manger",
-		"Image": "",
-		"Description": "אָכוֹל"
+		"frontTitle": "אָכַל",
+		"backTitle": "manger",
+		"backDescription": "אָכוֹל"
 	},
 	{
-		"Question": "הָלַךְ",
-		"Answer": "marcher, aller, partir",
-		"Image": "",
-		"Description": "הָלוֹךְ"
+		"frontTitle": "הָלַךְ",
+		"backTitle": "marcher, aller, partir",
+		"backDescription": "הָלוֹךְ"
 	},
 	{
-		"Question": "בָּא",
-		"Answer": "venir",
-		"Image": "",
-		"Description": "בּוֹא"
+		"frontTitle": "בָּא",
+		"backTitle": "venir",
+		"backDescription": "בּוֹא"
 	},
 	{
-		"Question": "יָשַׁב",
-		"Answer": "être assis",
-		"Image": "",
-		"Description": "יָשׁוֹב"
+		"frontTitle": "יָשַׁב",
+		"backTitle": "être assis",
+		"backDescription": "יָשׁוֹב"
 	},
 	{
-		"Question": "קָם",
-		"Answer": "se lever",
-		"Image": "",
-		"Description": "קוֹם"
+		"frontTitle": "קָם",
+		"backTitle": "se lever",
+		"backDescription": "קוֹם"
 	},
 	{
-		"Question": "עָמַד",
-		"Answer": "être debout",
-		"Image": "",
-		"Description": "עָמוֹד"
+		"frontTitle": "עָמַד",
+		"backTitle": "être debout",
+		"backDescription": "עָמוֹד"
 	},
 	{
-		"Question": "לִפְנֵי",
-		"Answer": "devant",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "לִפְנֵי",
+		"backTitle": "devant"
 	},
 	{
-		"Question": "אַחֲרֵי",
-		"Answer": "derrière",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אַחֲרֵי",
+		"backTitle": "derrière"
 	},
 	{
-		"Question": "הַרְבֵּה",
-		"Answer": "beaucoup",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "הַרְבֵּה",
+		"backTitle": "beaucoup"
 	},
 	{
-		"Question": "מְעַט",
-		"Answer": "peu",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "מְעַט",
+		"backTitle": "peu"
 	},
 	{
-		"Question": "אֹ֫הֶל",
-		"Answer": "tente",
-		"Image": "",
-		"Description": "(ז)\nאֹהָלִים "
+		"frontTitle": "אֹ֫הֶל",
+		"backTitle": "tente",
+		"backDescription": "(ז)\nאֹהָלִים "
 	},
 	{
-		"Question": "חֲמוֹר",
-		"Answer": "âne",
-		"Image": "",
-		"Description": "(ז)"
+		"frontTitle": "חֲמוֹר",
+		"backTitle": "âne",
+		"backDescription": "(ז)"
 	},
 	{
-		"Question": "מִדְבָּר",
-		"Answer": "désert",
-		"Image": "",
-		"Description": "(ז)"
+		"frontTitle": "מִדְבָּר",
+		"backTitle": "désert",
+		"backDescription": "(ז)"
 	},
 	{
-		"Question": "מַ֫יִם",
-		"Answer": "eau",
-		"Image": "",
-		"Description": "(ז. Pluriel)"
+		"frontTitle": "מַ֫יִם",
+		"backTitle": "eau",
+		"backDescription": "(ז. Pluriel)"
 	},
 	{
-		"Question": "מַעְיָן",
-		"Answer": "source",
-		"Image": "",
-		"Description": "(ז)\nמַעְיָנוֹת  "
+		"frontTitle": "מַעְיָן",
+		"backTitle": "source",
+		"backDescription": "(ז)\nמַעְיָנוֹת  "
 	},
 	{
-		"Question": "נַ֫חַל",
-		"Answer": "fleuve",
-		"Image": "",
-		"Description": "(ז)\nנְחָלִים "
+		"frontTitle": "נַ֫חַל",
+		"backTitle": "fleuve",
+		"backDescription": "(ז)\nנְחָלִים "
 	},
 	{
-		"Question": "ר֫וּחַ",
-		"Answer": "soufle, vent",
-		"Image": "",
-		"Description": "רוּחוֹת"
+		"frontTitle": "ר֫וּחַ",
+		"backTitle": "soufle, vent",
+		"backDescription": "רוּחוֹת"
 	},
 	{
-		"Question": "נָעִים",
-		"Answer": "agréable",
-		"Image": "",
-		"Description": "נָעִים, נְעִימָה\nנְעִימִים, נְעִימוֹת"
+		"frontTitle": "נָעִים",
+		"backTitle": "agréable",
+		"backDescription": "נָעִים, נְעִימָה\nנְעִימִים, נְעִימוֹת"
 	},
 	{
-		"Question": "קָשֶׁה",
-		"Answer": "difficile, dur",
-		"Image": "",
-		"Description": "קָשֶׁה, קָשָׁה\nקָשִׁים, קָשׁוֹת "
+		"frontTitle": "קָשֶׁה",
+		"backTitle": "difficile, dur",
+		"backDescription": "קָשֶׁה, קָשָׁה\nקָשִׁים, קָשׁוֹת "
 	},
 	{
-		"Question": "שָׁב",
-		"Answer": "revenir",
-		"Image": "",
-		"Description": "שׁוֹב"
+		"frontTitle": "שָׁב",
+		"backTitle": "revenir",
+		"backDescription": "שׁוֹב"
 	},
 	{
-		"Question": "שָׁתָה",
-		"Answer": "boire",
-		"Image": "",
-		"Description": "שָׁתֹה"
+		"frontTitle": "שָׁתָה",
+		"backTitle": "boire",
+		"backDescription": "שָׁתֹה"
 	},
 	{
-		"Question": "עִם",
-		"Answer": "avec",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "עִם",
+		"backTitle": "avec"
 	},
 	{
-		"Question": "לְבַד",
-		"Answer": "seul",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "לְבַד",
+		"backTitle": "seul"
 	},
 	{
-		"Question": "יַחְדָּו",
-		"Answer": "ensemble",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "יַחְדָּו",
+		"backTitle": "ensemble"
 	},
 	{
-		"Question": "פֹּה ",
-		"Answer": "ici",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "פֹּה ",
+		"backTitle": "ici"
 	},
 	{
-		"Question": "שָׁם",
-		"Answer": "là-bas",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "שָׁם",
+		"backTitle": "là-bas"
 	},
 	{
-		"Question": "הִנֵּה",
-		"Answer": "voici",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "הִנֵּה",
+		"backTitle": "voici"
 	},
 	{
-		"Question": "לָ֫מָּה",
-		"Answer": "pourquoi",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "לָ֫מָּה",
+		"backTitle": "pourquoi"
 	},
 	{
-		"Question": "אַיֵּה\nאֵיפֹה\nאֵי־זֶה ",
-		"Answer": "où",
-		"Image": "",
-		"Description": "pour des lieux\nבְּ-, עַל, תַּ֫חַת\nאַחֲרֵי, לִפְנֵי..."
+		"frontTitle": "אַיֵּה\nאֵיפֹה\nאֵי־זֶה ",
+		"backTitle": "où",
+		"backDescription": "pour des lieux\nבְּ-, עַל, תַּ֫חַת\nאַחֲרֵי, לִפְנֵי..."
 	},
 	{
-		"Question": "אָ֫נָה",
-		"Answer": "où",
-		"Image": "",
-		"Description": "pour des directions\nאֶל, לְ, ָה"
+		"frontTitle": "אָ֫נָה",
+		"backTitle": "où",
+		"backDescription": "pour des directions\nאֶל, לְ, ָה"
 	},
 	{
-		"Question": "מֵאַ֫יִן\nאֵי־מִזֶּה ",
-		"Answer": "d'où",
-		"Image": "",
-		"Description": "pour des origines\nמִן, מִ"
+		"frontTitle": "מֵאַ֫יִן\nאֵי־מִזֶּה ",
+		"backTitle": "d'où",
+		"backDescription": "pour des origines\nמִן, מִ"
 	},
 	{
-		"Question": "אָרוֹן",
-		"Answer": "coffre",
-		"Image": "",
-		"Description": "(ז)\nאֲרוֹנוֹת"
+		"frontTitle": "אָרוֹן",
+		"backTitle": "coffre",
+		"backDescription": "(ז)\nאֲרוֹנוֹת"
 	},
 	{
-		"Question": "דָּבָר",
-		"Answer": "chose, parole, énoncé",
-		"Image": "",
-		"Description": "(ז)\nדְּבָרִים"
+		"frontTitle": "דָּבָר",
+		"backTitle": "chose, parole, énoncé",
+		"backDescription": "(ז)\nדְּבָרִים"
 	},
 	{
-		"Question": "הֵיכָל",
-		"Answer": "temple, palais",
-		"Image": "",
-		"Description": "(ז)\nהֵיכָלִים / הֵיכָלוֹת"
+		"frontTitle": "הֵיכָל",
+		"backTitle": "temple, palais",
+		"backDescription": "(ז)\nהֵיכָלִים / הֵיכָלוֹת"
 	},
 	{
-		"Question": "נַ֫עַר",
-		"Answer": "garçon, serviteur",
-		"Image": "",
-		"Description": "(ז)\nנְעָרִים"
+		"frontTitle": "נַ֫עַר",
+		"backTitle": "garçon, serviteur",
+		"backDescription": "(ז)\nנְעָרִים"
 	},
 	{
-		"Question": "נַעֲרָה",
-		"Answer": "fille",
-		"Image": "",
-		"Description": "(נ)\nנְעָרוֹת"
+		"frontTitle": "נַעֲרָה",
+		"backTitle": "fille",
+		"backDescription": "(נ)\nנְעָרוֹת"
 	},
 	{
-		"Question": "עֵת",
-		"Answer": "temps",
-		"Image": "",
-		"Description": "(נ)\nעִתּוֹת"
+		"frontTitle": "עֵת",
+		"backTitle": "temps",
+		"backDescription": "(נ)\nעִתּוֹת"
 	},
 	{
-		"Question": "זָקֵן",
-		"Answer": "vieux",
-		"Image": "",
-		"Description": "(ז)\nזְקֵנִים"
+		"frontTitle": "זָקֵן",
+		"backTitle": "vieux",
+		"backDescription": "(ז)\nזְקֵנִים"
 	},
 	{
-		"Question": "אָז",
-		"Answer": "à ce moment, alors, donc",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אָז",
+		"backTitle": "à ce moment, alors, donc"
 	},
 	{
-		"Question": "אִם",
-		"Answer": "si",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אִם",
+		"backTitle": "si"
 	},
 	{
-		"Question": "כִּי",
-		"Answer": "parce que, mais, quand",
-		"Image": "",
-		"Description": "que (introduisant une proposition complétive)"
+		"frontTitle": "כִּי",
+		"backTitle": "parce que, mais, quand",
+		"backDescription": "que (introduisant une proposition complétive)"
 	},
 	{
-		"Question": "עוֹד",
-		"Answer": "encore",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "עוֹד",
+		"backTitle": "encore"
 	},
 	{
-		"Question": "לֹא... עוֹד",
-		"Answer": "ne... plus",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "לֹא... עוֹד",
+		"backTitle": "ne... plus"
 	},
 	{
-		"Question": "קָרָא",
-		"Answer": "crier, lire, appeler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "קָרָא",
+		"backTitle": "crier, lire, appeler"
 	},
 	{
-		"Question": "שָׁמַע",
-		"Answer": "entendre, écouter",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "שָׁמַע",
+		"backTitle": "entendre, écouter"
 	},
 	{
-		"Question": "אָמַר",
-		"Answer": "dire",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אָמַר",
+		"backTitle": "dire"
 	},
 	{
-		"Question": "יָדַע",
-		"Answer": "enseigner, savoir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "יָדַע",
+		"backTitle": "enseigner, savoir"
 	},
 	{
-		"Question": "דִּבֵּר",
-		"Answer": "parler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "דִּבֵּר",
+		"backTitle": "parler"
 	},
 	{
-		"Question": "מָחָר",
-		"Answer": "demain",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "מָחָר",
+		"backTitle": "demain"
 	},
 	{
-		"Question": "תֵּמוֹל\nאֶתְמוֹל",
-		"Answer": "hier",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "תֵּמוֹל\nאֶתְמוֹל",
+		"backTitle": "hier"
 	},
 	{
-		"Question": "מִי",
-		"Answer": "qui",
-		"Image": "",
-		"Description": "pronom interrogatif"
+		"frontTitle": "מִי",
+		"backTitle": "qui",
+		"backDescription": "pronom interrogatif"
 	},
 	{
-		"Question": "בָּכָה",
-		"Answer": "pleurer",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "בָּכָה",
+		"backTitle": "pleurer"
 	},
 	{
-		"Question": "רָאָה",
-		"Answer": "voir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "רָאָה",
+		"backTitle": "voir"
 	},
 	{
-		"Question": "שָׁאַל",
-		"Answer": "demander",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "שָׁאַל",
+		"backTitle": "demander"
 	},
 	{
-		"Question": "עָנָה",
-		"Answer": "répondre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "עָנָה",
+		"backTitle": "répondre"
 	},
 	{
-		"Question": "מוֹת",
-		"Answer": "mourir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "מוֹת",
+		"backTitle": "mourir"
 	},
 	{
-		"Question": "אֶמֶת",
-		"Answer": "vérité\n(נ)",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אֶמֶת",
+		"backTitle": "vérité\n(נ)"
 	},
 	{
-		"Question":"שֶׁקֶר",
-		"Answer": "mensonge\n(ז)\nשְׁקָרִים",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "שֶׁקֶר",
+		"backTitle": "mensonge\n(ז)\nשְׁקָרִים"
 	},
 	{
-		"Question": "בָּשָׂר",
-		"Answer": "viande",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "בָּשָׂר",
+		"backTitle": "viande"
 	},
 	{
-		"Question": "יַ֫יִן",
-		"Answer": "vin",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "יַ֫יִן",
+		"backTitle": "vin"
 	},
 	{
-		"Question": "יֶלֶד",
-		"Answer": "enfant\n(ז)\nיְלָדִים",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "יֶלֶד",
+		"backTitle": "enfant\n(ז)\nיְלָדִים"
 	},
 	{
-		"Question": "יַלְדָּה",
-		"Answer": "enfant\n(נ)\nיְלָדוֹת",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "יַלְדָּה",
+		"backTitle": "enfant\n(נ)\nיְלָדוֹת"
 	},
 	{
-		"Question": "קוֹל",
-		"Answer": "voix\n(ז)\nקוֹלוֹת",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "קוֹל",
+		"backTitle": "voix\n(ז)\nקוֹלוֹת"
 	},
 	{
-		"Question": "שָׁנָה",
-		"Answer": "année\n(נ)\nשָׁנִים",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "שָׁנָה",
+		"backTitle": "année\n(נ)\nשָׁנִים"
 	},
 	{
-		"Question": "בְּלֹא",
-		"Answer": "sans",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "בְּלֹא",
+		"backTitle": "sans"
 	},
 	{
-		"Question": "אֵם",
-		"Answer": "mère \nאִמּוֹת",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אֵם",
+		"backTitle": "mère \nאִמּוֹת"
 	},
 	{
-		"Question": "אָב",
-		"Answer": "père \nאָבוֹת",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אָב",
+		"backTitle": "père \nאָבוֹת"
 	},
 	{
-		"Question": "לֵאמֹר",
-		"Answer": "introduit un discours direct",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "לֵאמֹר",
+		"backTitle": "introduit un discours direct"
 	},
 	{
-		"Question": "אָדוֹן",
-		"Answer": "Maître",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אָדוֹן",
+		"backTitle": "Maître"
 	},
 	{
-		"Question": "גְּבִירָה",
-		"Answer": "'patronne'",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "גְּבִירָה",
+		"backTitle": "'patronne'"
 	},
 	{
-		"Question": "בֹּקֶר",
-		"Answer": "matin",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "בֹּקֶר",
+		"backTitle": "matin"
 	},
 	{
-		"Question": "זוֹנָה",
-		"Answer": "prostituée",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "זוֹנָה",
+		"backTitle": "prostituée"
 	},
 	{
-		"Question": "חֵיק",
-		"Answer": "seins",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "חֵיק",
+		"backTitle": "seins"
 	},
 	{
-		"Question": "חָכְמָה",
-		"Answer": "sagesse",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "חָכְמָה",
+		"backTitle": "sagesse"
 	},
 	{
-		"Question": "חֲצִי",
-		"Answer": "moitié",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "חֲצִי",
+		"backTitle": "moitié"
 	},
 	{
-		"Question": "חֶרֶב",
-		"Answer": "épée \n חֲרָבוֹת",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "חֶרֶב",
+		"backTitle": "épée \n חֲרָבוֹת"
 	},
 	{
-		"Question": "זָר",
-		"Answer": "étranger",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "זָר",
+		"backTitle": "étranger"
 	},
 	{
-		"Question": "מֵת",
-		"Answer": "mort",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "מֵת",
+		"backTitle": "mort"
 	},
 	{
-		"Question": "חַי",
-		"Answer": "vivant",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "חַי",
+		"backTitle": "vivant"
 	},
 	{
-		"Question": "אֵצֶל",
-		"Answer": "près de",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "אֵצֶל",
+		"backTitle": "près de"
 	},
 	{
-		"Question": "בְּתוֹךְ",
-		"Answer": "au centre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "בְּתוֹךְ",
+		"backTitle": "au centre"
 	},
 	{
-		"Question": "גָּזַר",
-		"Answer": "couper",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "גָּזַר",
+		"backTitle": "couper"
 	},
 	{
-		"Question": "יָלַד",
-		"Answer": "engendrer",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "יָלַד",
+		"backTitle": "engendrer"
 	},
 	{
-		"Question": "מֵת",
-		"Answer": "mourir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "מֵת",
+		"backTitle": "mourir"
 	},
 	{
-		"Question": "נָפַל",
-		"Answer": "tomber",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "נָפַל",
+		"backTitle": "tomber"
 	},
 	{
-		"Question": "נָתַל",
-		"Answer": "donner",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "נָתַל",
+		"backTitle": "donner"
 	},
 	{
-		"Question": "לָקַח",
-		"Answer": "prendre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "לָקַח",
+		"backTitle": "prendre"
 	},
 	{
-		"Question": "יָרֵא",
-		"Answer": "craindre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "יָרֵא",
+		"backTitle": "craindre"
 	}
 ]

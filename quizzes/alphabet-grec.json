@@ -1,338 +1,338 @@
 [
 	{
-		"Question": "α",
-		"Answer": "ἂλφα – a",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "α",
+		"backTitle": "ἂλφα – a",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Α",
-		"Answer": "ἂλφα – a",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Α",
+		"backTitle": "ἂλφα – a",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "β",
-		"Answer": "βῆτα – b",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "β",
+		"backTitle": "βῆτα – b",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Β",
-		"Answer": "βῆτα – b",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Β",
+		"backTitle": "βῆτα – b",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "γ",
-		"Answer": "γάμμα – g",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "γ",
+		"backTitle": "γάμμα – g",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Γ",
-		"Answer": "γάμμα – g",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Γ",
+		"backTitle": "γάμμα – g",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "δ",
-		"Answer": "δέλτα – d",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "δ",
+		"backTitle": "δέλτα – d",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Δ",
-		"Answer": "δέλτα – d",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Δ",
+		"backTitle": "δέλτα – d",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ε",
-		"Answer": "ἒψιλόν – é",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ε",
+		"backTitle": "ἒψιλόν – é",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ε",
-		"Answer": "ἒψιλόν – é",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ε",
+		"backTitle": "ἒψιλόν – é",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ζ",
-		"Answer": "ζῆτα – dz",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ζ",
+		"backTitle": "ζῆτα – dz",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ζ",
-		"Answer": "ζῆτα – dz",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ζ",
+		"backTitle": "ζῆτα – dz",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "η",
-		"Answer": "ἦτα – ê",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "η",
+		"backTitle": "ἦτα – ê",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Η",
-		"Answer": "ἦτα – ê",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Η",
+		"backTitle": "ἦτα – ê",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "θ",
-		"Answer": "θῆτα – th",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "θ",
+		"backTitle": "θῆτα – th",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Θ",
-		"Answer": "θῆτα – th",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Θ",
+		"backTitle": "θῆτα – th",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ι",
-		"Answer": "ἰῶτα – i",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ι",
+		"backTitle": "ἰῶτα – i",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ι",
-		"Answer": "ἰῶτα – i",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ι",
+		"backTitle": "ἰῶτα – i",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "κ",
-		"Answer": "κάππα – k",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "κ",
+		"backTitle": "κάππα – k",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Κ",
-		"Answer": "κάππα – k",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Κ",
+		"backTitle": "κάππα – k",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "λ",
-		"Answer": "λάμβδα – l",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "λ",
+		"backTitle": "λάμβδα – l",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Λ",
-		"Answer": "λάμβδα – l",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Λ",
+		"backTitle": "λάμβδα – l",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "μ",
-		"Answer": "μῦ – m",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "μ",
+		"backTitle": "μῦ – m",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Μ",
-		"Answer": "μῦ – m",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Μ",
+		"backTitle": "μῦ – m",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ν",
-		"Answer": "νῦ – n",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ν",
+		"backTitle": "νῦ – n",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ν",
-		"Answer": "νῦ – n",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ν",
+		"backTitle": "νῦ – n",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ξ",
-		"Answer": "ξῖ – x",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ξ",
+		"backTitle": "ξῖ – x",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ξ",
-		"Answer": "ξῖ – x",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ξ",
+		"backTitle": "ξῖ – x",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ο",
-		"Answer": "ὂμικρόν – o",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ο",
+		"backTitle": "ὂμικρόν – o",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ο",
-		"Answer": "ὂμικρόν – o",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ο",
+		"backTitle": "ὂμικρόν – o",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "π",
-		"Answer": "πῖ – p",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "π",
+		"backTitle": "πῖ – p",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Π",
-		"Answer": "πῖ – p",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Π",
+		"backTitle": "πῖ – p",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ρ",
-		"Answer": "ῥῶ – r",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ρ",
+		"backTitle": "ῥῶ – r",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ρ",
-		"Answer": "ῥῶ – r",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ρ",
+		"backTitle": "ῥῶ – r",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "σ",
-		"Answer": "σῖγμα – s",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "σ",
+		"backTitle": "σῖγμα – s",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Σ",
-		"Answer": "σῖγμα – s",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Σ",
+		"backTitle": "σῖγμα – s",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "τ",
-		"Answer": "ταῦ – t",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "τ",
+		"backTitle": "ταῦ – t",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Τ",
-		"Answer": "ταῦ – t",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Τ",
+		"backTitle": "ταῦ – t",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "υ",
-		"Answer": "ὖψιλόν – u",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "υ",
+		"backTitle": "ὖψιλόν – u",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Υ",
-		"Answer": "ὖψιλόν – u",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Υ",
+		"backTitle": "ὖψιλόν – u",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "φ",
-		"Answer": "φῖ – ph/f",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "φ",
+		"backTitle": "φῖ – ph/f",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Φ",
-		"Answer": "φῖ – ph/f",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Φ",
+		"backTitle": "φῖ – ph/f",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "χ",
-		"Answer": "χῖ – kh",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "χ",
+		"backTitle": "χῖ – kh",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Χ",
-		"Answer": "χῖ – kh",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Χ",
+		"backTitle": "χῖ – kh",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ψ",
-		"Answer": "ψῖ – ps",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ψ",
+		"backTitle": "ψῖ – ps",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ψ",
-		"Answer": "ψῖ – ps",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ψ",
+		"backTitle": "ψῖ – ps",
+		"tags": [
+			"Majuscule"
+		]
 	},
 	{
-		"Question": "ω",
-		"Answer": "ὦμέγα – ô",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Minuscule"]
+		"frontTitle": "ω",
+		"backTitle": "ὦμέγα – ô",
+		"tags": [
+			"Minuscule"
+		]
 	},
 	{
-		"Question": "Ω",
-		"Answer": "ὦμέγα – ô",
-		"Image": "",
-		"Description": "",
-		"Tags": ["Majuscule"]
+		"frontTitle": "Ω",
+		"backTitle": "ὦμέγα – ô",
+		"tags": [
+			"Majuscule"
+		]
 	}
 ]

@@ -1,1221 +1,893 @@
 [
 	{
-		"Question": "ἀπό",
-		"Answer": "loin de",
-		"Image": "",
-		"Description": "+ gén",
-		"Tags": ["Préposition"]
-	},
-	{
-		"Question": "διά",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - à cause de, grace à\n+ gén - à travers",
-		"Tags": ["Préposition"]
-	},
-	{
-		"Question": "εἰς",
-		"Answer": "vers, dans (+ mouvement), en vue de",
-		"Image": "",
-		"Description": "+ acc",
-		"Tags": ["Préposition"]
-	},
-	{
-		"Question": "ἐκ",
-		"Answer": "hors de, de",
-		"Image": "",
-		"Description": "+ gén",
-		"Tags": ["Préposition"]
-	},
-	{
-		"Question": "ἐν",
-		"Answer": "dans, grâce à (rare)",
-		"Image": "",
-		"Description": "+ dat",
-		"Tags": ["Préposition"]
-	},
-	{
-		"Question": "ἐνώπιον",
-		"Answer": "devant, en présence de",
-		"Image": "",
-		"Description": "+ gén",
-		"Tags": ["Préposition"]
-	},
-	{
-		"Question": "ἔξω",
-		"Answer": "hors de, en dehors",
-		"Image": "",
-		"Description": "+ gén",
-		"Tags": ["Préposition"]
-	},
+		"frontTitle": "ἀπό",
+		"backTitle": "loin de",
+		"backDescription": "+ gén",
+		"tags": [
+			"Préposition"
+		]
+	},
+	{
+		"frontTitle": "διά",
+		"backTitle": "",
+		"backDescription": "+ acc - à cause de, grace à\n+ gén - à travers",
+		"tags": [
+			"Préposition"
+		]
+	},
+	{
+		"frontTitle": "εἰς",
+		"backTitle": "vers, dans (+ mouvement), en vue de",
+		"backDescription": "+ acc",
+		"tags": [
+			"Préposition"
+		]
+	},
+	{
+		"frontTitle": "ἐκ",
+		"backTitle": "hors de, de",
+		"backDescription": "+ gén",
+		"tags": [
+			"Préposition"
+		]
+	},
+	{
+		"frontTitle": "ἐν",
+		"backTitle": "dans, grâce à (rare)",
+		"backDescription": "+ dat",
+		"tags": [
+			"Préposition"
+		]
+	},
+	{
+		"frontTitle": "ἐνώπιον",
+		"backTitle": "devant, en présence de",
+		"backDescription": "+ gén",
+		"tags": [
+			"Préposition"
+		]
+	},
+	{
+		"frontTitle": "ἔξω",
+		"backTitle": "hors de, en dehors",
+		"backDescription": "+ gén",
+		"tags": [
+			"Préposition"
+		]
+	},
 	{
-		"Question": "ἐπί",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - au dessus, sur (avec mouvement)\n+ gén - à l'époque de, sur (localisaton)\n+ dat - sur, dans, sur la base de",
-		"Tags": ["Préposition"]
+		"frontTitle": "ἐπί",
+		"backTitle": "",
+		"backDescription": "+ acc - au dessus, sur (avec mouvement)\n+ gén - à l'époque de, sur (localisaton)\n+ dat - sur, dans, sur la base de",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "ἕως",
-		"Answer": "jusqu'à",
-		"Image": "",
-		"Description": "+ gen",
-		"Tags": ["Préposition"]
+		"frontTitle": "ἕως",
+		"backTitle": "jusqu'à",
+		"backDescription": "+ gen",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "κατά",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - selon\n+ gén - contre, en opposition à",
-		"Tags": ["Préposition"]
+		"frontTitle": "κατά",
+		"backTitle": "",
+		"backDescription": "+ acc - selon\n+ gén - contre, en opposition à",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "μετά",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - après\n+ gén - avec",
-		"Tags": ["Préposition"]
+		"frontTitle": "μετά",
+		"backTitle": "",
+		"backDescription": "+ acc - après\n+ gén - avec",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "παρά",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - le long de\n+ gén - d'auprès de\n+ dat - de (sans mouvement)",
-		"Tags": ["Préposition"]
+		"frontTitle": "παρά",
+		"backTitle": "",
+		"backDescription": "+ acc - le long de\n+ gén - d'auprès de\n+ dat - de (sans mouvement)",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "περί",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - autour, approximativement\n+ gén - à propos de",
-		"Tags": ["Préposition"]
+		"frontTitle": "περί",
+		"backTitle": "",
+		"backDescription": "+ acc - autour, approximativement\n+ gén - à propos de",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "πρό",
-		"Answer": "avant",
-		"Image": "",
-		"Description": "+ gén",
-		"Tags": ["Préposition"]
+		"frontTitle": "πρό",
+		"backTitle": "avant",
+		"backDescription": "+ gén",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "πρός",
-		"Answer": "vers, en direction de",
-		"Image": "",
-		"Description": "+ acc",
-		"Tags": ["Préposition"]
+		"frontTitle": "πρός",
+		"backTitle": "vers, en direction de",
+		"backDescription": "+ acc",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "σύν",
-		"Answer": "avec",
-		"Image": "",
-		"Description": "+ dat",
-		"Tags": ["Préposition"]
+		"frontTitle": "σύν",
+		"backTitle": "avec",
+		"backDescription": "+ dat",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "ὑπέρ",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - au dessus de\n+ gén - au nom de, à cause de, pour",
-		"Tags": ["Préposition"]
+		"frontTitle": "ὑπέρ",
+		"backTitle": "",
+		"backDescription": "+ acc - au dessus de\n+ gén - au nom de, à cause de, pour",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "ὑπό",
-		"Answer": "",
-		"Image": "",
-		"Description": "+ acc - au-dessous, sous\n+ gén - par, grâce à",
-		"Tags": ["Préposition"]
+		"frontTitle": "ὑπό",
+		"backTitle": "",
+		"backDescription": "+ acc - au-dessous, sous\n+ gén - par, grâce à",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "ὀπίσω",
-		"Answer": "derrrière",
-		"Image": "",
-		"Description": "+ gén",
-		"Tags": ["Préposition"]
+		"frontTitle": "ὀπίσω",
+		"backTitle": "derrrière",
+		"backDescription": "+ gén",
+		"tags": [
+			"Préposition"
+		]
 	},
 	{
-		"Question": "᾽Αβραάμ",
-		"Answer": "Abraham",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "᾽Αβραάμ",
+		"backTitle": "Abraham"
 	},
 	{
-		"Question": "ἀμήν",
-		"Answer": "amen",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀμήν",
+		"backTitle": "amen"
 	},
 	{
-		"Question": "Δαυίδ",
-		"Answer": "David",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Δαυίδ",
+		"backTitle": "David"
 	},
 	{
-		"Question": "ῥαββί",
-		"Answer": "rabbi",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ῥαββί",
+		"backTitle": "rabbi"
 	},
 	{
-		"Question": "Ἰακώβ",
-		"Answer": "Jacob",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Ἰακώβ",
+		"backTitle": "Jacob"
 	},
 	{
-		"Question": "Ἰσραήλ",
-		"Answer": "Israël",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Ἰσραήλ",
+		"backTitle": "Israël"
 	},
 	{
-		"Question": "Ἰωσήφ",
-		"Answer": "Joseph",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Ἰωσήφ",
+		"backTitle": "Joseph"
 	},
 	{
-		"Question": "καί",
-		"Answer": "et",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "καί",
+		"backTitle": "et"
 	},
 	{
-		"Question": "ἄγω",
-		"Answer": "conduire, guider",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἄγω",
+		"backTitle": "conduire, guider"
 	},
 	{
-		"Question": "ἀκούω",
-		"Answer": "écouter, entendre",
-		"Image": "",
-		"Description": "+ gén de la personne entendue\n+ acc de la chose entendue"
+		"frontTitle": "ἀκούω",
+		"backTitle": "écouter, entendre",
+		"backDescription": "+ gén de la personne entendue\n+ acc de la chose entendue"
 	},
 	{
-		"Question": "βάλλω",
-		"Answer": "jeter",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "βάλλω",
+		"backTitle": "jeter"
 	},
 	{
-		"Question": "βλέπω",
-		"Answer": "voir, regarder",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "βλέπω",
+		"backTitle": "voir, regarder"
 	},
 	{
-		"Question": "διδάσκω",
-		"Answer": "enseigner",
-		"Image": "",
-		"Description": "double accusatif : enseigner qqch à qqn (acc) à propos de qqch (acc)"
+		"frontTitle": "διδάσκω",
+		"backTitle": "enseigner",
+		"backDescription": "double accusatif : enseigner qqch à qqn (acc) à propos de qqch (acc)"
 	},
 	{
-		"Question": "ἔχω",
-		"Answer": "avoir, posséder",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἔχω",
+		"backTitle": "avoir, posséder"
 	},
 	{
-		"Question": "λαμβάνω",
-		"Answer": "prendre, recevoir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "λαμβάνω",
+		"backTitle": "prendre, recevoir"
 	},
 	{
-		"Question": "λέγω",
-		"Answer": "dire, parler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "λέγω",
+		"backTitle": "dire, parler"
 	},
 	{
-		"Question": "λύω",
-		"Answer": "délier",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "λύω",
+		"backTitle": "délier"
 	},
 	{
-		"Question": "ζητέω",
-		"Answer": "chercher",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ζητέω",
+		"backTitle": "chercher"
 	},
 	{
-		"Question": "καλέω",
-		"Answer": "appeler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "καλέω",
+		"backTitle": "appeler"
 	},
 	{
-		"Question": "λαλέω",
-		"Answer": "paler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "λαλέω",
+		"backTitle": "paler"
 	},
 	{
-		"Question": "ποιέω",
-		"Answer": "faire, créer",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ποιέω",
+		"backTitle": "faire, créer"
 	},
 	{
-		"Question": "τηρέω",
-		"Answer": "garder, conserver",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "τηρέω",
+		"backTitle": "garder, conserver"
 	},
 	{
-		"Question": "φιλέω",
-		"Answer": "aimer",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "φιλέω",
+		"backTitle": "aimer"
 	},
 	{
-		"Question": "ἄγγελος",
-		"Answer": "le messager, l'ange",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἄγγελος",
+		"backTitle": "le messager, l'ange"
 	},
 	{
-		"Question": "ἀδελφός",
-		"Answer": "le frère",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀδελφός",
+		"backTitle": "le frère"
 	},
 	{
-		"Question": "ἄρτος",
-		"Answer": "le pain",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἄρτος",
+		"backTitle": "le pain"
 	},
 	{
-		"Question": "δοῦλος",
-		"Answer": "l'esclave, le serviteur",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δοῦλος",
+		"backTitle": "l'esclave, le serviteur"
 	},
 	{
-		"Question": "θεός",
-		"Answer": "(le) dieu",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "θεός",
+		"backTitle": "(le) dieu"
 	},
 	{
-		"Question": "κόσμος",
-		"Answer": "le monde",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "κόσμος",
+		"backTitle": "le monde"
 	},
 	{
-		"Question": "κύριος",
-		"Answer": "le seigneur, le maître",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "κύριος",
+		"backTitle": "le seigneur, le maître"
 	},
 	{
-		"Question": "λόγος",
-		"Answer": "le mot, la parole, le discours",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "λόγος",
+		"backTitle": "le mot, la parole, le discours"
 	},
 	{
-		"Question": "νόμος",
-		"Answer": "la loi",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "νόμος",
+		"backTitle": "la loi"
 	},
 	{
-		"Question": "οἶκος",
-		"Answer": "la maison, la maisonnée",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "οἶκος",
+		"backTitle": "la maison, la maisonnée"
 	},
 	{
-		"Question": "οὐρανός",
-		"Answer": "le ciel",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "οὐρανός",
+		"backTitle": "le ciel"
 	},
 	{
-		"Question": "ὄχλος",
-		"Answer": "la foule",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὄχλος",
+		"backTitle": "la foule"
 	},
 	{
-		"Question": "υἱός",
-		"Answer": "le fils",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "υἱός",
+		"backTitle": "le fils"
 	},
 	{
-		"Question": "Χριστός",
-		"Answer": "le christ, le messie",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Χριστός",
+		"backTitle": "le christ, le messie"
 	},
 	{
-		"Question": "ὁ, ἡ, τό",
-		"Answer": "le, la, les",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὁ, ἡ, τό",
+		"backTitle": "le, la, les"
 	},
 	{
-		"Question": "ἄνθρωπος",
-		"Answer": "l'être humain, l'individu, le personne, l'homme",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἄνθρωπος",
+		"backTitle": "l'être humain, l'individu, le personne, l'homme"
 	},
 	{
-		"Question": "λαός",
-		"Answer": "le peuple, la nation",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "λαός",
+		"backTitle": "le peuple, la nation"
 	},
 	{
-		"Question": "ἀγάπη",
-		"Answer": "l'amour",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀγάπη",
+		"backTitle": "l'amour"
 	},
 	{
-		"Question": "ἀδελφή",
-		"Answer": "la soeur",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀδελφή",
+		"backTitle": "la soeur"
 	},
 	{
-		"Question": "ἀρχή",
-		"Answer": "le début, le commencement",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀρχή",
+		"backTitle": "le début, le commencement"
 	},
 	{
-		"Question": "γῆ",
-		"Answer": "la terre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "γῆ",
+		"backTitle": "la terre"
 	},
 	{
-		"Question": "ζωή",
-		"Answer": "la vie",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ζωή",
+		"backTitle": "la vie"
 	},
 	{
-		"Question": "φωνή",
-		"Answer": "le son, la voix",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "φωνή",
+		"backTitle": "le son, la voix"
 	},
 	{
-		"Question": "ψυχή",
-		"Answer": "l'âme",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ψυχή",
+		"backTitle": "l'âme"
 	},
 	{
-		"Question": "ἁμαρτία",
-		"Answer": "le péché",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἁμαρτία",
+		"backTitle": "le péché"
 	},
 	{
-		"Question": "βασιλεία",
-		"Answer": "le règne, le royaume",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "βασιλεία",
+		"backTitle": "le règne, le royaume"
 	},
 	{
-		"Question": "ἐκκλησία",
-		"Answer": "l'assemblée",
-		"Image": "",
-		"Description": "puis ensuite l'Eglise"
+		"frontTitle": "ἐκκλησία",
+		"backTitle": "l'assemblée",
+		"backDescription": "puis ensuite l'Eglise"
 	},
 	{
-		"Question": "ἡμέρα", 
-		"Answer": "le jour",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἡμέρα",
+		"backTitle": "le jour"
 	},
 	{
-		"Question": "καρδία",
-		"Answer": "le coeur",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "καρδία",
+		"backTitle": "le coeur"
 	},
 	{
-		"Question": "Μαρία",
-		"Answer": "Marie",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Μαρία",
+		"backTitle": "Marie"
 	},
 	{
-		"Question": "Μαριάμ",
-		"Answer": "Μαρία",
-		"Image": "",
-		"Description": "Nom indéclinable, équivalent hébreu de Μαρία"
+		"frontTitle": "Μαριάμ",
+		"backTitle": "Μαρία",
+		"backDescription": "Nom indéclinable, équivalent hébreu de Μαρία"
 	},
 	{
-		"Question": "οἰκία",
-		"Answer": "la maison, la maisonnée ",
-		"Image": "",
-		"Description": "utilisé de manière interchangeable avec οἶκος"
+		"frontTitle": "οἰκία",
+		"backTitle": "la maison, la maisonnée ",
+		"backDescription": "utilisé de manière interchangeable avec οἶκος"
 	},
 	{
-		"Question": "ὥρα",
-		"Answer": "l'heure",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὥρα",
+		"backTitle": "l'heure"
 	},
 	{
-		"Question": "δόξα",
-		"Answer": "la gloire",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δόξα",
+		"backTitle": "la gloire"
 	},
 	{
-		"Question": "θάλασσα",
-		"Answer": "la mer",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "θάλασσα",
+		"backTitle": "la mer"
 	},
 	{
-		"Question": "βιβλίον",
-		"Answer": "le livre, le rouleau",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "βιβλίον",
+		"backTitle": "le livre, le rouleau"
 	},
 	{
-		"Question": "δαιμόνιον",
-		"Answer": "le démon",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δαιμόνιον",
+		"backTitle": "le démon"
 	},
 	{
-		"Question": "ἔργον",
-		"Answer": "l'oeuvre, le fait, le travail",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἔργον",
+		"backTitle": "l'oeuvre, le fait, le travail"
 	},
 	{
-		"Question": "εὐαγγέλιον",
-		"Answer": "la bonne nouvelle, l'évangile",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "εὐαγγέλιον",
+		"backTitle": "la bonne nouvelle, l'évangile"
 	},
 	{
-		"Question": "ἱερόν",
-		"Answer": "le temple",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἱερόν",
+		"backTitle": "le temple"
 	},
 	{
-		"Question": "πλοῖον",
-		"Answer": "la barque, le bateau",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πλοῖον",
+		"backTitle": "la barque, le bateau"
 	},
 	{
-		"Question": "πρόσωπον",
-		"Answer": "le visage",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πρόσωπον",
+		"backTitle": "le visage"
 	},
 	{
-		"Question": "σάββατον",
-		"Answer": "le sabbat",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "σάββατον",
+		"backTitle": "le sabbat"
 	},
 	{
-		"Question": "σημεῖον",
-		"Answer": "le signe, le miracle",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "σημεῖον",
+		"backTitle": "le signe, le miracle"
 	},
 	{
-		"Question": "τέκνον",
-		"Answer": "l'enfant",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "τέκνον",
+		"backTitle": "l'enfant"
 	},
 	{
-		"Question": "αὐτός, αὐτή, αὐτό",
-		"Answer": "le, lui, la, les, eux...",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "αὐτός, αὐτή, αὐτό",
+		"backTitle": "le, lui, la, les, eux..."
 	},
 	{
-		"Question": "Παῦλος",
-		"Answer": "Paul",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Παῦλος",
+		"backTitle": "Paul"
 	},
 	{
-		"Question": "Ἰησοῦς",
-		"Answer": "Jésus",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Ἰησοῦς",
+		"backTitle": "Jésus"
 	},
 	{
-		"Question": "Πέτρος",
-		"Answer": "Pierre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Πέτρος",
+		"backTitle": "Pierre"
 	},
 	{
-		"Question": "πιστεύω",
-		"Answer": "croire en, avoir foi en, faire confiance",
-		"Image": "",
-		"Description": "+ dat"
+		"frontTitle": "πιστεύω",
+		"backTitle": "croire en, avoir foi en, faire confiance",
+		"backDescription": "+ dat"
 	},
 	{
-		"Question": "ἀναβλέπω",
-		"Answer": "lever les yeux\n recouvrer la vue",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀναβλέπω",
+		"backTitle": "lever les yeux\n recouvrer la vue"
 	},
 	{
-		"Question": "ἀπολύω",
-		"Answer": "libérer, divorcer, délier",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀπολύω",
+		"backTitle": "libérer, divorcer, délier"
 	},
 	{
-		"Question": "ἐκβάλλω",
-		"Answer": "chasser, faire sortir, jeter hors de",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἐκβάλλω",
+		"backTitle": "chasser, faire sortir, jeter hors de"
 	},
 	{
-		"Question": "ἐπικαλέω",
-		"Answer": "nommer, appeler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἐπικαλέω",
+		"backTitle": "nommer, appeler"
 	},
 	{
-		"Question": "κατοικέω",
-		"Answer": "habiter",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "κατοικέω",
+		"backTitle": "habiter"
 	},
 	{
-		"Question": "παρακαλέω",
-		"Answer": "exhorter, demander, conforter, encourager",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "παρακαλέω",
+		"backTitle": "exhorter, demander, conforter, encourager"
 	},
 	{
-		"Question": "παραλαμβάνω",
-		"Answer": "emmener, recevoir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "παραλαμβάνω",
+		"backTitle": "emmener, recevoir"
 	},
 	{
-		"Question": "περιπατέω",
-		"Answer": "marcher, vivre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "περιπατέω",
+		"backTitle": "marcher, vivre"
 	},
 	{
-		"Question": "προσκυνέω",
-		"Answer": "adorer, se prosterner",
-		"Image": "",
-		"Description": "+ dat\nl'adoration (cf se prosterner) n'a pas un objet mais un bénéficiaire"
+		"frontTitle": "προσκυνέω",
+		"backTitle": "adorer, se prosterner",
+		"backDescription": "+ dat\nl'adoration (cf se prosterner) n'a pas un objet mais un bénéficiaire"
 	},
 	{
-		"Question": "συνάγω",
-		"Answer": "rassembler, mettre ensemble",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "συνάγω",
+		"backTitle": "rassembler, mettre ensemble"
 	},
 	{
-		"Question": "ὑπάγω",
-		"Answer": "partir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὑπάγω",
+		"backTitle": "partir"
 	},
 	{
-		"Question": "πῶς",
-		"Answer": "comment ?",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πῶς",
+		"backTitle": "comment ?"
 	},
 	{
-		"Question": "ποῦ",
-		"Answer": "où ?",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ποῦ",
+		"backTitle": "où ?"
 	},
 	{
-		"Question": "οὐ, οὐκ, οὐχ",
-		"Answer": "ne ... pas",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "οὐ, οὐκ, οὐχ",
+		"backTitle": "ne ... pas"
 	},
 	{
-		"Question": "ἀγαθός",
-		"Answer": "bon",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀγαθός",
+		"backTitle": "bon"
 	},
 	{
-		"Question": "ἀγαπητός",
-		"Answer": "aimé",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀγαπητός",
+		"backTitle": "aimé"
 	},
 	{
-		"Question": "ἅγιος",
-		"Answer": "saint",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἅγιος",
+		"backTitle": "saint"
 	},
 	{
-		"Question": "δίκαιος",
-		"Answer": "juste",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δίκαιος",
+		"backTitle": "juste"
 	},
 	{
-		"Question": "ἕκαστος",
-		"Answer": "chaque",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἕκαστος",
+		"backTitle": "chaque"
 	},
 	{
-		"Question": "ἕτερος",
-		"Answer": "autre, différent",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἕτερος",
+		"backTitle": "autre, différent"
 	},
 	{
-		"Question": "ἵδιος",
-		"Answer": "propre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἵδιος",
+		"backTitle": "propre"
 	},
 	{
-		"Question": "Ἰουδαῖος",
-		"Answer": "juif",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Ἰουδαῖος",
+		"backTitle": "juif"
 	},
 	{
-		"Question": "κακός",
-		"Answer": "mauvais",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "κακός",
+		"backTitle": "mauvais"
 	},
 	{
-		"Question": "καλός",
-		"Answer": "beau",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "καλός",
+		"backTitle": "beau"
 	},
 	{
-		"Question": "καινός",
-		"Answer": "nouveau",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "καινός",
+		"backTitle": "nouveau"
 	},
 	{
-		"Question": "μακάριος",
-		"Answer": "heureux, bienheureux",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μακάριος",
+		"backTitle": "heureux, bienheureux"
 	},
 	{
-		"Question": "μόνος",
-		"Answer": "seul, unique",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μόνος",
+		"backTitle": "seul, unique"
 	},
 	{
-		"Question": "νεκρός",
-		"Answer": "mort",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "νεκρός",
+		"backTitle": "mort"
 	},
 	{
-		"Question": "ὅσος",
-		"Answer": "combien ?",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὅσος",
+		"backTitle": "combien ?"
 	},
 	{
-		"Question": "πιστός",
-		"Answer": "croyant",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πιστός",
+		"backTitle": "croyant"
 	},
 	{
-		"Question": "πονηρός",
-		"Answer": "mal, maudit, mauvais",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πονηρός",
+		"backTitle": "mal, maudit, mauvais"
 	},
 	{
-		"Question": "τυφλός",
-		"Answer": "aveugle",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "τυφλός",
+		"backTitle": "aveugle"
 	},
 	{
-		"Question": "μέγας",
-		"Answer": "large, grand",
-		"Image": "",
-		"Description": "μέγας, μεγάλη, μέγα"
+		"frontTitle": "μέγας",
+		"backTitle": "large, grand",
+		"backDescription": "μέγας, μεγάλη, μέγα"
 	},
 	{
-		"Question": "πολύς",
-		"Answer": "beaucoup",
-		"Image": "",
-		"Description": "πολύς, πολλή, πολύ"
+		"frontTitle": "πολύς",
+		"backTitle": "beaucoup",
+		"backDescription": "πολύς, πολλή, πολύ"
 	},
 	{
-		"Question": "ἀλλά",
-		"Answer": "mais",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀλλά",
+		"backTitle": "mais"
 	},
 	{
-		"Question": "εἰ",
-		"Answer": "si",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "εἰ",
+		"backTitle": "si"
 	},
 	{
-		"Question": "ἤ",
-		"Answer": "ou",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἤ",
+		"backTitle": "ou"
 	},
 	{
-		"Question": "ὡς",
-		"Answer": "comme",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὡς",
+		"backTitle": "comme"
 	},
 	{
-		"Question": "Γαλιλαία",
-		"Answer": "La Galilée",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Γαλιλαία",
+		"backTitle": "La Galilée"
 	},
 	{
-		"Question": "εἰρήνη",
-		"Answer": "la paix",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "εἰρήνη",
+		"backTitle": "la paix"
 	},
 	{
-		"Question": "κεφαλή",
-		"Answer": "la tête",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "κεφαλή",
+		"backTitle": "la tête"
 	},
 	{
-		"Question": "συναγωγή",
-		"Answer": "la synagogue",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "συναγωγή",
+		"backTitle": "la synagogue"
 	},
 	{
-		"Question": "καιρός",
-		"Answer": "le temps, la saison",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "καιρός",
+		"backTitle": "le temps, la saison"
 	},
 	{
-		"Question": "εἰμί",
-		"Answer": "je suis",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "εἰμί",
+		"backTitle": "je suis"
 	},
 	{
-		"Question": "αἰώνιος",
-		"Answer": "éternel",
-		"Image": "",
-		"Description": "Il prend les désinences du masculin même lorsqu'il s'accorde avec un nom féminin"
+		"frontTitle": "αἰώνιος",
+		"backTitle": "éternel",
+		"backDescription": "Il prend les désinences du masculin même lorsqu'il s'accorde avec un nom féminin"
 	},
 	{
-		"Question": "ἀνοίγω",
-		"Answer": "ouvrir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀνοίγω",
+		"backTitle": "ouvrir"
 	},
 	{
-		"Question": "ἀποκαλύπτω",
-		"Answer": "révéler, dévoiler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀποκαλύπτω",
+		"backTitle": "révéler, dévoiler"
 	},
 	{
-		"Question": "βαπτίζω",
-		"Answer": "plonger, baptiser",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "βαπτίζω",
+		"backTitle": "plonger, baptiser"
 	},
 	{
-		"Question": "γράφω",
-		"Answer": "écrire",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "γράφω",
+		"backTitle": "écrire"
 	},
 	{
-		"Question": "διώκω",
-		"Answer": "persécuter, poursuivre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "διώκω",
+		"backTitle": "persécuter, poursuivre"
 	},
 	{
-		"Question": "δοξάζω",
-		"Answer": "glorifier",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δοξάζω",
+		"backTitle": "glorifier"
 	},
 	{
-		"Question": "κηρύσσω",
-		"Answer": "proclamer, prêcher",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "κηρύσσω",
+		"backTitle": "proclamer, prêcher"
 	},
 	{
-		"Question": "κράζω",
-		"Answer": "crier",
-		"Image": "",
-		"Description": "se comporte comme si le verte était en réalité κρασσω"
+		"frontTitle": "κράζω",
+		"backTitle": "crier",
+		"backDescription": "se comporte comme si le verte était en réalité κρασσω"
 	},
 	{
-		"Question": "πέμπω",
-		"Answer": "envoyer",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πέμπω",
+		"backTitle": "envoyer"
 	},
 	{
-		"Question": "πείθω",
-		"Answer": "persuader, convaincre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πείθω",
+		"backTitle": "persuader, convaincre"
 	},
 	{
-		"Question": "προσέχω",
-		"Answer": "faire attention à",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "προσέχω",
+		"backTitle": "faire attention à"
 	},
 	{
-		"Question": "σώζω",
-		"Answer": "sauver, soigner",
-		"Image": "",
-		"Description": "écrit aussi σῴζω"
+		"frontTitle": "σώζω",
+		"backTitle": "sauver, soigner",
+		"backDescription": "écrit aussi σῴζω"
 	},
 	{
-		"Question": "ὑπαρχω",
-		"Answer": "exister",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὑπαρχω",
+		"backTitle": "exister"
 	},
 	{
-		"Question": "αἰτέω",
-		"Answer": "demander",
-		"Image": "",
-		"Description": "double accusatif - demander qqch à qqn"
+		"frontTitle": "αἰτέω",
+		"backTitle": "demander",
+		"backDescription": "double accusatif - demander qqch à qqn"
 	},
 	{
-		"Question": "εὐλογέω",
-		"Answer": "parler en bien, bénir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "εὐλογέω",
+		"backTitle": "parler en bien, bénir"
 	},
 	{
-		"Question": "εὐχαριστέω",
-		"Answer": "remercier",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "εὐχαριστέω",
+		"backTitle": "remercier"
 	},
 	{
-		"Question": "οἰκοδομέω",
-		"Answer": "construire, édifier",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "οἰκοδομέω",
+		"backTitle": "construire, édifier"
 	},
 	{
-		"Question": "ἄρτι",
-		"Answer": "maintenant",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἄρτι",
+		"backTitle": "maintenant"
 	},
 	{
-		"Question": "ἐτι",
-		"Answer": "encore",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἐτι",
+		"backTitle": "encore"
 	},
 	{
-		"Question": "ἤδη",
-		"Answer": "déjà",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἤδη",
+		"backTitle": "déjà"
 	},
 	{
-		"Question": "νῦν",
-		"Answer": "maintenant",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "νῦν",
+		"backTitle": "maintenant"
 	},
 	{
-		"Question": "ὅτε",
-		"Answer": "quand, lorsque",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὅτε",
+		"backTitle": "quand, lorsque"
 	},
 	{
-		"Question": "οὐκέτι",
-		"Answer": "ne ... plus",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "οὐκέτι",
+		"backTitle": "ne ... plus"
 	},
 	{
-		"Question": "οὔπω",
-		"Answer": "pas encore",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "οὔπω",
+		"backTitle": "pas encore"
 	},
 	{
-		"Question": "πάλιν",
-		"Answer": "de nouveau, encore",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πάλιν",
+		"backTitle": "de nouveau, encore"
 	},
 	{
-		"Question": "πάντοτε",
-		"Answer": "toujours",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πάντοτε",
+		"backTitle": "toujours"
 	},
 	{
-		"Question": "ποτέ",
-		"Answer": "un jour, autrefois",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ποτέ",
+		"backTitle": "un jour, autrefois"
 	},
 	{
-		"Question": "σήμερον",
-		"Answer": "aujourd'hui",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "σήμερον",
+		"backTitle": "aujourd'hui"
 	},
 	{
-		"Question": "τότε",
-		"Answer": "alors",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "τότε",
+		"backTitle": "alors"
 	},
 	{
-		"Question": "δύο",
-		"Answer": "deux",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δύο",
+		"backTitle": "deux"
 	},
 	{
-		"Question": "Τιμόθεος",
-		"Answer": "Timothée",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Τιμόθεος",
+		"backTitle": "Timothée"
 	},
 	{
-		"Question": "τόπος",
-		"Answer": "le lieu",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "τόπος",
+		"backTitle": "le lieu"
 	},
 	{
-		"Question": "δικαιοσύνη",
-		"Answer": "la justice",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δικαιοσύνη",
+		"backTitle": "la justice"
 	},
 	{
-		"Question": "ἐντολή",
-		"Answer": "le commandement, le précepte",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἐντολή",
+		"backTitle": "le commandement, le précepte"
 	},
 	{
-		"Question": "ἐξουσία",
-		"Answer": "l'autorité",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἐξουσία",
+		"backTitle": "l'autorité"
 	},
 	{
-		"Question": "παραβολή",
-		"Answer": "la parabole",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "παραβολή",
+		"backTitle": "la parabole"
 	},
 	{
-		"Question": "παρρησία",
-		"Answer": "la franchise",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "παρρησία",
+		"backTitle": "la franchise"
 	},
 	{
-		"Question": "χαρά",
-		"Answer": "la joie",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "χαρά",
+		"backTitle": "la joie"
 	},
 	{
-		"Question": "ἀπόστολος",
-		"Answer": "l'apôtre",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀπόστολος",
+		"backTitle": "l'apôtre"
 	},
 	{
-		"Question": "θάνατος",
-		"Answer": "la mort",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "θάνατος",
+		"backTitle": "la mort"
 	},
 	{
-		"Question": "ὀφθαλμός",
-		"Answer": "l'oeil",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ὀφθαλμός",
+		"backTitle": "l'oeil"
 	},
 	{
-		"Question": "Φαρισαῖος",
-		"Answer": "le Pharisien",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "Φαρισαῖος",
+		"backTitle": "le Pharisien"
 	},
 	{
-		"Question": "θηρίον",
-		"Answer": "l'animal, la bête",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "θηρίον",
+		"backTitle": "l'animal, la bête"
 	},
 	{
-		"Question": "ἱμάτιον",
-		"Answer": "le vêtement, la chemise, l'himation",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἱμάτιον",
+		"backTitle": "le vêtement, la chemise, l'himation"
 	},
 	{
-		"Question": "μνημεῖον",
-		"Answer": "la tombe, le monument",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μνημεῖον",
+		"backTitle": "la tombe, le monument"
 	},
 	{
-		"Question": "πρόβατον",
-		"Answer": "le mouton",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "πρόβατον",
+		"backTitle": "le mouton"
 	},
 	{
-		"Question": "μή",
-		"Answer": "ne ... pas, non",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μή",
+		"backTitle": "ne ... pas, non"
 	},
 	{
-		"Question": "μηδέ",
-		"Answer": "et ne ... pas, mais ne ... pas",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μηδέ",
+		"backTitle": "et ne ... pas, mais ne ... pas"
 	},
 	{
-		"Question": "μηκέτι",
-		"Answer": "ne .. plus, pas davantage",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μηκέτι",
+		"backTitle": "ne .. plus, pas davantage"
 	},
 	{
-		"Question": "μήτε",
-		"Answer": "et ne ... pas",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μήτε",
+		"backTitle": "et ne ... pas"
 	},
 	{
-		"Question": "ἀκολουθέω",
-		"Answer": "suivre",
-		"Image": "",
-		"Description": "+ dat"
+		"frontTitle": "ἀκολουθέω",
+		"backTitle": "suivre",
+		"backDescription": "+ dat"
 	},
 	{
-		"Question": "ἀνάγω",
-		"Answer": "faire monter, restaurer",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἀνάγω",
+		"backTitle": "faire monter, restaurer"
 	},
 	{
-		"Question": "δέω",
-		"Answer": "lier",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δέω",
+		"backTitle": "lier"
 	},
 	{
-		"Question": "δοκέω",
-		"Answer": "penser, sembler",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δοκέω",
+		"backTitle": "penser, sembler"
 	},
 	{
-		"Question": "ἐλεέω",
-		"Answer": "avoir pitité",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἐλεέω",
+		"backTitle": "avoir pitité"
 	},
 	{
-		"Question": "θέλω",
-		"Answer": "vouloir",
-		"Image": "",
-		"Description": "imparfait: ἤθελον\nfutur: θελήσω\naoriste: ἠθέκησα"
+		"frontTitle": "θέλω",
+		"backTitle": "vouloir",
+		"backDescription": "imparfait: ἤθελον\nfutur: θελήσω\naoriste: ἠθέκησα"
 	},
 	{
-		"Question": "θεωρέω",
-		"Answer": "regarder",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "θεωρέω",
+		"backTitle": "regarder"
 	},
 	{
-		"Question": "καταργέω",
-		"Answer": "rendre ineffectif, abolir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "καταργέω",
+		"backTitle": "rendre ineffectif, abolir"
 	},
 	{
-		"Question": "μαρτυρέω",
-		"Answer": "témoigner",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μαρτυρέω",
+		"backTitle": "témoigner"
 	},
 	{
-		"Question": "μέλλω",
-		"Answer": "être sur le point de, avoir l'intention de",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μέλλω",
+		"backTitle": "être sur le point de, avoir l'intention de"
 	},
 	{
-		"Question": "μετανοέω",
-		"Answer": "se repentir, se convertir",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "μετανοέω",
+		"backTitle": "se repentir, se convertir"
 	},
 	{
-		"Question": "δεῖ",
-		"Answer": "il faut",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "δεῖ",
+		"backTitle": "il faut"
 	},
 	{
-		"Question": "ἔξεστι",
-		"Answer": "il est permis",
-		"Image": "",
-		"Description": ""
+		"frontTitle": "ἔξεστι",
+		"backTitle": "il est permis"
 	}
 ]

@@ -1,212 +1,254 @@
 [
-	{
-		"frontTitle": "א",
-		"backTitle": "אָ֫לֶף – Alèf",
-		"backDescription": "On prononce uniquement la voyelle qui accompagne cette lettre (comme un H muet en français : hérisson)."
-	},
-	{
-		"frontTitle": "בּ ב",
-		"backTitle": "בֵּית – Bèt",
-		"backDescription": "Avec un Dagesh (point): b\nSans Dagesh : v"
-	},
-	{
-		"frontTitle": "ג",
-		"backTitle": "גִּ֫ימֶל – Guimèl",
-		"backDescription": "g (comme dans « garder »)"
-	},
-	{
-		"frontTitle": "ד",
-		"backTitle": "דָּ֫לֶת – Dalèt",
-		"backDescription": "d"
-	},
-	{
-		"frontTitle": "ה",
-		"backTitle": "הֵא – Hè",
-		"backDescription": "h (aspiré)"
-	},
-	{
-		"frontTitle": "ו",
-		"backTitle": "וָו – Vav",
-		"backDescription": "v"
-	},
-	{
-		"frontTitle": "ז",
-		"backTitle": "זַ֫יִן – Zayin",
-		"backDescription": "z"
-	},
-	{
-		"frontTitle": "ח",
-		"backTitle": "חֵית – Ḥèt",
-		"backDescription": "Deux prononciations courantes : 1. comme ح en arabe (consonne gutturale fricative prononcée au niveau de la base de la langue). \n2. Comme ch en allemand dans « Bach », خ en arabe."
-	},
-	{
-		"frontTitle": "ט",
-		"backTitle": "טֵית – Tèt",
-		"backDescription": "t"
-	},
-	{
-		"frontTitle": "י",
-		"backTitle": "יוֹד – Yod",
-		"backDescription": "y"
-	},
-	{
-		"frontTitle": "כּ כ",
-		"backTitle": "כַּף – Kaf",
-		"backDescription": "Avec un Dagesh (point) : k\nSans Dagesh : comme ch en allemand dans « Bach », خ en arabe."
-	},
-	{
-		"frontTitle": "ךּ ך",
-		"backTitle": "כַּף – Kaf\n(forme finale)",
-		"backDescription": "Avec un Dagesh (point) : k\nSans Dagesh : comme ch en allemand dans « Bach », خ en arabe."
-	},
-	{
-		"frontTitle": "ל",
-		"backTitle": "לָ֫מֶד – Lamèd",
-		"backDescription": "l"
-	},
-	{
-		"frontTitle": "מ",
-		"backTitle": "מֵם – Mèm",
-		"backDescription": "m"
-	},
-	{
-		"frontTitle": "ם",
-		"backTitle": "מֵם – Mèm\n(forme finale)",
-		"backDescription": "m"
-	},
-	{
-		"frontTitle": "נ",
-		"backTitle": "נוּן – Noun",
-		"backDescription": "n"
-	},
-	{
-		"frontTitle": "ן",
-		"backTitle": "נוּן – Noun\n(forme finale)",
-		"backDescription": "n"
-	},
-	{
-		"frontTitle": "ס",
-		"backTitle": "סָ֫מֶךְ – Samèkh",
-		"backDescription": "s"
-	},
-	{
-		"frontTitle": "ע",
-		"backTitle": "עַ֫יִן – Ayin",
-		"backDescription": "Deux prononciations courantes : \n1. comme ع en arabe (consonne gutturale prononcée au niveau de la base de la langue). \n2. On prononce uniquement la voyelle qui accompagne la lettre (comme un H muet en français : hérisson)."
-	},
-	{
-		"frontTitle": "פּ פ",
-		"backTitle": "פֵּה – Pè",
-		"backDescription": "Avec un Dagesh (point) : p\nSans Dagesh : f"
-	},
-	{
-		"frontTitle": "ף",
-		"backTitle": "פֵּה – Pè\n(forme finale)",
-		"backDescription": "Avec un Dagesh (point) : p\nSans Dagesh : f"
-	},
-	{
-		"frontTitle": "צ",
-		"backTitle": "צָ֫דֵי – Tsadè",
-		"backDescription": "ts"
-	},
-	{
-		"frontTitle": "ץ",
-		"backTitle": "צָ֫דֵי – Tsadè\n(forme finale)",
-		"backDescription": "ts"
-	},
-	{
-		"frontTitle": "ק",
-		"backTitle": "קוֹף – Kof",
-		"backDescription": "k"
-	},
-	{
-		"frontTitle": "ר",
-		"backTitle": "רֵישׁ – Rèsh",
-		"backDescription": "r"
-	},
-	{
-		"frontTitle": "שׁ",
-		"backTitle": "שִׁין – Shin",
-		"backDescription": "sh"
-	},
-	{
-		"frontTitle": "שׂ",
-		"backTitle": "שִׂין – Sin",
-		"backDescription": "s"
-	},
-	{
-		"frontTitle": "ת",
-		"backTitle": "תָּו – Tav",
-		"backDescription": "t"
-	},
-	{
-		"frontTitle": "דָ",
-		"backTitle": "a\nקָמֵץ גָּדוֹל\nQamèts long",
-		"backDescription": "Voyelle longue"
-	},
-	{
-		"frontTitle": "דַ",
-		"backTitle": "a\nפָּתַח\nPataḥ",
-		"backDescription": "Voyelle brève"
-	},
-	{
-		"frontTitle": "אֲ",
-		"backTitle": "a\nחֲטֵף פָּתַח\nḤatèf Pataḥ",
-		"backDescription": "Ḥatèf"
-	},
-	{
-		"frontTitle": "דֵ דֵי",
-		"backTitle": "é\nצֵרֵי חָסֵר / מָלֵא\nTsèrè manquant / plein",
-		"backDescription": "Voyelle longue"
-	},
-	{
-		"frontTitle": "דֶ",
-		"backTitle": "é\nסֶגוֹל\nSègol",
-		"backDescription": "Voyelle brève"
-	},
-	{
-		"frontTitle": "אֱ",
-		"backTitle": "é\nחֲטֵף סֶגוֹל\nḤatèf Sègol",
-		"backDescription": "Ḥatèf"
-	},
-	{
-		"frontTitle": "דִי",
-		"backTitle": "i\nחִירֶק מָלֵא\nḤirèq plein",
-		"backDescription": "Voyelle longue"
-	},
-	{
-		"frontTitle": "דִ",
-		"backTitle": "i\nחִירֶק חָסֵר\nḤirèq manquant",
-		"backDescription": "Voyelle brève"
-	},
-	{
-		"frontTitle": "דֹ דוֹ",
-		"backTitle": "o\nחוֹלֶם חָסֵר / מָלֵא\nḤolèm manquant / plein",
-		"backDescription": "Voyelle longue"
-	},
-	{
-		"frontTitle": "דָ",
-		"backTitle": "o\nקָמֵץ קָטָן\nQamèts bref",
-		"backDescription": "Voyelle brève"
-	},
-	{
-		"frontTitle": "אֳ",
-		"backTitle": "o\nחֲטֵף קָמֵץ\nḤatèf Qamèts",
-		"backDescription": "Ḥatèf"
-	},
-	{
-		"frontTitle": "דוּ",
-		"backTitle": "ou\nשׁוּרֶק\nShourèq",
-		"backDescription": "Voyelle longue"
-	},
-	{
-		"frontTitle": "דֻ",
-		"backTitle": "ou\nקִבּוּץ\nQibbouts",
-		"backDescription": "Voyelle brève"
-	},
-	{
-		"frontTitle": "דְ",
-		"backTitle": "∅ / é\nשְׁוָא\nSheva",
-		"backDescription": ""
-	}
+ {
+  "frontTitle": "א",
+  "backTitle": "אָ֫לֶף – Alèf",
+  "backDescription": "On prononce uniquement la voyelle qui accompagne cette lettre (comme un H muet en français : hérisson).",
+  "id": "0001"
+ },
+ {
+  "frontTitle": "בּ ב",
+  "backTitle": "בֵּית – Bèt",
+  "backDescription": "Avec un Dagesh (point): b\nSans Dagesh : v",
+  "id": "0002"
+ },
+ {
+  "frontTitle": "ג",
+  "backTitle": "גִּ֫ימֶל – Guimèl",
+  "backDescription": "g (comme dans « garder »)",
+  "id": "0003"
+ },
+ {
+  "frontTitle": "ד",
+  "backTitle": "דָּ֫לֶת – Dalèt",
+  "backDescription": "d",
+  "id": "0004"
+ },
+ {
+  "frontTitle": "ה",
+  "backTitle": "הֵא – Hè",
+  "backDescription": "h (aspiré)",
+  "id": "0005"
+ },
+ {
+  "frontTitle": "ו",
+  "backTitle": "וָו – Vav",
+  "backDescription": "v",
+  "id": "0006"
+ },
+ {
+  "frontTitle": "ז",
+  "backTitle": "זַ֫יִן – Zayin",
+  "backDescription": "z",
+  "id": "0007"
+ },
+ {
+  "frontTitle": "ח",
+  "backTitle": "חֵית – Ḥèt",
+  "backDescription": "Deux prononciations courantes : 1. comme ح en arabe (consonne gutturale fricative prononcée au niveau de la base de la langue). \n2. Comme ch en allemand dans « Bach », خ en arabe.",
+  "id": "0008"
+ },
+ {
+  "frontTitle": "ט",
+  "backTitle": "טֵית – Tèt",
+  "backDescription": "t",
+  "id": "0009"
+ },
+ {
+  "frontTitle": "י",
+  "backTitle": "יוֹד – Yod",
+  "backDescription": "y",
+  "id": "0010"
+ },
+ {
+  "frontTitle": "כּ כ",
+  "backTitle": "כַּף – Kaf",
+  "backDescription": "Avec un Dagesh (point) : k\nSans Dagesh : comme ch en allemand dans « Bach », خ en arabe.",
+  "id": "0011"
+ },
+ {
+  "frontTitle": "ךּ ך",
+  "backTitle": "כַּף – Kaf\n(forme finale)",
+  "backDescription": "Avec un Dagesh (point) : k\nSans Dagesh : comme ch en allemand dans « Bach », خ en arabe.",
+  "id": "0012"
+ },
+ {
+  "frontTitle": "ל",
+  "backTitle": "לָ֫מֶד – Lamèd",
+  "backDescription": "l",
+  "id": "0013"
+ },
+ {
+  "frontTitle": "מ",
+  "backTitle": "מֵם – Mèm",
+  "backDescription": "m",
+  "id": "0014"
+ },
+ {
+  "frontTitle": "ם",
+  "backTitle": "מֵם – Mèm\n(forme finale)",
+  "backDescription": "m",
+  "id": "0015"
+ },
+ {
+  "frontTitle": "נ",
+  "backTitle": "נוּן – Noun",
+  "backDescription": "n",
+  "id": "0016"
+ },
+ {
+  "frontTitle": "ן",
+  "backTitle": "נוּן – Noun\n(forme finale)",
+  "backDescription": "n",
+  "id": "0017"
+ },
+ {
+  "frontTitle": "ס",
+  "backTitle": "סָ֫מֶךְ – Samèkh",
+  "backDescription": "s",
+  "id": "0018"
+ },
+ {
+  "frontTitle": "ע",
+  "backTitle": "עַ֫יִן – Ayin",
+  "backDescription": "Deux prononciations courantes : \n1. comme ع en arabe (consonne gutturale prononcée au niveau de la base de la langue). \n2. On prononce uniquement la voyelle qui accompagne la lettre (comme un H muet en français : hérisson).",
+  "id": "0019"
+ },
+ {
+  "frontTitle": "פּ פ",
+  "backTitle": "פֵּה – Pè",
+  "backDescription": "Avec un Dagesh (point) : p\nSans Dagesh : f",
+  "id": "0020"
+ },
+ {
+  "frontTitle": "ף",
+  "backTitle": "פֵּה – Pè\n(forme finale)",
+  "backDescription": "Avec un Dagesh (point) : p\nSans Dagesh : f",
+  "id": "0021"
+ },
+ {
+  "frontTitle": "צ",
+  "backTitle": "צָ֫דֵי – Tsadè",
+  "backDescription": "ts",
+  "id": "0022"
+ },
+ {
+  "frontTitle": "ץ",
+  "backTitle": "צָ֫דֵי – Tsadè\n(forme finale)",
+  "backDescription": "ts",
+  "id": "0023"
+ },
+ {
+  "frontTitle": "ק",
+  "backTitle": "קוֹף – Kof",
+  "backDescription": "k",
+  "id": "0024"
+ },
+ {
+  "frontTitle": "ר",
+  "backTitle": "רֵישׁ – Rèsh",
+  "backDescription": "r",
+  "id": "0025"
+ },
+ {
+  "frontTitle": "שׁ",
+  "backTitle": "שִׁין – Shin",
+  "backDescription": "sh",
+  "id": "0026"
+ },
+ {
+  "frontTitle": "שׂ",
+  "backTitle": "שִׂין – Sin",
+  "backDescription": "s",
+  "id": "0027"
+ },
+ {
+  "frontTitle": "ת",
+  "backTitle": "תָּו – Tav",
+  "backDescription": "t",
+  "id": "0028"
+ },
+ {
+  "frontTitle": "דָ",
+  "backTitle": "a\nקָמֵץ גָּדוֹל\nQamèts long",
+  "backDescription": "Voyelle longue",
+  "id": "0029"
+ },
+ {
+  "frontTitle": "דַ",
+  "backTitle": "a\nפָּתַח\nPataḥ",
+  "backDescription": "Voyelle brève",
+  "id": "0030"
+ },
+ {
+  "frontTitle": "אֲ",
+  "backTitle": "a\nחֲטֵף פָּתַח\nḤatèf Pataḥ",
+  "backDescription": "Ḥatèf",
+  "id": "0031"
+ },
+ {
+  "frontTitle": "דֵ דֵי",
+  "backTitle": "é\nצֵרֵי חָסֵר / מָלֵא\nTsèrè manquant / plein",
+  "backDescription": "Voyelle longue",
+  "id": "0032"
+ },
+ {
+  "frontTitle": "דֶ",
+  "backTitle": "é\nסֶגוֹל\nSègol",
+  "backDescription": "Voyelle brève",
+  "id": "0033"
+ },
+ {
+  "frontTitle": "אֱ",
+  "backTitle": "é\nחֲטֵף סֶגוֹל\nḤatèf Sègol",
+  "backDescription": "Ḥatèf",
+  "id": "0034"
+ },
+ {
+  "frontTitle": "דִי",
+  "backTitle": "i\nחִירֶק מָלֵא\nḤirèq plein",
+  "backDescription": "Voyelle longue",
+  "id": "0035"
+ },
+ {
+  "frontTitle": "דִ",
+  "backTitle": "i\nחִירֶק חָסֵר\nḤirèq manquant",
+  "backDescription": "Voyelle brève",
+  "id": "0036"
+ },
+ {
+  "frontTitle": "דֹ דוֹ",
+  "backTitle": "o\nחוֹלֶם חָסֵר / מָלֵא\nḤolèm manquant / plein",
+  "backDescription": "Voyelle longue",
+  "id": "0037"
+ },
+ {
+  "frontTitle": "דָ",
+  "backTitle": "o\nקָמֵץ קָטָן\nQamèts bref",
+  "backDescription": "Voyelle brève",
+  "id": "0038"
+ },
+ {
+  "frontTitle": "אֳ",
+  "backTitle": "o\nחֲטֵף קָמֵץ\nḤatèf Qamèts",
+  "backDescription": "Ḥatèf",
+  "id": "0039"
+ },
+ {
+  "frontTitle": "דוּ",
+  "backTitle": "ou\nשׁוּרֶק\nShourèq",
+  "backDescription": "Voyelle longue",
+  "id": "0040"
+ },
+ {
+  "frontTitle": "דֻ",
+  "backTitle": "ou\nקִבּוּץ\nQibbouts",
+  "backDescription": "Voyelle brève",
+  "id": "0041"
+ },
+ {
+  "frontTitle": "דְ",
+  "backTitle": "∅ / é\nשְׁוָא\nSheva",
+  "backDescription": "",
+  "id": "0042"
+ }
 ]

@@ -1,893 +1,1093 @@
 [
-	{
-		"frontTitle": "ἀπό",
-		"backTitle": "loin de",
-		"backDescription": "+ gén",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "διά",
-		"backTitle": "",
-		"backDescription": "+ acc - à cause de, grace à\n+ gén - à travers",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "εἰς",
-		"backTitle": "vers, dans (+ mouvement), en vue de",
-		"backDescription": "+ acc",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ἐκ",
-		"backTitle": "hors de, de",
-		"backDescription": "+ gén",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ἐν",
-		"backTitle": "dans, grâce à (rare)",
-		"backDescription": "+ dat",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ἐνώπιον",
-		"backTitle": "devant, en présence de",
-		"backDescription": "+ gén",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ἔξω",
-		"backTitle": "hors de, en dehors",
-		"backDescription": "+ gén",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ἐπί",
-		"backTitle": "",
-		"backDescription": "+ acc - au dessus, sur (avec mouvement)\n+ gén - à l'époque de, sur (localisaton)\n+ dat - sur, dans, sur la base de",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ἕως",
-		"backTitle": "jusqu'à",
-		"backDescription": "+ gen",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "κατά",
-		"backTitle": "",
-		"backDescription": "+ acc - selon\n+ gén - contre, en opposition à",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "μετά",
-		"backTitle": "",
-		"backDescription": "+ acc - après\n+ gén - avec",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "παρά",
-		"backTitle": "",
-		"backDescription": "+ acc - le long de\n+ gén - d'auprès de\n+ dat - de (sans mouvement)",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "περί",
-		"backTitle": "",
-		"backDescription": "+ acc - autour, approximativement\n+ gén - à propos de",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "πρό",
-		"backTitle": "avant",
-		"backDescription": "+ gén",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "πρός",
-		"backTitle": "vers, en direction de",
-		"backDescription": "+ acc",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "σύν",
-		"backTitle": "avec",
-		"backDescription": "+ dat",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ὑπέρ",
-		"backTitle": "",
-		"backDescription": "+ acc - au dessus de\n+ gén - au nom de, à cause de, pour",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ὑπό",
-		"backTitle": "",
-		"backDescription": "+ acc - au-dessous, sous\n+ gén - par, grâce à",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "ὀπίσω",
-		"backTitle": "derrrière",
-		"backDescription": "+ gén",
-		"tags": [
-			"Préposition"
-		]
-	},
-	{
-		"frontTitle": "᾽Αβραάμ",
-		"backTitle": "Abraham"
-	},
-	{
-		"frontTitle": "ἀμήν",
-		"backTitle": "amen"
-	},
-	{
-		"frontTitle": "Δαυίδ",
-		"backTitle": "David"
-	},
-	{
-		"frontTitle": "ῥαββί",
-		"backTitle": "rabbi"
-	},
-	{
-		"frontTitle": "Ἰακώβ",
-		"backTitle": "Jacob"
-	},
-	{
-		"frontTitle": "Ἰσραήλ",
-		"backTitle": "Israël"
-	},
-	{
-		"frontTitle": "Ἰωσήφ",
-		"backTitle": "Joseph"
-	},
-	{
-		"frontTitle": "καί",
-		"backTitle": "et"
-	},
-	{
-		"frontTitle": "ἄγω",
-		"backTitle": "conduire, guider"
-	},
-	{
-		"frontTitle": "ἀκούω",
-		"backTitle": "écouter, entendre",
-		"backDescription": "+ gén de la personne entendue\n+ acc de la chose entendue"
-	},
-	{
-		"frontTitle": "βάλλω",
-		"backTitle": "jeter"
-	},
-	{
-		"frontTitle": "βλέπω",
-		"backTitle": "voir, regarder"
-	},
-	{
-		"frontTitle": "διδάσκω",
-		"backTitle": "enseigner",
-		"backDescription": "double accusatif : enseigner qqch à qqn (acc) à propos de qqch (acc)"
-	},
-	{
-		"frontTitle": "ἔχω",
-		"backTitle": "avoir, posséder"
-	},
-	{
-		"frontTitle": "λαμβάνω",
-		"backTitle": "prendre, recevoir"
-	},
-	{
-		"frontTitle": "λέγω",
-		"backTitle": "dire, parler"
-	},
-	{
-		"frontTitle": "λύω",
-		"backTitle": "délier"
-	},
-	{
-		"frontTitle": "ζητέω",
-		"backTitle": "chercher"
-	},
-	{
-		"frontTitle": "καλέω",
-		"backTitle": "appeler"
-	},
-	{
-		"frontTitle": "λαλέω",
-		"backTitle": "paler"
-	},
-	{
-		"frontTitle": "ποιέω",
-		"backTitle": "faire, créer"
-	},
-	{
-		"frontTitle": "τηρέω",
-		"backTitle": "garder, conserver"
-	},
-	{
-		"frontTitle": "φιλέω",
-		"backTitle": "aimer"
-	},
-	{
-		"frontTitle": "ἄγγελος",
-		"backTitle": "le messager, l'ange"
-	},
-	{
-		"frontTitle": "ἀδελφός",
-		"backTitle": "le frère"
-	},
-	{
-		"frontTitle": "ἄρτος",
-		"backTitle": "le pain"
-	},
-	{
-		"frontTitle": "δοῦλος",
-		"backTitle": "l'esclave, le serviteur"
-	},
-	{
-		"frontTitle": "θεός",
-		"backTitle": "(le) dieu"
-	},
-	{
-		"frontTitle": "κόσμος",
-		"backTitle": "le monde"
-	},
-	{
-		"frontTitle": "κύριος",
-		"backTitle": "le seigneur, le maître"
-	},
-	{
-		"frontTitle": "λόγος",
-		"backTitle": "le mot, la parole, le discours"
-	},
-	{
-		"frontTitle": "νόμος",
-		"backTitle": "la loi"
-	},
-	{
-		"frontTitle": "οἶκος",
-		"backTitle": "la maison, la maisonnée"
-	},
-	{
-		"frontTitle": "οὐρανός",
-		"backTitle": "le ciel"
-	},
-	{
-		"frontTitle": "ὄχλος",
-		"backTitle": "la foule"
-	},
-	{
-		"frontTitle": "υἱός",
-		"backTitle": "le fils"
-	},
-	{
-		"frontTitle": "Χριστός",
-		"backTitle": "le christ, le messie"
-	},
-	{
-		"frontTitle": "ὁ, ἡ, τό",
-		"backTitle": "le, la, les"
-	},
-	{
-		"frontTitle": "ἄνθρωπος",
-		"backTitle": "l'être humain, l'individu, le personne, l'homme"
-	},
-	{
-		"frontTitle": "λαός",
-		"backTitle": "le peuple, la nation"
-	},
-	{
-		"frontTitle": "ἀγάπη",
-		"backTitle": "l'amour"
-	},
-	{
-		"frontTitle": "ἀδελφή",
-		"backTitle": "la soeur"
-	},
-	{
-		"frontTitle": "ἀρχή",
-		"backTitle": "le début, le commencement"
-	},
-	{
-		"frontTitle": "γῆ",
-		"backTitle": "la terre"
-	},
-	{
-		"frontTitle": "ζωή",
-		"backTitle": "la vie"
-	},
-	{
-		"frontTitle": "φωνή",
-		"backTitle": "le son, la voix"
-	},
-	{
-		"frontTitle": "ψυχή",
-		"backTitle": "l'âme"
-	},
-	{
-		"frontTitle": "ἁμαρτία",
-		"backTitle": "le péché"
-	},
-	{
-		"frontTitle": "βασιλεία",
-		"backTitle": "le règne, le royaume"
-	},
-	{
-		"frontTitle": "ἐκκλησία",
-		"backTitle": "l'assemblée",
-		"backDescription": "puis ensuite l'Eglise"
-	},
-	{
-		"frontTitle": "ἡμέρα",
-		"backTitle": "le jour"
-	},
-	{
-		"frontTitle": "καρδία",
-		"backTitle": "le coeur"
-	},
-	{
-		"frontTitle": "Μαρία",
-		"backTitle": "Marie"
-	},
-	{
-		"frontTitle": "Μαριάμ",
-		"backTitle": "Μαρία",
-		"backDescription": "Nom indéclinable, équivalent hébreu de Μαρία"
-	},
-	{
-		"frontTitle": "οἰκία",
-		"backTitle": "la maison, la maisonnée ",
-		"backDescription": "utilisé de manière interchangeable avec οἶκος"
-	},
-	{
-		"frontTitle": "ὥρα",
-		"backTitle": "l'heure"
-	},
-	{
-		"frontTitle": "δόξα",
-		"backTitle": "la gloire"
-	},
-	{
-		"frontTitle": "θάλασσα",
-		"backTitle": "la mer"
-	},
-	{
-		"frontTitle": "βιβλίον",
-		"backTitle": "le livre, le rouleau"
-	},
-	{
-		"frontTitle": "δαιμόνιον",
-		"backTitle": "le démon"
-	},
-	{
-		"frontTitle": "ἔργον",
-		"backTitle": "l'oeuvre, le fait, le travail"
-	},
-	{
-		"frontTitle": "εὐαγγέλιον",
-		"backTitle": "la bonne nouvelle, l'évangile"
-	},
-	{
-		"frontTitle": "ἱερόν",
-		"backTitle": "le temple"
-	},
-	{
-		"frontTitle": "πλοῖον",
-		"backTitle": "la barque, le bateau"
-	},
-	{
-		"frontTitle": "πρόσωπον",
-		"backTitle": "le visage"
-	},
-	{
-		"frontTitle": "σάββατον",
-		"backTitle": "le sabbat"
-	},
-	{
-		"frontTitle": "σημεῖον",
-		"backTitle": "le signe, le miracle"
-	},
-	{
-		"frontTitle": "τέκνον",
-		"backTitle": "l'enfant"
-	},
-	{
-		"frontTitle": "αὐτός, αὐτή, αὐτό",
-		"backTitle": "le, lui, la, les, eux..."
-	},
-	{
-		"frontTitle": "Παῦλος",
-		"backTitle": "Paul"
-	},
-	{
-		"frontTitle": "Ἰησοῦς",
-		"backTitle": "Jésus"
-	},
-	{
-		"frontTitle": "Πέτρος",
-		"backTitle": "Pierre"
-	},
-	{
-		"frontTitle": "πιστεύω",
-		"backTitle": "croire en, avoir foi en, faire confiance",
-		"backDescription": "+ dat"
-	},
-	{
-		"frontTitle": "ἀναβλέπω",
-		"backTitle": "lever les yeux\n recouvrer la vue"
-	},
-	{
-		"frontTitle": "ἀπολύω",
-		"backTitle": "libérer, divorcer, délier"
-	},
-	{
-		"frontTitle": "ἐκβάλλω",
-		"backTitle": "chasser, faire sortir, jeter hors de"
-	},
-	{
-		"frontTitle": "ἐπικαλέω",
-		"backTitle": "nommer, appeler"
-	},
-	{
-		"frontTitle": "κατοικέω",
-		"backTitle": "habiter"
-	},
-	{
-		"frontTitle": "παρακαλέω",
-		"backTitle": "exhorter, demander, conforter, encourager"
-	},
-	{
-		"frontTitle": "παραλαμβάνω",
-		"backTitle": "emmener, recevoir"
-	},
-	{
-		"frontTitle": "περιπατέω",
-		"backTitle": "marcher, vivre"
-	},
-	{
-		"frontTitle": "προσκυνέω",
-		"backTitle": "adorer, se prosterner",
-		"backDescription": "+ dat\nl'adoration (cf se prosterner) n'a pas un objet mais un bénéficiaire"
-	},
-	{
-		"frontTitle": "συνάγω",
-		"backTitle": "rassembler, mettre ensemble"
-	},
-	{
-		"frontTitle": "ὑπάγω",
-		"backTitle": "partir"
-	},
-	{
-		"frontTitle": "πῶς",
-		"backTitle": "comment ?"
-	},
-	{
-		"frontTitle": "ποῦ",
-		"backTitle": "où ?"
-	},
-	{
-		"frontTitle": "οὐ, οὐκ, οὐχ",
-		"backTitle": "ne ... pas"
-	},
-	{
-		"frontTitle": "ἀγαθός",
-		"backTitle": "bon"
-	},
-	{
-		"frontTitle": "ἀγαπητός",
-		"backTitle": "aimé"
-	},
-	{
-		"frontTitle": "ἅγιος",
-		"backTitle": "saint"
-	},
-	{
-		"frontTitle": "δίκαιος",
-		"backTitle": "juste"
-	},
-	{
-		"frontTitle": "ἕκαστος",
-		"backTitle": "chaque"
-	},
-	{
-		"frontTitle": "ἕτερος",
-		"backTitle": "autre, différent"
-	},
-	{
-		"frontTitle": "ἵδιος",
-		"backTitle": "propre"
-	},
-	{
-		"frontTitle": "Ἰουδαῖος",
-		"backTitle": "juif"
-	},
-	{
-		"frontTitle": "κακός",
-		"backTitle": "mauvais"
-	},
-	{
-		"frontTitle": "καλός",
-		"backTitle": "beau"
-	},
-	{
-		"frontTitle": "καινός",
-		"backTitle": "nouveau"
-	},
-	{
-		"frontTitle": "μακάριος",
-		"backTitle": "heureux, bienheureux"
-	},
-	{
-		"frontTitle": "μόνος",
-		"backTitle": "seul, unique"
-	},
-	{
-		"frontTitle": "νεκρός",
-		"backTitle": "mort"
-	},
-	{
-		"frontTitle": "ὅσος",
-		"backTitle": "combien ?"
-	},
-	{
-		"frontTitle": "πιστός",
-		"backTitle": "croyant"
-	},
-	{
-		"frontTitle": "πονηρός",
-		"backTitle": "mal, maudit, mauvais"
-	},
-	{
-		"frontTitle": "τυφλός",
-		"backTitle": "aveugle"
-	},
-	{
-		"frontTitle": "μέγας",
-		"backTitle": "large, grand",
-		"backDescription": "μέγας, μεγάλη, μέγα"
-	},
-	{
-		"frontTitle": "πολύς",
-		"backTitle": "beaucoup",
-		"backDescription": "πολύς, πολλή, πολύ"
-	},
-	{
-		"frontTitle": "ἀλλά",
-		"backTitle": "mais"
-	},
-	{
-		"frontTitle": "εἰ",
-		"backTitle": "si"
-	},
-	{
-		"frontTitle": "ἤ",
-		"backTitle": "ou"
-	},
-	{
-		"frontTitle": "ὡς",
-		"backTitle": "comme"
-	},
-	{
-		"frontTitle": "Γαλιλαία",
-		"backTitle": "La Galilée"
-	},
-	{
-		"frontTitle": "εἰρήνη",
-		"backTitle": "la paix"
-	},
-	{
-		"frontTitle": "κεφαλή",
-		"backTitle": "la tête"
-	},
-	{
-		"frontTitle": "συναγωγή",
-		"backTitle": "la synagogue"
-	},
-	{
-		"frontTitle": "καιρός",
-		"backTitle": "le temps, la saison"
-	},
-	{
-		"frontTitle": "εἰμί",
-		"backTitle": "je suis"
-	},
-	{
-		"frontTitle": "αἰώνιος",
-		"backTitle": "éternel",
-		"backDescription": "Il prend les désinences du masculin même lorsqu'il s'accorde avec un nom féminin"
-	},
-	{
-		"frontTitle": "ἀνοίγω",
-		"backTitle": "ouvrir"
-	},
-	{
-		"frontTitle": "ἀποκαλύπτω",
-		"backTitle": "révéler, dévoiler"
-	},
-	{
-		"frontTitle": "βαπτίζω",
-		"backTitle": "plonger, baptiser"
-	},
-	{
-		"frontTitle": "γράφω",
-		"backTitle": "écrire"
-	},
-	{
-		"frontTitle": "διώκω",
-		"backTitle": "persécuter, poursuivre"
-	},
-	{
-		"frontTitle": "δοξάζω",
-		"backTitle": "glorifier"
-	},
-	{
-		"frontTitle": "κηρύσσω",
-		"backTitle": "proclamer, prêcher"
-	},
-	{
-		"frontTitle": "κράζω",
-		"backTitle": "crier",
-		"backDescription": "se comporte comme si le verte était en réalité κρασσω"
-	},
-	{
-		"frontTitle": "πέμπω",
-		"backTitle": "envoyer"
-	},
-	{
-		"frontTitle": "πείθω",
-		"backTitle": "persuader, convaincre"
-	},
-	{
-		"frontTitle": "προσέχω",
-		"backTitle": "faire attention à"
-	},
-	{
-		"frontTitle": "σώζω",
-		"backTitle": "sauver, soigner",
-		"backDescription": "écrit aussi σῴζω"
-	},
-	{
-		"frontTitle": "ὑπαρχω",
-		"backTitle": "exister"
-	},
-	{
-		"frontTitle": "αἰτέω",
-		"backTitle": "demander",
-		"backDescription": "double accusatif - demander qqch à qqn"
-	},
-	{
-		"frontTitle": "εὐλογέω",
-		"backTitle": "parler en bien, bénir"
-	},
-	{
-		"frontTitle": "εὐχαριστέω",
-		"backTitle": "remercier"
-	},
-	{
-		"frontTitle": "οἰκοδομέω",
-		"backTitle": "construire, édifier"
-	},
-	{
-		"frontTitle": "ἄρτι",
-		"backTitle": "maintenant"
-	},
-	{
-		"frontTitle": "ἐτι",
-		"backTitle": "encore"
-	},
-	{
-		"frontTitle": "ἤδη",
-		"backTitle": "déjà"
-	},
-	{
-		"frontTitle": "νῦν",
-		"backTitle": "maintenant"
-	},
-	{
-		"frontTitle": "ὅτε",
-		"backTitle": "quand, lorsque"
-	},
-	{
-		"frontTitle": "οὐκέτι",
-		"backTitle": "ne ... plus"
-	},
-	{
-		"frontTitle": "οὔπω",
-		"backTitle": "pas encore"
-	},
-	{
-		"frontTitle": "πάλιν",
-		"backTitle": "de nouveau, encore"
-	},
-	{
-		"frontTitle": "πάντοτε",
-		"backTitle": "toujours"
-	},
-	{
-		"frontTitle": "ποτέ",
-		"backTitle": "un jour, autrefois"
-	},
-	{
-		"frontTitle": "σήμερον",
-		"backTitle": "aujourd'hui"
-	},
-	{
-		"frontTitle": "τότε",
-		"backTitle": "alors"
-	},
-	{
-		"frontTitle": "δύο",
-		"backTitle": "deux"
-	},
-	{
-		"frontTitle": "Τιμόθεος",
-		"backTitle": "Timothée"
-	},
-	{
-		"frontTitle": "τόπος",
-		"backTitle": "le lieu"
-	},
-	{
-		"frontTitle": "δικαιοσύνη",
-		"backTitle": "la justice"
-	},
-	{
-		"frontTitle": "ἐντολή",
-		"backTitle": "le commandement, le précepte"
-	},
-	{
-		"frontTitle": "ἐξουσία",
-		"backTitle": "l'autorité"
-	},
-	{
-		"frontTitle": "παραβολή",
-		"backTitle": "la parabole"
-	},
-	{
-		"frontTitle": "παρρησία",
-		"backTitle": "la franchise"
-	},
-	{
-		"frontTitle": "χαρά",
-		"backTitle": "la joie"
-	},
-	{
-		"frontTitle": "ἀπόστολος",
-		"backTitle": "l'apôtre"
-	},
-	{
-		"frontTitle": "θάνατος",
-		"backTitle": "la mort"
-	},
-	{
-		"frontTitle": "ὀφθαλμός",
-		"backTitle": "l'oeil"
-	},
-	{
-		"frontTitle": "Φαρισαῖος",
-		"backTitle": "le Pharisien"
-	},
-	{
-		"frontTitle": "θηρίον",
-		"backTitle": "l'animal, la bête"
-	},
-	{
-		"frontTitle": "ἱμάτιον",
-		"backTitle": "le vêtement, la chemise, l'himation"
-	},
-	{
-		"frontTitle": "μνημεῖον",
-		"backTitle": "la tombe, le monument"
-	},
-	{
-		"frontTitle": "πρόβατον",
-		"backTitle": "le mouton"
-	},
-	{
-		"frontTitle": "μή",
-		"backTitle": "ne ... pas, non"
-	},
-	{
-		"frontTitle": "μηδέ",
-		"backTitle": "et ne ... pas, mais ne ... pas"
-	},
-	{
-		"frontTitle": "μηκέτι",
-		"backTitle": "ne .. plus, pas davantage"
-	},
-	{
-		"frontTitle": "μήτε",
-		"backTitle": "et ne ... pas"
-	},
-	{
-		"frontTitle": "ἀκολουθέω",
-		"backTitle": "suivre",
-		"backDescription": "+ dat"
-	},
-	{
-		"frontTitle": "ἀνάγω",
-		"backTitle": "faire monter, restaurer"
-	},
-	{
-		"frontTitle": "δέω",
-		"backTitle": "lier"
-	},
-	{
-		"frontTitle": "δοκέω",
-		"backTitle": "penser, sembler"
-	},
-	{
-		"frontTitle": "ἐλεέω",
-		"backTitle": "avoir pitité"
-	},
-	{
-		"frontTitle": "θέλω",
-		"backTitle": "vouloir",
-		"backDescription": "imparfait: ἤθελον\nfutur: θελήσω\naoriste: ἠθέκησα"
-	},
-	{
-		"frontTitle": "θεωρέω",
-		"backTitle": "regarder"
-	},
-	{
-		"frontTitle": "καταργέω",
-		"backTitle": "rendre ineffectif, abolir"
-	},
-	{
-		"frontTitle": "μαρτυρέω",
-		"backTitle": "témoigner"
-	},
-	{
-		"frontTitle": "μέλλω",
-		"backTitle": "être sur le point de, avoir l'intention de"
-	},
-	{
-		"frontTitle": "μετανοέω",
-		"backTitle": "se repentir, se convertir"
-	},
-	{
-		"frontTitle": "δεῖ",
-		"backTitle": "il faut"
-	},
-	{
-		"frontTitle": "ἔξεστι",
-		"backTitle": "il est permis"
-	}
+ {
+  "frontTitle": "ἀπό",
+  "backTitle": "loin de",
+  "backDescription": "+ gén",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0001"
+ },
+ {
+  "frontTitle": "διά",
+  "backTitle": "",
+  "backDescription": "+ acc - à cause de, grace à\n+ gén - à travers",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0002"
+ },
+ {
+  "frontTitle": "εἰς",
+  "backTitle": "vers, dans (+ mouvement), en vue de",
+  "backDescription": "+ acc",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0003"
+ },
+ {
+  "frontTitle": "ἐκ",
+  "backTitle": "hors de, de",
+  "backDescription": "+ gén",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0004"
+ },
+ {
+  "frontTitle": "ἐν",
+  "backTitle": "dans, grâce à (rare)",
+  "backDescription": "+ dat",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0005"
+ },
+ {
+  "frontTitle": "ἐνώπιον",
+  "backTitle": "devant, en présence de",
+  "backDescription": "+ gén",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0006"
+ },
+ {
+  "frontTitle": "ἔξω",
+  "backTitle": "hors de, en dehors",
+  "backDescription": "+ gén",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0007"
+ },
+ {
+  "frontTitle": "ἐπί",
+  "backTitle": "",
+  "backDescription": "+ acc - au dessus, sur (avec mouvement)\n+ gén - à l'époque de, sur (localisaton)\n+ dat - sur, dans, sur la base de",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0008"
+ },
+ {
+  "frontTitle": "ἕως",
+  "backTitle": "jusqu'à",
+  "backDescription": "+ gen",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0009"
+ },
+ {
+  "frontTitle": "κατά",
+  "backTitle": "",
+  "backDescription": "+ acc - selon\n+ gén - contre, en opposition à",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0010"
+ },
+ {
+  "frontTitle": "μετά",
+  "backTitle": "",
+  "backDescription": "+ acc - après\n+ gén - avec",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0011"
+ },
+ {
+  "frontTitle": "παρά",
+  "backTitle": "",
+  "backDescription": "+ acc - le long de\n+ gén - d'auprès de\n+ dat - de (sans mouvement)",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0012"
+ },
+ {
+  "frontTitle": "περί",
+  "backTitle": "",
+  "backDescription": "+ acc - autour, approximativement\n+ gén - à propos de",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0013"
+ },
+ {
+  "frontTitle": "πρό",
+  "backTitle": "avant",
+  "backDescription": "+ gén",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0014"
+ },
+ {
+  "frontTitle": "πρός",
+  "backTitle": "vers, en direction de",
+  "backDescription": "+ acc",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0015"
+ },
+ {
+  "frontTitle": "σύν",
+  "backTitle": "avec",
+  "backDescription": "+ dat",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0016"
+ },
+ {
+  "frontTitle": "ὑπέρ",
+  "backTitle": "",
+  "backDescription": "+ acc - au dessus de\n+ gén - au nom de, à cause de, pour",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0017"
+ },
+ {
+  "frontTitle": "ὑπό",
+  "backTitle": "",
+  "backDescription": "+ acc - au-dessous, sous\n+ gén - par, grâce à",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0018"
+ },
+ {
+  "frontTitle": "ὀπίσω",
+  "backTitle": "derrrière",
+  "backDescription": "+ gén",
+  "tags": [
+   "Préposition"
+  ],
+  "id": "0019"
+ },
+ {
+  "frontTitle": "᾽Αβραάμ",
+  "backTitle": "Abraham",
+  "id": "0020"
+ },
+ {
+  "frontTitle": "ἀμήν",
+  "backTitle": "amen",
+  "id": "0021"
+ },
+ {
+  "frontTitle": "Δαυίδ",
+  "backTitle": "David",
+  "id": "0022"
+ },
+ {
+  "frontTitle": "ῥαββί",
+  "backTitle": "rabbi",
+  "id": "0023"
+ },
+ {
+  "frontTitle": "Ἰακώβ",
+  "backTitle": "Jacob",
+  "id": "0024"
+ },
+ {
+  "frontTitle": "Ἰσραήλ",
+  "backTitle": "Israël",
+  "id": "0025"
+ },
+ {
+  "frontTitle": "Ἰωσήφ",
+  "backTitle": "Joseph",
+  "id": "0026"
+ },
+ {
+  "frontTitle": "καί",
+  "backTitle": "et",
+  "id": "0027"
+ },
+ {
+  "frontTitle": "ἄγω",
+  "backTitle": "conduire, guider",
+  "id": "0028"
+ },
+ {
+  "frontTitle": "ἀκούω",
+  "backTitle": "écouter, entendre",
+  "backDescription": "+ gén de la personne entendue\n+ acc de la chose entendue",
+  "id": "0029"
+ },
+ {
+  "frontTitle": "βάλλω",
+  "backTitle": "jeter",
+  "id": "0030"
+ },
+ {
+  "frontTitle": "βλέπω",
+  "backTitle": "voir, regarder",
+  "id": "0031"
+ },
+ {
+  "frontTitle": "διδάσκω",
+  "backTitle": "enseigner",
+  "backDescription": "double accusatif : enseigner qqch à qqn (acc) à propos de qqch (acc)",
+  "id": "0032"
+ },
+ {
+  "frontTitle": "ἔχω",
+  "backTitle": "avoir, posséder",
+  "id": "0033"
+ },
+ {
+  "frontTitle": "λαμβάνω",
+  "backTitle": "prendre, recevoir",
+  "id": "0034"
+ },
+ {
+  "frontTitle": "λέγω",
+  "backTitle": "dire, parler",
+  "id": "0035"
+ },
+ {
+  "frontTitle": "λύω",
+  "backTitle": "délier",
+  "id": "0036"
+ },
+ {
+  "frontTitle": "ζητέω",
+  "backTitle": "chercher",
+  "id": "0037"
+ },
+ {
+  "frontTitle": "καλέω",
+  "backTitle": "appeler",
+  "id": "0038"
+ },
+ {
+  "frontTitle": "λαλέω",
+  "backTitle": "paler",
+  "id": "0039"
+ },
+ {
+  "frontTitle": "ποιέω",
+  "backTitle": "faire, créer",
+  "id": "0040"
+ },
+ {
+  "frontTitle": "τηρέω",
+  "backTitle": "garder, conserver",
+  "id": "0041"
+ },
+ {
+  "frontTitle": "φιλέω",
+  "backTitle": "aimer",
+  "id": "0042"
+ },
+ {
+  "frontTitle": "ἄγγελος",
+  "backTitle": "le messager, l'ange",
+  "id": "0043"
+ },
+ {
+  "frontTitle": "ἀδελφός",
+  "backTitle": "le frère",
+  "id": "0044"
+ },
+ {
+  "frontTitle": "ἄρτος",
+  "backTitle": "le pain",
+  "id": "0045"
+ },
+ {
+  "frontTitle": "δοῦλος",
+  "backTitle": "l'esclave, le serviteur",
+  "id": "0046"
+ },
+ {
+  "frontTitle": "θεός",
+  "backTitle": "(le) dieu",
+  "id": "0047"
+ },
+ {
+  "frontTitle": "κόσμος",
+  "backTitle": "le monde",
+  "id": "0048"
+ },
+ {
+  "frontTitle": "κύριος",
+  "backTitle": "le seigneur, le maître",
+  "id": "0049"
+ },
+ {
+  "frontTitle": "λόγος",
+  "backTitle": "le mot, la parole, le discours",
+  "id": "0050"
+ },
+ {
+  "frontTitle": "νόμος",
+  "backTitle": "la loi",
+  "id": "0051"
+ },
+ {
+  "frontTitle": "οἶκος",
+  "backTitle": "la maison, la maisonnée",
+  "id": "0052"
+ },
+ {
+  "frontTitle": "οὐρανός",
+  "backTitle": "le ciel",
+  "id": "0053"
+ },
+ {
+  "frontTitle": "ὄχλος",
+  "backTitle": "la foule",
+  "id": "0054"
+ },
+ {
+  "frontTitle": "υἱός",
+  "backTitle": "le fils",
+  "id": "0055"
+ },
+ {
+  "frontTitle": "Χριστός",
+  "backTitle": "le christ, le messie",
+  "id": "0056"
+ },
+ {
+  "frontTitle": "ὁ, ἡ, τό",
+  "backTitle": "le, la, les",
+  "id": "0057"
+ },
+ {
+  "frontTitle": "ἄνθρωπος",
+  "backTitle": "l'être humain, l'individu, le personne, l'homme",
+  "id": "0058"
+ },
+ {
+  "frontTitle": "λαός",
+  "backTitle": "le peuple, la nation",
+  "id": "0059"
+ },
+ {
+  "frontTitle": "ἀγάπη",
+  "backTitle": "l'amour",
+  "id": "0060"
+ },
+ {
+  "frontTitle": "ἀδελφή",
+  "backTitle": "la soeur",
+  "id": "0061"
+ },
+ {
+  "frontTitle": "ἀρχή",
+  "backTitle": "le début, le commencement",
+  "id": "0062"
+ },
+ {
+  "frontTitle": "γῆ",
+  "backTitle": "la terre",
+  "id": "0063"
+ },
+ {
+  "frontTitle": "ζωή",
+  "backTitle": "la vie",
+  "id": "0064"
+ },
+ {
+  "frontTitle": "φωνή",
+  "backTitle": "le son, la voix",
+  "id": "0065"
+ },
+ {
+  "frontTitle": "ψυχή",
+  "backTitle": "l'âme",
+  "id": "0066"
+ },
+ {
+  "frontTitle": "ἁμαρτία",
+  "backTitle": "le péché",
+  "id": "0067"
+ },
+ {
+  "frontTitle": "βασιλεία",
+  "backTitle": "le règne, le royaume",
+  "id": "0068"
+ },
+ {
+  "frontTitle": "ἐκκλησία",
+  "backTitle": "l'assemblée",
+  "backDescription": "puis ensuite l'Eglise",
+  "id": "0069"
+ },
+ {
+  "frontTitle": "ἡμέρα",
+  "backTitle": "le jour",
+  "id": "0070"
+ },
+ {
+  "frontTitle": "καρδία",
+  "backTitle": "le coeur",
+  "id": "0071"
+ },
+ {
+  "frontTitle": "Μαρία",
+  "backTitle": "Marie",
+  "id": "0072"
+ },
+ {
+  "frontTitle": "Μαριάμ",
+  "backTitle": "Μαρία",
+  "backDescription": "Nom indéclinable, équivalent hébreu de Μαρία",
+  "id": "0073"
+ },
+ {
+  "frontTitle": "οἰκία",
+  "backTitle": "la maison, la maisonnée ",
+  "backDescription": "utilisé de manière interchangeable avec οἶκος",
+  "id": "0074"
+ },
+ {
+  "frontTitle": "ὥρα",
+  "backTitle": "l'heure",
+  "id": "0075"
+ },
+ {
+  "frontTitle": "δόξα",
+  "backTitle": "la gloire",
+  "id": "0076"
+ },
+ {
+  "frontTitle": "θάλασσα",
+  "backTitle": "la mer",
+  "id": "0077"
+ },
+ {
+  "frontTitle": "βιβλίον",
+  "backTitle": "le livre, le rouleau",
+  "id": "0078"
+ },
+ {
+  "frontTitle": "δαιμόνιον",
+  "backTitle": "le démon",
+  "id": "0079"
+ },
+ {
+  "frontTitle": "ἔργον",
+  "backTitle": "l'oeuvre, le fait, le travail",
+  "id": "0080"
+ },
+ {
+  "frontTitle": "εὐαγγέλιον",
+  "backTitle": "la bonne nouvelle, l'évangile",
+  "id": "0081"
+ },
+ {
+  "frontTitle": "ἱερόν",
+  "backTitle": "le temple",
+  "id": "0082"
+ },
+ {
+  "frontTitle": "πλοῖον",
+  "backTitle": "la barque, le bateau",
+  "id": "0083"
+ },
+ {
+  "frontTitle": "πρόσωπον",
+  "backTitle": "le visage",
+  "id": "0084"
+ },
+ {
+  "frontTitle": "σάββατον",
+  "backTitle": "le sabbat",
+  "id": "0085"
+ },
+ {
+  "frontTitle": "σημεῖον",
+  "backTitle": "le signe, le miracle",
+  "id": "0086"
+ },
+ {
+  "frontTitle": "τέκνον",
+  "backTitle": "l'enfant",
+  "id": "0087"
+ },
+ {
+  "frontTitle": "αὐτός, αὐτή, αὐτό",
+  "backTitle": "le, lui, la, les, eux...",
+  "id": "0088"
+ },
+ {
+  "frontTitle": "Παῦλος",
+  "backTitle": "Paul",
+  "id": "0089"
+ },
+ {
+  "frontTitle": "Ἰησοῦς",
+  "backTitle": "Jésus",
+  "id": "0090"
+ },
+ {
+  "frontTitle": "Πέτρος",
+  "backTitle": "Pierre",
+  "id": "0091"
+ },
+ {
+  "frontTitle": "πιστεύω",
+  "backTitle": "croire en, avoir foi en, faire confiance",
+  "backDescription": "+ dat",
+  "id": "0092"
+ },
+ {
+  "frontTitle": "ἀναβλέπω",
+  "backTitle": "lever les yeux\n recouvrer la vue",
+  "id": "0093"
+ },
+ {
+  "frontTitle": "ἀπολύω",
+  "backTitle": "libérer, divorcer, délier",
+  "id": "0094"
+ },
+ {
+  "frontTitle": "ἐκβάλλω",
+  "backTitle": "chasser, faire sortir, jeter hors de",
+  "id": "0095"
+ },
+ {
+  "frontTitle": "ἐπικαλέω",
+  "backTitle": "nommer, appeler",
+  "id": "0096"
+ },
+ {
+  "frontTitle": "κατοικέω",
+  "backTitle": "habiter",
+  "id": "0097"
+ },
+ {
+  "frontTitle": "παρακαλέω",
+  "backTitle": "exhorter, demander, conforter, encourager",
+  "id": "0098"
+ },
+ {
+  "frontTitle": "παραλαμβάνω",
+  "backTitle": "emmener, recevoir",
+  "id": "0099"
+ },
+ {
+  "frontTitle": "περιπατέω",
+  "backTitle": "marcher, vivre",
+  "id": "0100"
+ },
+ {
+  "frontTitle": "προσκυνέω",
+  "backTitle": "adorer, se prosterner",
+  "backDescription": "+ dat\nl'adoration (cf se prosterner) n'a pas un objet mais un bénéficiaire",
+  "id": "0101"
+ },
+ {
+  "frontTitle": "συνάγω",
+  "backTitle": "rassembler, mettre ensemble",
+  "id": "0102"
+ },
+ {
+  "frontTitle": "ὑπάγω",
+  "backTitle": "partir",
+  "id": "0103"
+ },
+ {
+  "frontTitle": "πῶς",
+  "backTitle": "comment ?",
+  "id": "0104"
+ },
+ {
+  "frontTitle": "ποῦ",
+  "backTitle": "où ?",
+  "id": "0105"
+ },
+ {
+  "frontTitle": "οὐ, οὐκ, οὐχ",
+  "backTitle": "ne ... pas",
+  "id": "0106"
+ },
+ {
+  "frontTitle": "ἀγαθός",
+  "backTitle": "bon",
+  "id": "0107"
+ },
+ {
+  "frontTitle": "ἀγαπητός",
+  "backTitle": "aimé",
+  "id": "0108"
+ },
+ {
+  "frontTitle": "ἅγιος",
+  "backTitle": "saint",
+  "id": "0109"
+ },
+ {
+  "frontTitle": "δίκαιος",
+  "backTitle": "juste",
+  "id": "0110"
+ },
+ {
+  "frontTitle": "ἕκαστος",
+  "backTitle": "chaque",
+  "id": "0111"
+ },
+ {
+  "frontTitle": "ἕτερος",
+  "backTitle": "autre, différent",
+  "id": "0112"
+ },
+ {
+  "frontTitle": "ἵδιος",
+  "backTitle": "propre",
+  "id": "0113"
+ },
+ {
+  "frontTitle": "Ἰουδαῖος",
+  "backTitle": "juif",
+  "id": "0114"
+ },
+ {
+  "frontTitle": "κακός",
+  "backTitle": "mauvais",
+  "id": "0115"
+ },
+ {
+  "frontTitle": "καλός",
+  "backTitle": "beau",
+  "id": "0116"
+ },
+ {
+  "frontTitle": "καινός",
+  "backTitle": "nouveau",
+  "id": "0117"
+ },
+ {
+  "frontTitle": "μακάριος",
+  "backTitle": "heureux, bienheureux",
+  "id": "0118"
+ },
+ {
+  "frontTitle": "μόνος",
+  "backTitle": "seul, unique",
+  "id": "0119"
+ },
+ {
+  "frontTitle": "νεκρός",
+  "backTitle": "mort",
+  "id": "0120"
+ },
+ {
+  "frontTitle": "ὅσος",
+  "backTitle": "combien ?",
+  "id": "0121"
+ },
+ {
+  "frontTitle": "πιστός",
+  "backTitle": "croyant",
+  "id": "0122"
+ },
+ {
+  "frontTitle": "πονηρός",
+  "backTitle": "mal, maudit, mauvais",
+  "id": "0123"
+ },
+ {
+  "frontTitle": "τυφλός",
+  "backTitle": "aveugle",
+  "id": "0124"
+ },
+ {
+  "frontTitle": "μέγας",
+  "backTitle": "large, grand",
+  "backDescription": "μέγας, μεγάλη, μέγα",
+  "id": "0125"
+ },
+ {
+  "frontTitle": "πολύς",
+  "backTitle": "beaucoup",
+  "backDescription": "πολύς, πολλή, πολύ",
+  "id": "0126"
+ },
+ {
+  "frontTitle": "ἀλλά",
+  "backTitle": "mais",
+  "id": "0127"
+ },
+ {
+  "frontTitle": "εἰ",
+  "backTitle": "si",
+  "id": "0128"
+ },
+ {
+  "frontTitle": "ἤ",
+  "backTitle": "ou",
+  "id": "0129"
+ },
+ {
+  "frontTitle": "ὡς",
+  "backTitle": "comme",
+  "id": "0130"
+ },
+ {
+  "frontTitle": "Γαλιλαία",
+  "backTitle": "La Galilée",
+  "id": "0131"
+ },
+ {
+  "frontTitle": "εἰρήνη",
+  "backTitle": "la paix",
+  "id": "0132"
+ },
+ {
+  "frontTitle": "κεφαλή",
+  "backTitle": "la tête",
+  "id": "0133"
+ },
+ {
+  "frontTitle": "συναγωγή",
+  "backTitle": "la synagogue",
+  "id": "0134"
+ },
+ {
+  "frontTitle": "καιρός",
+  "backTitle": "le temps, la saison",
+  "id": "0135"
+ },
+ {
+  "frontTitle": "εἰμί",
+  "backTitle": "je suis",
+  "id": "0136"
+ },
+ {
+  "frontTitle": "αἰώνιος",
+  "backTitle": "éternel",
+  "backDescription": "Il prend les désinences du masculin même lorsqu'il s'accorde avec un nom féminin",
+  "id": "0137"
+ },
+ {
+  "frontTitle": "ἀνοίγω",
+  "backTitle": "ouvrir",
+  "id": "0138"
+ },
+ {
+  "frontTitle": "ἀποκαλύπτω",
+  "backTitle": "révéler, dévoiler",
+  "id": "0139"
+ },
+ {
+  "frontTitle": "βαπτίζω",
+  "backTitle": "plonger, baptiser",
+  "id": "0140"
+ },
+ {
+  "frontTitle": "γράφω",
+  "backTitle": "écrire",
+  "id": "0141"
+ },
+ {
+  "frontTitle": "διώκω",
+  "backTitle": "persécuter, poursuivre",
+  "id": "0142"
+ },
+ {
+  "frontTitle": "δοξάζω",
+  "backTitle": "glorifier",
+  "id": "0143"
+ },
+ {
+  "frontTitle": "κηρύσσω",
+  "backTitle": "proclamer, prêcher",
+  "id": "0144"
+ },
+ {
+  "frontTitle": "κράζω",
+  "backTitle": "crier",
+  "backDescription": "se comporte comme si le verte était en réalité κρασσω",
+  "id": "0145"
+ },
+ {
+  "frontTitle": "πέμπω",
+  "backTitle": "envoyer",
+  "id": "0146"
+ },
+ {
+  "frontTitle": "πείθω",
+  "backTitle": "persuader, convaincre",
+  "id": "0147"
+ },
+ {
+  "frontTitle": "προσέχω",
+  "backTitle": "faire attention à",
+  "id": "0148"
+ },
+ {
+  "frontTitle": "σώζω",
+  "backTitle": "sauver, soigner",
+  "backDescription": "écrit aussi σῴζω",
+  "id": "0149"
+ },
+ {
+  "frontTitle": "ὑπαρχω",
+  "backTitle": "exister",
+  "id": "0150"
+ },
+ {
+  "frontTitle": "αἰτέω",
+  "backTitle": "demander",
+  "backDescription": "double accusatif - demander qqch à qqn",
+  "id": "0151"
+ },
+ {
+  "frontTitle": "εὐλογέω",
+  "backTitle": "parler en bien, bénir",
+  "id": "0152"
+ },
+ {
+  "frontTitle": "εὐχαριστέω",
+  "backTitle": "remercier",
+  "id": "0153"
+ },
+ {
+  "frontTitle": "οἰκοδομέω",
+  "backTitle": "construire, édifier",
+  "id": "0154"
+ },
+ {
+  "frontTitle": "ἄρτι",
+  "backTitle": "maintenant",
+  "id": "0155"
+ },
+ {
+  "frontTitle": "ἐτι",
+  "backTitle": "encore",
+  "id": "0156"
+ },
+ {
+  "frontTitle": "ἤδη",
+  "backTitle": "déjà",
+  "id": "0157"
+ },
+ {
+  "frontTitle": "νῦν",
+  "backTitle": "maintenant",
+  "id": "0158"
+ },
+ {
+  "frontTitle": "ὅτε",
+  "backTitle": "quand, lorsque",
+  "id": "0159"
+ },
+ {
+  "frontTitle": "οὐκέτι",
+  "backTitle": "ne ... plus",
+  "id": "0160"
+ },
+ {
+  "frontTitle": "οὔπω",
+  "backTitle": "pas encore",
+  "id": "0161"
+ },
+ {
+  "frontTitle": "πάλιν",
+  "backTitle": "de nouveau, encore",
+  "id": "0162"
+ },
+ {
+  "frontTitle": "πάντοτε",
+  "backTitle": "toujours",
+  "id": "0163"
+ },
+ {
+  "frontTitle": "ποτέ",
+  "backTitle": "un jour, autrefois",
+  "id": "0164"
+ },
+ {
+  "frontTitle": "σήμερον",
+  "backTitle": "aujourd'hui",
+  "id": "0165"
+ },
+ {
+  "frontTitle": "τότε",
+  "backTitle": "alors",
+  "id": "0166"
+ },
+ {
+  "frontTitle": "δύο",
+  "backTitle": "deux",
+  "id": "0167"
+ },
+ {
+  "frontTitle": "Τιμόθεος",
+  "backTitle": "Timothée",
+  "id": "0168"
+ },
+ {
+  "frontTitle": "τόπος",
+  "backTitle": "le lieu",
+  "id": "0169"
+ },
+ {
+  "frontTitle": "δικαιοσύνη",
+  "backTitle": "la justice",
+  "id": "0170"
+ },
+ {
+  "frontTitle": "ἐντολή",
+  "backTitle": "le commandement, le précepte",
+  "id": "0171"
+ },
+ {
+  "frontTitle": "ἐξουσία",
+  "backTitle": "l'autorité",
+  "id": "0172"
+ },
+ {
+  "frontTitle": "παραβολή",
+  "backTitle": "la parabole",
+  "id": "0173"
+ },
+ {
+  "frontTitle": "παρρησία",
+  "backTitle": "la franchise",
+  "id": "0174"
+ },
+ {
+  "frontTitle": "χαρά",
+  "backTitle": "la joie",
+  "id": "0175"
+ },
+ {
+  "frontTitle": "ἀπόστολος",
+  "backTitle": "l'apôtre",
+  "id": "0176"
+ },
+ {
+  "frontTitle": "θάνατος",
+  "backTitle": "la mort",
+  "id": "0177"
+ },
+ {
+  "frontTitle": "ὀφθαλμός",
+  "backTitle": "l'oeil",
+  "id": "0178"
+ },
+ {
+  "frontTitle": "Φαρισαῖος",
+  "backTitle": "le Pharisien",
+  "id": "0179"
+ },
+ {
+  "frontTitle": "θηρίον",
+  "backTitle": "l'animal, la bête",
+  "id": "0180"
+ },
+ {
+  "frontTitle": "ἱμάτιον",
+  "backTitle": "le vêtement, la chemise, l'himation",
+  "id": "0181"
+ },
+ {
+  "frontTitle": "μνημεῖον",
+  "backTitle": "la tombe, le monument",
+  "id": "0182"
+ },
+ {
+  "frontTitle": "πρόβατον",
+  "backTitle": "le mouton",
+  "id": "0183"
+ },
+ {
+  "frontTitle": "μή",
+  "backTitle": "ne ... pas, non",
+  "id": "0184"
+ },
+ {
+  "frontTitle": "μηδέ",
+  "backTitle": "et ne ... pas, mais ne ... pas",
+  "id": "0185"
+ },
+ {
+  "frontTitle": "μηκέτι",
+  "backTitle": "ne .. plus, pas davantage",
+  "id": "0186"
+ },
+ {
+  "frontTitle": "μήτε",
+  "backTitle": "et ne ... pas",
+  "id": "0187"
+ },
+ {
+  "frontTitle": "ἀκολουθέω",
+  "backTitle": "suivre",
+  "backDescription": "+ dat",
+  "id": "0188"
+ },
+ {
+  "frontTitle": "ἀνάγω",
+  "backTitle": "faire monter, restaurer",
+  "id": "0189"
+ },
+ {
+  "frontTitle": "δέω",
+  "backTitle": "lier",
+  "id": "0190"
+ },
+ {
+  "frontTitle": "δοκέω",
+  "backTitle": "penser, sembler",
+  "id": "0191"
+ },
+ {
+  "frontTitle": "ἐλεέω",
+  "backTitle": "avoir pitité",
+  "id": "0192"
+ },
+ {
+  "frontTitle": "θέλω",
+  "backTitle": "vouloir",
+  "backDescription": "imparfait: ἤθελον\nfutur: θελήσω\naoriste: ἠθέκησα",
+  "id": "0193"
+ },
+ {
+  "frontTitle": "θεωρέω",
+  "backTitle": "regarder",
+  "id": "0194"
+ },
+ {
+  "frontTitle": "καταργέω",
+  "backTitle": "rendre ineffectif, abolir",
+  "id": "0195"
+ },
+ {
+  "frontTitle": "μαρτυρέω",
+  "backTitle": "témoigner",
+  "id": "0196"
+ },
+ {
+  "frontTitle": "μέλλω",
+  "backTitle": "être sur le point de, avoir l'intention de",
+  "id": "0197"
+ },
+ {
+  "frontTitle": "μετανοέω",
+  "backTitle": "se repentir, se convertir",
+  "id": "0198"
+ },
+ {
+  "frontTitle": "δεῖ",
+  "backTitle": "il faut",
+  "id": "0199"
+ },
+ {
+  "frontTitle": "ἔξεστι",
+  "backTitle": "il est permis",
+  "id": "0200"
+ }
 ]

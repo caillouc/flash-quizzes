@@ -1,338 +1,386 @@
 [
-	{
-		"frontTitle": "α",
-		"backTitle": "ἂλφα – a",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Α",
-		"backTitle": "ἂλφα – a",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "β",
-		"backTitle": "βῆτα – b",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Β",
-		"backTitle": "βῆτα – b",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "γ",
-		"backTitle": "γάμμα – g",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Γ",
-		"backTitle": "γάμμα – g",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "δ",
-		"backTitle": "δέλτα – d",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Δ",
-		"backTitle": "δέλτα – d",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ε",
-		"backTitle": "ἒψιλόν – é",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ε",
-		"backTitle": "ἒψιλόν – é",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ζ",
-		"backTitle": "ζῆτα – dz",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ζ",
-		"backTitle": "ζῆτα – dz",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "η",
-		"backTitle": "ἦτα – ê",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Η",
-		"backTitle": "ἦτα – ê",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "θ",
-		"backTitle": "θῆτα – th",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Θ",
-		"backTitle": "θῆτα – th",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ι",
-		"backTitle": "ἰῶτα – i",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ι",
-		"backTitle": "ἰῶτα – i",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "κ",
-		"backTitle": "κάππα – k",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Κ",
-		"backTitle": "κάππα – k",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "λ",
-		"backTitle": "λάμβδα – l",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Λ",
-		"backTitle": "λάμβδα – l",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "μ",
-		"backTitle": "μῦ – m",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Μ",
-		"backTitle": "μῦ – m",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ν",
-		"backTitle": "νῦ – n",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ν",
-		"backTitle": "νῦ – n",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ξ",
-		"backTitle": "ξῖ – x",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ξ",
-		"backTitle": "ξῖ – x",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ο",
-		"backTitle": "ὂμικρόν – o",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ο",
-		"backTitle": "ὂμικρόν – o",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "π",
-		"backTitle": "πῖ – p",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Π",
-		"backTitle": "πῖ – p",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ρ",
-		"backTitle": "ῥῶ – r",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ρ",
-		"backTitle": "ῥῶ – r",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "σ",
-		"backTitle": "σῖγμα – s",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Σ",
-		"backTitle": "σῖγμα – s",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "τ",
-		"backTitle": "ταῦ – t",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Τ",
-		"backTitle": "ταῦ – t",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "υ",
-		"backTitle": "ὖψιλόν – u",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Υ",
-		"backTitle": "ὖψιλόν – u",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "φ",
-		"backTitle": "φῖ – ph/f",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Φ",
-		"backTitle": "φῖ – ph/f",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "χ",
-		"backTitle": "χῖ – kh",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Χ",
-		"backTitle": "χῖ – kh",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ψ",
-		"backTitle": "ψῖ – ps",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ψ",
-		"backTitle": "ψῖ – ps",
-		"tags": [
-			"Majuscule"
-		]
-	},
-	{
-		"frontTitle": "ω",
-		"backTitle": "ὦμέγα – ô",
-		"tags": [
-			"Minuscule"
-		]
-	},
-	{
-		"frontTitle": "Ω",
-		"backTitle": "ὦμέγα – ô",
-		"tags": [
-			"Majuscule"
-		]
-	}
+ {
+  "frontTitle": "α",
+  "backTitle": "ἂλφα – a",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0001"
+ },
+ {
+  "frontTitle": "Α",
+  "backTitle": "ἂλφα – a",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0002"
+ },
+ {
+  "frontTitle": "β",
+  "backTitle": "βῆτα – b",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0003"
+ },
+ {
+  "frontTitle": "Β",
+  "backTitle": "βῆτα – b",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0004"
+ },
+ {
+  "frontTitle": "γ",
+  "backTitle": "γάμμα – g",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0005"
+ },
+ {
+  "frontTitle": "Γ",
+  "backTitle": "γάμμα – g",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0006"
+ },
+ {
+  "frontTitle": "δ",
+  "backTitle": "δέλτα – d",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0007"
+ },
+ {
+  "frontTitle": "Δ",
+  "backTitle": "δέλτα – d",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0008"
+ },
+ {
+  "frontTitle": "ε",
+  "backTitle": "ἒψιλόν – é",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0009"
+ },
+ {
+  "frontTitle": "Ε",
+  "backTitle": "ἒψιλόν – é",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0010"
+ },
+ {
+  "frontTitle": "ζ",
+  "backTitle": "ζῆτα – dz",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0011"
+ },
+ {
+  "frontTitle": "Ζ",
+  "backTitle": "ζῆτα – dz",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0012"
+ },
+ {
+  "frontTitle": "η",
+  "backTitle": "ἦτα – ê",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0013"
+ },
+ {
+  "frontTitle": "Η",
+  "backTitle": "ἦτα – ê",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0014"
+ },
+ {
+  "frontTitle": "θ",
+  "backTitle": "θῆτα – th",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0015"
+ },
+ {
+  "frontTitle": "Θ",
+  "backTitle": "θῆτα – th",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0016"
+ },
+ {
+  "frontTitle": "ι",
+  "backTitle": "ἰῶτα – i",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0017"
+ },
+ {
+  "frontTitle": "Ι",
+  "backTitle": "ἰῶτα – i",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0018"
+ },
+ {
+  "frontTitle": "κ",
+  "backTitle": "κάππα – k",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0019"
+ },
+ {
+  "frontTitle": "Κ",
+  "backTitle": "κάππα – k",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0020"
+ },
+ {
+  "frontTitle": "λ",
+  "backTitle": "λάμβδα – l",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0021"
+ },
+ {
+  "frontTitle": "Λ",
+  "backTitle": "λάμβδα – l",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0022"
+ },
+ {
+  "frontTitle": "μ",
+  "backTitle": "μῦ – m",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0023"
+ },
+ {
+  "frontTitle": "Μ",
+  "backTitle": "μῦ – m",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0024"
+ },
+ {
+  "frontTitle": "ν",
+  "backTitle": "νῦ – n",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0025"
+ },
+ {
+  "frontTitle": "Ν",
+  "backTitle": "νῦ – n",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0026"
+ },
+ {
+  "frontTitle": "ξ",
+  "backTitle": "ξῖ – x",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0027"
+ },
+ {
+  "frontTitle": "Ξ",
+  "backTitle": "ξῖ – x",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0028"
+ },
+ {
+  "frontTitle": "ο",
+  "backTitle": "ὂμικρόν – o",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0029"
+ },
+ {
+  "frontTitle": "Ο",
+  "backTitle": "ὂμικρόν – o",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0030"
+ },
+ {
+  "frontTitle": "π",
+  "backTitle": "πῖ – p",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0031"
+ },
+ {
+  "frontTitle": "Π",
+  "backTitle": "πῖ – p",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0032"
+ },
+ {
+  "frontTitle": "ρ",
+  "backTitle": "ῥῶ – r",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0033"
+ },
+ {
+  "frontTitle": "Ρ",
+  "backTitle": "ῥῶ – r",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0034"
+ },
+ {
+  "frontTitle": "σ",
+  "backTitle": "σῖγμα – s",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0035"
+ },
+ {
+  "frontTitle": "Σ",
+  "backTitle": "σῖγμα – s",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0036"
+ },
+ {
+  "frontTitle": "τ",
+  "backTitle": "ταῦ – t",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0037"
+ },
+ {
+  "frontTitle": "Τ",
+  "backTitle": "ταῦ – t",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0038"
+ },
+ {
+  "frontTitle": "υ",
+  "backTitle": "ὖψιλόν – u",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0039"
+ },
+ {
+  "frontTitle": "Υ",
+  "backTitle": "ὖψιλόν – u",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0040"
+ },
+ {
+  "frontTitle": "φ",
+  "backTitle": "φῖ – ph/f",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0041"
+ },
+ {
+  "frontTitle": "Φ",
+  "backTitle": "φῖ – ph/f",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0042"
+ },
+ {
+  "frontTitle": "χ",
+  "backTitle": "χῖ – kh",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0043"
+ },
+ {
+  "frontTitle": "Χ",
+  "backTitle": "χῖ – kh",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0044"
+ },
+ {
+  "frontTitle": "ψ",
+  "backTitle": "ψῖ – ps",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0045"
+ },
+ {
+  "frontTitle": "Ψ",
+  "backTitle": "ψῖ – ps",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0046"
+ },
+ {
+  "frontTitle": "ω",
+  "backTitle": "ὦμέγα – ô",
+  "tags": [
+   "Minuscule"
+  ],
+  "id": "0047"
+ },
+ {
+  "frontTitle": "Ω",
+  "backTitle": "ὦμέγα – ô",
+  "tags": [
+   "Majuscule"
+  ],
+  "id": "0048"
+ }
 ]

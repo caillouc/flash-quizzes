@@ -1,687 +1,842 @@
 [
-	{
-		"frontTitle": "אָנֹכִי \n אֲנִי",
-		"backTitle": "je, moi"
-	},
-	{
-		"frontTitle": "אַתָּה",
-		"backTitle": "tu, toi",
-		"backDescription": "(masculin)"
-	},
-	{
-		"frontTitle": "אַתְּ",
-		"backTitle": "tu, toi",
-		"backDescription": "(féminin)"
-	},
-	{
-		"frontTitle": "מַה",
-		"backTitle": "quoi, quel"
-	},
-	{
-		"frontTitle": "-הֲ",
-		"backTitle": "est-ce que ... ?"
-	},
-	{
-		"frontTitle": "שֵׁם",
-		"backTitle": "nom",
-		"backDescription": "(ז)\nשֵׁמוֹת"
-	},
-	{
-		"frontTitle": "שְׁמִי",
-		"backTitle": "mon nom"
-	},
-	{
-		"frontTitle": "שִׁמְךָ",
-		"backTitle": "ton nom",
-		"backDescription": "(se réfère à un homme)"
-	},
-	{
-		"frontTitle": "שְׁמֵךְ",
-		"backTitle": "ton nom",
-		"backDescription": "(se réfère à une femme)"
-	},
-	{
-		"frontTitle": "מוֹרֶה\nמוֹרָה",
-		"backTitle": "maître, enseignant",
-		"backDescription": "masculin\nféminin\nמוֹרִים\nמוֹרוֹת"
-	},
-	{
-		"frontTitle": "תַּלְמִיד\nתַּלְמִידָה",
-		"backTitle": "disciple",
-		"backDescription": "masculin\nféminin\nתַּלְמִידִים\nתַּלְמִידוֹת"
-	},
-	{
-		"frontTitle": "נָבִיא",
-		"backTitle": "prophète",
-		"backDescription": "נְבִיאִים"
-	},
-	{
-		"frontTitle": "מֶ֫לֶךְ ",
-		"backTitle": "roi",
-		"backDescription": "מְלָכִים"
-	},
-	{
-		"frontTitle": "מַלְכָּה",
-		"backTitle": "reinne",
-		"backDescription": "מְלָכוֹת"
-	},
-	{
-		"frontTitle": "נְבִיאָה",
-		"backTitle": "prophètesse",
-		"backDescription": "נְבִיאוֹת"
-	},
-	{
-		"frontTitle": "כֹּהֵן",
-		"backTitle": "prêtre",
-		"backDescription": "כֹּהֲנִים"
-	},
-	{
-		"frontTitle": "סֵ֫פֶר",
-		"backTitle": "livre",
-		"backDescription": "(ז)\nסְפָרִים"
-	},
-	{
-		"frontTitle": "בַּ֫יִת",
-		"backTitle": "maison",
-		"backDescription": "(ז)\nבָּתִּים"
-	},
-	{
-		"frontTitle": "הַר",
-		"backTitle": "montagne",
-		"backDescription": "(ז)\nהָרִים"
-	},
-	{
-		"frontTitle": "שֻׁלְחָן",
-		"backTitle": "table",
-		"backDescription": "(ז)\nשֻׁלְחָנוֹת"
-	},
-	{
-		"frontTitle": "כִּסֵּא",
-		"backTitle": "chaise",
-		"backDescription": "(ז)\nכִּסְאוֹת"
-	},
-	{
-		"frontTitle": "דֶּ֫לֶת",
-		"backTitle": "porte",
-		"backDescription": "(נ)\nדְּלָתוֹת"
-	},
-	{
-		"frontTitle": "מְנוֹרָה",
-		"backTitle": "chandelier",
-		"backDescription": "(נ)\nמְנוֹרוֹת"
-	},
-	{
-		"frontTitle": "עִיר",
-		"backTitle": "ville",
-		"backDescription": "(נ)עָרִים"
-	},
-	{
-		"frontTitle": "נְקֵבָה",
-		"backTitle": "♀"
-	},
-	{
-		"frontTitle": "זָכָר",
-		"backTitle": "♂"
-	},
-	{
-		"frontTitle": "עַל",
-		"backTitle": "au dessus"
-	},
-	{
-		"frontTitle": "-בְּ",
-		"backTitle": "dans"
-	},
-	{
-		"frontTitle": "תַּ֫חַת",
-		"backTitle": "au dessous"
-	},
-	{
-		"frontTitle": "הוּא",
-		"backTitle": "il"
-	},
-	{
-		"frontTitle": "הִיא",
-		"backTitle": "elle"
-	},
-	{
-		"frontTitle": "בֵּן",
-		"backTitle": "fils",
-		"backDescription": "בָּנִים"
-	},
-	{
-		"frontTitle": "בַּת",
-		"backTitle": "fille"
-	},
-	{
-		"frontTitle": "זֶה\nזֹאת",
-		"backTitle": "c'est"
-	},
-	{
-		"frontTitle": "טוֹב\nטוֹבָה",
-		"backTitle": "bon"
-	},
-	{
-		"frontTitle": "רַע\nרָעָה",
-		"backTitle": "mauvais"
-	},
-	{
-		"frontTitle": "גָּדוֹל\nגְּדוֹלָה",
-		"backTitle": "grand"
-	},
-	{
-		"frontTitle": "קָטֹן\nקְטַנָּה",
-		"backTitle": "petit"
-	},
-	{
-		"frontTitle": "חָכָם\nחֲכָמָה",
-		"backTitle": "intelligent"
-	},
-	{
-		"frontTitle": "צַדִּיק\nצַדִּיקָה",
-		"backTitle": "juste"
-	},
-	{
-		"frontTitle": "קָדוֹשׁ\nקְדוֹשָׁה",
-		"backTitle": "saint"
-	},
-	{
-		"frontTitle": "עָנִי\nעֲנִיָּה",
-		"backTitle": "pauvre"
-	},
-	{
-		"frontTitle": "עָשִׁיר\nעֲשִׁירָה",
-		"backTitle": "riche"
-	},
-	{
-		"frontTitle": "גַּם ",
-		"backTitle": "aussi"
-	},
-	{
-		"frontTitle": "אֲדֹנָי",
-		"backTitle": "Mon Seigneur",
-		"backDescription": "nom propre, le dieu d'Israël"
-	},
-	{
-		"frontTitle": "אֵ֫לֶּה",
-		"backTitle": "ce-sont"
-	},
-	{
-		"frontTitle": "אִישׁ",
-		"backTitle": "homme",
-		"backDescription": "אֲנָשּׁים"
-	},
-	{
-		"frontTitle": "אִשָּׁה",
-		"backTitle": "femme",
-		"backDescription": "נָשִׁים"
-	},
-	{
-		"frontTitle": "נַ֫חְנוּ \nאֲנַ֫חְנוּ",
-		"backTitle": "nous"
-	},
-	{
-		"frontTitle": "אַתֶּם\nאַתֶּן / אַתֵּ֫נָה",
-		"backTitle": "vous"
-	},
-	{
-		"frontTitle": "הֵם / הֵ֫מָּה \n הֵ֫נָּה",
-		"backTitle": "ils, elles"
-	},
-	{
-		"frontTitle": "אֱלֹהִים",
-		"backTitle": "Dieu"
-	},
-	{
-		"frontTitle": "אֶ֫רֶץ",
-		"backTitle": "terre",
-		"backDescription": "(נ)\nאֲרָצוֹת (הָאָ֫רֶץ)"
-	},
-	{
-		"frontTitle": "גּוֹי",
-		"backTitle": "nation",
-		"backDescription": "(ז)\nגּוֹיִם "
-	},
-	{
-		"frontTitle": "עַם\n",
-		"backTitle": "peuple",
-		"backDescription": "(ז)עַמִּים"
-	},
-	{
-		"frontTitle": "יוֹם",
-		"backTitle": "jour",
-		"backDescription": "יָמִים"
-	},
-	{
-		"frontTitle": "כֹּל \n כָּל־",
-		"backTitle": "tout"
-	},
-	{
-		"frontTitle": "עֵץ",
-		"backTitle": "abre",
-		"backDescription": "(ז)\nעֵצִים"
-	},
-	{
-		"frontTitle": "תְּאֵנָה ",
-		"backTitle": "figue",
-		"backDescription": "(נ)\nתְּאֵנִים"
-	},
-	{
-		"frontTitle": "יָפֶה\nיָפָה",
-		"backTitle": "beau\nbelle",
-		"backDescription": "יָפִים\nיָפוֹת"
-	},
-	{
-		"frontTitle": "רַב\nרַבָּה",
-		"backTitle": "nombreux\nnombreuse",
-		"backDescription": "רַבִּים\nרַבּוֹת"
-	},
-	{
-		"frontTitle": "מְאֹד",
-		"backTitle": "très"
-	},
-	{
-		"frontTitle": "לֶ֫חֶם",
-		"backTitle": "Pain",
-		"backDescription": "(ז)"
-	},
-	{
-		"frontTitle": "לַ֫יְלָה",
-		"backTitle": "nuit",
-		"backDescription": "(ז)\nלֵילוֹת"
-	},
-	{
-		"frontTitle": "אַחֵר\nאַחֶ֫רֶת",
-		"backTitle": "autre"
-	},
-	{
-		"frontTitle": "שָׁפַט",
-		"backTitle": "juger",
-		"backDescription": "שָׁפוֹט"
-	},
-	{
-		"frontTitle": "שָׁכַב",
-		"backTitle": "être coucher",
-		"backDescription": "שָׁכוֹב"
-	},
-	{
-		"frontTitle": "אָכַל",
-		"backTitle": "manger",
-		"backDescription": "אָכוֹל"
-	},
-	{
-		"frontTitle": "הָלַךְ",
-		"backTitle": "marcher, aller, partir",
-		"backDescription": "הָלוֹךְ"
-	},
-	{
-		"frontTitle": "בָּא",
-		"backTitle": "venir",
-		"backDescription": "בּוֹא"
-	},
-	{
-		"frontTitle": "יָשַׁב",
-		"backTitle": "être assis",
-		"backDescription": "יָשׁוֹב"
-	},
-	{
-		"frontTitle": "קָם",
-		"backTitle": "se lever",
-		"backDescription": "קוֹם"
-	},
-	{
-		"frontTitle": "עָמַד",
-		"backTitle": "être debout",
-		"backDescription": "עָמוֹד"
-	},
-	{
-		"frontTitle": "לִפְנֵי",
-		"backTitle": "devant"
-	},
-	{
-		"frontTitle": "אַחֲרֵי",
-		"backTitle": "derrière"
-	},
-	{
-		"frontTitle": "הַרְבֵּה",
-		"backTitle": "beaucoup"
-	},
-	{
-		"frontTitle": "מְעַט",
-		"backTitle": "peu"
-	},
-	{
-		"frontTitle": "אֹ֫הֶל",
-		"backTitle": "tente",
-		"backDescription": "(ז)\nאֹהָלִים "
-	},
-	{
-		"frontTitle": "חֲמוֹר",
-		"backTitle": "âne",
-		"backDescription": "(ז)"
-	},
-	{
-		"frontTitle": "מִדְבָּר",
-		"backTitle": "désert",
-		"backDescription": "(ז)"
-	},
-	{
-		"frontTitle": "מַ֫יִם",
-		"backTitle": "eau",
-		"backDescription": "(ז. Pluriel)"
-	},
-	{
-		"frontTitle": "מַעְיָן",
-		"backTitle": "source",
-		"backDescription": "(ז)\nמַעְיָנוֹת  "
-	},
-	{
-		"frontTitle": "נַ֫חַל",
-		"backTitle": "fleuve",
-		"backDescription": "(ז)\nנְחָלִים "
-	},
-	{
-		"frontTitle": "ר֫וּחַ",
-		"backTitle": "soufle, vent",
-		"backDescription": "רוּחוֹת"
-	},
-	{
-		"frontTitle": "נָעִים",
-		"backTitle": "agréable",
-		"backDescription": "נָעִים, נְעִימָה\nנְעִימִים, נְעִימוֹת"
-	},
-	{
-		"frontTitle": "קָשֶׁה",
-		"backTitle": "difficile, dur",
-		"backDescription": "קָשֶׁה, קָשָׁה\nקָשִׁים, קָשׁוֹת "
-	},
-	{
-		"frontTitle": "שָׁב",
-		"backTitle": "revenir",
-		"backDescription": "שׁוֹב"
-	},
-	{
-		"frontTitle": "שָׁתָה",
-		"backTitle": "boire",
-		"backDescription": "שָׁתֹה"
-	},
-	{
-		"frontTitle": "עִם",
-		"backTitle": "avec"
-	},
-	{
-		"frontTitle": "לְבַד",
-		"backTitle": "seul"
-	},
-	{
-		"frontTitle": "יַחְדָּו",
-		"backTitle": "ensemble"
-	},
-	{
-		"frontTitle": "פֹּה ",
-		"backTitle": "ici"
-	},
-	{
-		"frontTitle": "שָׁם",
-		"backTitle": "là-bas"
-	},
-	{
-		"frontTitle": "הִנֵּה",
-		"backTitle": "voici"
-	},
-	{
-		"frontTitle": "לָ֫מָּה",
-		"backTitle": "pourquoi"
-	},
-	{
-		"frontTitle": "אַיֵּה\nאֵיפֹה\nאֵי־זֶה ",
-		"backTitle": "où",
-		"backDescription": "pour des lieux\nבְּ-, עַל, תַּ֫חַת\nאַחֲרֵי, לִפְנֵי..."
-	},
-	{
-		"frontTitle": "אָ֫נָה",
-		"backTitle": "où",
-		"backDescription": "pour des directions\nאֶל, לְ, ָה"
-	},
-	{
-		"frontTitle": "מֵאַ֫יִן\nאֵי־מִזֶּה ",
-		"backTitle": "d'où",
-		"backDescription": "pour des origines\nמִן, מִ"
-	},
-	{
-		"frontTitle": "אָרוֹן",
-		"backTitle": "coffre",
-		"backDescription": "(ז)\nאֲרוֹנוֹת"
-	},
-	{
-		"frontTitle": "דָּבָר",
-		"backTitle": "chose, parole, énoncé",
-		"backDescription": "(ז)\nדְּבָרִים"
-	},
-	{
-		"frontTitle": "הֵיכָל",
-		"backTitle": "temple, palais",
-		"backDescription": "(ז)\nהֵיכָלִים / הֵיכָלוֹת"
-	},
-	{
-		"frontTitle": "נַ֫עַר",
-		"backTitle": "garçon, serviteur",
-		"backDescription": "(ז)\nנְעָרִים"
-	},
-	{
-		"frontTitle": "נַעֲרָה",
-		"backTitle": "fille",
-		"backDescription": "(נ)\nנְעָרוֹת"
-	},
-	{
-		"frontTitle": "עֵת",
-		"backTitle": "temps",
-		"backDescription": "(נ)\nעִתּוֹת"
-	},
-	{
-		"frontTitle": "זָקֵן",
-		"backTitle": "vieux",
-		"backDescription": "(ז)\nזְקֵנִים"
-	},
-	{
-		"frontTitle": "אָז",
-		"backTitle": "à ce moment, alors, donc"
-	},
-	{
-		"frontTitle": "אִם",
-		"backTitle": "si"
-	},
-	{
-		"frontTitle": "כִּי",
-		"backTitle": "parce que, mais, quand",
-		"backDescription": "que (introduisant une proposition complétive)"
-	},
-	{
-		"frontTitle": "עוֹד",
-		"backTitle": "encore"
-	},
-	{
-		"frontTitle": "לֹא... עוֹד",
-		"backTitle": "ne... plus"
-	},
-	{
-		"frontTitle": "קָרָא",
-		"backTitle": "crier, lire, appeler"
-	},
-	{
-		"frontTitle": "שָׁמַע",
-		"backTitle": "entendre, écouter"
-	},
-	{
-		"frontTitle": "אָמַר",
-		"backTitle": "dire"
-	},
-	{
-		"frontTitle": "יָדַע",
-		"backTitle": "enseigner, savoir"
-	},
-	{
-		"frontTitle": "דִּבֵּר",
-		"backTitle": "parler"
-	},
-	{
-		"frontTitle": "מָחָר",
-		"backTitle": "demain"
-	},
-	{
-		"frontTitle": "תֵּמוֹל\nאֶתְמוֹל",
-		"backTitle": "hier"
-	},
-	{
-		"frontTitle": "מִי",
-		"backTitle": "qui",
-		"backDescription": "pronom interrogatif"
-	},
-	{
-		"frontTitle": "בָּכָה",
-		"backTitle": "pleurer"
-	},
-	{
-		"frontTitle": "רָאָה",
-		"backTitle": "voir"
-	},
-	{
-		"frontTitle": "שָׁאַל",
-		"backTitle": "demander"
-	},
-	{
-		"frontTitle": "עָנָה",
-		"backTitle": "répondre"
-	},
-	{
-		"frontTitle": "מוֹת",
-		"backTitle": "mourir"
-	},
-	{
-		"frontTitle": "אֶמֶת",
-		"backTitle": "vérité\n(נ)"
-	},
-	{
-		"frontTitle": "שֶׁקֶר",
-		"backTitle": "mensonge\n(ז)\nשְׁקָרִים"
-	},
-	{
-		"frontTitle": "בָּשָׂר",
-		"backTitle": "viande"
-	},
-	{
-		"frontTitle": "יַ֫יִן",
-		"backTitle": "vin"
-	},
-	{
-		"frontTitle": "יֶלֶד",
-		"backTitle": "enfant\n(ז)\nיְלָדִים"
-	},
-	{
-		"frontTitle": "יַלְדָּה",
-		"backTitle": "enfant\n(נ)\nיְלָדוֹת"
-	},
-	{
-		"frontTitle": "קוֹל",
-		"backTitle": "voix\n(ז)\nקוֹלוֹת"
-	},
-	{
-		"frontTitle": "שָׁנָה",
-		"backTitle": "année\n(נ)\nשָׁנִים"
-	},
-	{
-		"frontTitle": "בְּלֹא",
-		"backTitle": "sans"
-	},
-	{
-		"frontTitle": "אֵם",
-		"backTitle": "mère \nאִמּוֹת"
-	},
-	{
-		"frontTitle": "אָב",
-		"backTitle": "père \nאָבוֹת"
-	},
-	{
-		"frontTitle": "לֵאמֹר",
-		"backTitle": "introduit un discours direct"
-	},
-	{
-		"frontTitle": "אָדוֹן",
-		"backTitle": "Maître"
-	},
-	{
-		"frontTitle": "גְּבִירָה",
-		"backTitle": "'patronne'"
-	},
-	{
-		"frontTitle": "בֹּקֶר",
-		"backTitle": "matin"
-	},
-	{
-		"frontTitle": "זוֹנָה",
-		"backTitle": "prostituée"
-	},
-	{
-		"frontTitle": "חֵיק",
-		"backTitle": "seins"
-	},
-	{
-		"frontTitle": "חָכְמָה",
-		"backTitle": "sagesse"
-	},
-	{
-		"frontTitle": "חֲצִי",
-		"backTitle": "moitié"
-	},
-	{
-		"frontTitle": "חֶרֶב",
-		"backTitle": "épée \n חֲרָבוֹת"
-	},
-	{
-		"frontTitle": "זָר",
-		"backTitle": "étranger"
-	},
-	{
-		"frontTitle": "מֵת",
-		"backTitle": "mort"
-	},
-	{
-		"frontTitle": "חַי",
-		"backTitle": "vivant"
-	},
-	{
-		"frontTitle": "אֵצֶל",
-		"backTitle": "près de"
-	},
-	{
-		"frontTitle": "בְּתוֹךְ",
-		"backTitle": "au centre"
-	},
-	{
-		"frontTitle": "גָּזַר",
-		"backTitle": "couper"
-	},
-	{
-		"frontTitle": "יָלַד",
-		"backTitle": "engendrer"
-	},
-	{
-		"frontTitle": "מֵת",
-		"backTitle": "mourir"
-	},
-	{
-		"frontTitle": "נָפַל",
-		"backTitle": "tomber"
-	},
-	{
-		"frontTitle": "נָתַל",
-		"backTitle": "donner"
-	},
-	{
-		"frontTitle": "לָקַח",
-		"backTitle": "prendre"
-	},
-	{
-		"frontTitle": "יָרֵא",
-		"backTitle": "craindre"
-	}
+ {
+  "frontTitle": "אָנֹכִי \n אֲנִי",
+  "backTitle": "je, moi",
+  "id": "0001"
+ },
+ {
+  "frontTitle": "אַתָּה",
+  "backTitle": "tu, toi",
+  "backDescription": "(masculin)",
+  "id": "0002"
+ },
+ {
+  "frontTitle": "אַתְּ",
+  "backTitle": "tu, toi",
+  "backDescription": "(féminin)",
+  "id": "0003"
+ },
+ {
+  "frontTitle": "מַה",
+  "backTitle": "quoi, quel",
+  "id": "0004"
+ },
+ {
+  "frontTitle": "-הֲ",
+  "backTitle": "est-ce que ... ?",
+  "id": "0005"
+ },
+ {
+  "frontTitle": "שֵׁם",
+  "backTitle": "nom",
+  "backDescription": "(ז)\nשֵׁמוֹת",
+  "id": "0006"
+ },
+ {
+  "frontTitle": "שְׁמִי",
+  "backTitle": "mon nom",
+  "id": "0007"
+ },
+ {
+  "frontTitle": "שִׁמְךָ",
+  "backTitle": "ton nom",
+  "backDescription": "(se réfère à un homme)",
+  "id": "0008"
+ },
+ {
+  "frontTitle": "שְׁמֵךְ",
+  "backTitle": "ton nom",
+  "backDescription": "(se réfère à une femme)",
+  "id": "0009"
+ },
+ {
+  "frontTitle": "מוֹרֶה\nמוֹרָה",
+  "backTitle": "maître, enseignant",
+  "backDescription": "masculin\nféminin\nמוֹרִים\nמוֹרוֹת",
+  "id": "0010"
+ },
+ {
+  "frontTitle": "תַּלְמִיד\nתַּלְמִידָה",
+  "backTitle": "disciple",
+  "backDescription": "masculin\nféminin\nתַּלְמִידִים\nתַּלְמִידוֹת",
+  "id": "0011"
+ },
+ {
+  "frontTitle": "נָבִיא",
+  "backTitle": "prophète",
+  "backDescription": "נְבִיאִים",
+  "id": "0012"
+ },
+ {
+  "frontTitle": "מֶ֫לֶךְ ",
+  "backTitle": "roi",
+  "backDescription": "מְלָכִים",
+  "id": "0013"
+ },
+ {
+  "frontTitle": "מַלְכָּה",
+  "backTitle": "reinne",
+  "backDescription": "מְלָכוֹת",
+  "id": "0014"
+ },
+ {
+  "frontTitle": "נְבִיאָה",
+  "backTitle": "prophètesse",
+  "backDescription": "נְבִיאוֹת",
+  "id": "0015"
+ },
+ {
+  "frontTitle": "כֹּהֵן",
+  "backTitle": "prêtre",
+  "backDescription": "כֹּהֲנִים",
+  "id": "0016"
+ },
+ {
+  "frontTitle": "סֵ֫פֶר",
+  "backTitle": "livre",
+  "backDescription": "(ז)\nסְפָרִים",
+  "id": "0017"
+ },
+ {
+  "frontTitle": "בַּ֫יִת",
+  "backTitle": "maison",
+  "backDescription": "(ז)\nבָּתִּים",
+  "id": "0018"
+ },
+ {
+  "frontTitle": "הַר",
+  "backTitle": "montagne",
+  "backDescription": "(ז)\nהָרִים",
+  "id": "0019"
+ },
+ {
+  "frontTitle": "שֻׁלְחָן",
+  "backTitle": "table",
+  "backDescription": "(ז)\nשֻׁלְחָנוֹת",
+  "id": "0020"
+ },
+ {
+  "frontTitle": "כִּסֵּא",
+  "backTitle": "chaise",
+  "backDescription": "(ז)\nכִּסְאוֹת",
+  "id": "0021"
+ },
+ {
+  "frontTitle": "דֶּ֫לֶת",
+  "backTitle": "porte",
+  "backDescription": "(נ)\nדְּלָתוֹת",
+  "id": "0022"
+ },
+ {
+  "frontTitle": "מְנוֹרָה",
+  "backTitle": "chandelier",
+  "backDescription": "(נ)\nמְנוֹרוֹת",
+  "id": "0023"
+ },
+ {
+  "frontTitle": "עִיר",
+  "backTitle": "ville",
+  "backDescription": "(נ)עָרִים",
+  "id": "0024"
+ },
+ {
+  "frontTitle": "נְקֵבָה",
+  "backTitle": "♀",
+  "id": "0025"
+ },
+ {
+  "frontTitle": "זָכָר",
+  "backTitle": "♂",
+  "id": "0026"
+ },
+ {
+  "frontTitle": "עַל",
+  "backTitle": "au dessus",
+  "id": "0027"
+ },
+ {
+  "frontTitle": "-בְּ",
+  "backTitle": "dans",
+  "id": "0028"
+ },
+ {
+  "frontTitle": "תַּ֫חַת",
+  "backTitle": "au dessous",
+  "id": "0029"
+ },
+ {
+  "frontTitle": "הוּא",
+  "backTitle": "il",
+  "id": "0030"
+ },
+ {
+  "frontTitle": "הִיא",
+  "backTitle": "elle",
+  "id": "0031"
+ },
+ {
+  "frontTitle": "בֵּן",
+  "backTitle": "fils",
+  "backDescription": "בָּנִים",
+  "id": "0032"
+ },
+ {
+  "frontTitle": "בַּת",
+  "backTitle": "fille",
+  "id": "0033"
+ },
+ {
+  "frontTitle": "זֶה\nזֹאת",
+  "backTitle": "c'est",
+  "id": "0034"
+ },
+ {
+  "frontTitle": "טוֹב\nטוֹבָה",
+  "backTitle": "bon",
+  "id": "0035"
+ },
+ {
+  "frontTitle": "רַע\nרָעָה",
+  "backTitle": "mauvais",
+  "id": "0036"
+ },
+ {
+  "frontTitle": "גָּדוֹל\nגְּדוֹלָה",
+  "backTitle": "grand",
+  "id": "0037"
+ },
+ {
+  "frontTitle": "קָטֹן\nקְטַנָּה",
+  "backTitle": "petit",
+  "id": "0038"
+ },
+ {
+  "frontTitle": "חָכָם\nחֲכָמָה",
+  "backTitle": "intelligent",
+  "id": "0039"
+ },
+ {
+  "frontTitle": "צַדִּיק\nצַדִּיקָה",
+  "backTitle": "juste",
+  "id": "0040"
+ },
+ {
+  "frontTitle": "קָדוֹשׁ\nקְדוֹשָׁה",
+  "backTitle": "saint",
+  "id": "0041"
+ },
+ {
+  "frontTitle": "עָנִי\nעֲנִיָּה",
+  "backTitle": "pauvre",
+  "id": "0042"
+ },
+ {
+  "frontTitle": "עָשִׁיר\nעֲשִׁירָה",
+  "backTitle": "riche",
+  "id": "0043"
+ },
+ {
+  "frontTitle": "גַּם ",
+  "backTitle": "aussi",
+  "id": "0044"
+ },
+ {
+  "frontTitle": "אֲדֹנָי",
+  "backTitle": "Mon Seigneur",
+  "backDescription": "nom propre, le dieu d'Israël",
+  "id": "0045"
+ },
+ {
+  "frontTitle": "אֵ֫לֶּה",
+  "backTitle": "ce-sont",
+  "id": "0046"
+ },
+ {
+  "frontTitle": "אִישׁ",
+  "backTitle": "homme",
+  "backDescription": "אֲנָשּׁים",
+  "id": "0047"
+ },
+ {
+  "frontTitle": "אִשָּׁה",
+  "backTitle": "femme",
+  "backDescription": "נָשִׁים",
+  "id": "0048"
+ },
+ {
+  "frontTitle": "נַ֫חְנוּ \nאֲנַ֫חְנוּ",
+  "backTitle": "nous",
+  "id": "0049"
+ },
+ {
+  "frontTitle": "אַתֶּם\nאַתֶּן / אַתֵּ֫נָה",
+  "backTitle": "vous",
+  "id": "0050"
+ },
+ {
+  "frontTitle": "הֵם / הֵ֫מָּה \n הֵ֫נָּה",
+  "backTitle": "ils, elles",
+  "id": "0051"
+ },
+ {
+  "frontTitle": "אֱלֹהִים",
+  "backTitle": "Dieu",
+  "id": "0052"
+ },
+ {
+  "frontTitle": "אֶ֫רֶץ",
+  "backTitle": "terre",
+  "backDescription": "(נ)\nאֲרָצוֹת (הָאָ֫רֶץ)",
+  "id": "0053"
+ },
+ {
+  "frontTitle": "גּוֹי",
+  "backTitle": "nation",
+  "backDescription": "(ז)\nגּוֹיִם ",
+  "id": "0054"
+ },
+ {
+  "frontTitle": "עַם\n",
+  "backTitle": "peuple",
+  "backDescription": "(ז)עַמִּים",
+  "id": "0055"
+ },
+ {
+  "frontTitle": "יוֹם",
+  "backTitle": "jour",
+  "backDescription": "יָמִים",
+  "id": "0056"
+ },
+ {
+  "frontTitle": "כֹּל \n כָּל־",
+  "backTitle": "tout",
+  "id": "0057"
+ },
+ {
+  "frontTitle": "עֵץ",
+  "backTitle": "abre",
+  "backDescription": "(ז)\nעֵצִים",
+  "id": "0058"
+ },
+ {
+  "frontTitle": "תְּאֵנָה ",
+  "backTitle": "figue",
+  "backDescription": "(נ)\nתְּאֵנִים",
+  "id": "0059"
+ },
+ {
+  "frontTitle": "יָפֶה\nיָפָה",
+  "backTitle": "beau\nbelle",
+  "backDescription": "יָפִים\nיָפוֹת",
+  "id": "0060"
+ },
+ {
+  "frontTitle": "רַב\nרַבָּה",
+  "backTitle": "nombreux\nnombreuse",
+  "backDescription": "רַבִּים\nרַבּוֹת",
+  "id": "0061"
+ },
+ {
+  "frontTitle": "מְאֹד",
+  "backTitle": "très",
+  "id": "0062"
+ },
+ {
+  "frontTitle": "לֶ֫חֶם",
+  "backTitle": "Pain",
+  "backDescription": "(ז)",
+  "id": "0063"
+ },
+ {
+  "frontTitle": "לַ֫יְלָה",
+  "backTitle": "nuit",
+  "backDescription": "(ז)\nלֵילוֹת",
+  "id": "0064"
+ },
+ {
+  "frontTitle": "אַחֵר\nאַחֶ֫רֶת",
+  "backTitle": "autre",
+  "id": "0065"
+ },
+ {
+  "frontTitle": "שָׁפַט",
+  "backTitle": "juger",
+  "backDescription": "שָׁפוֹט",
+  "id": "0066"
+ },
+ {
+  "frontTitle": "שָׁכַב",
+  "backTitle": "être coucher",
+  "backDescription": "שָׁכוֹב",
+  "id": "0067"
+ },
+ {
+  "frontTitle": "אָכַל",
+  "backTitle": "manger",
+  "backDescription": "אָכוֹל",
+  "id": "0068"
+ },
+ {
+  "frontTitle": "הָלַךְ",
+  "backTitle": "marcher, aller, partir",
+  "backDescription": "הָלוֹךְ",
+  "id": "0069"
+ },
+ {
+  "frontTitle": "בָּא",
+  "backTitle": "venir",
+  "backDescription": "בּוֹא",
+  "id": "0070"
+ },
+ {
+  "frontTitle": "יָשַׁב",
+  "backTitle": "être assis",
+  "backDescription": "יָשׁוֹב",
+  "id": "0071"
+ },
+ {
+  "frontTitle": "קָם",
+  "backTitle": "se lever",
+  "backDescription": "קוֹם",
+  "id": "0072"
+ },
+ {
+  "frontTitle": "עָמַד",
+  "backTitle": "être debout",
+  "backDescription": "עָמוֹד",
+  "id": "0073"
+ },
+ {
+  "frontTitle": "לִפְנֵי",
+  "backTitle": "devant",
+  "id": "0074"
+ },
+ {
+  "frontTitle": "אַחֲרֵי",
+  "backTitle": "derrière",
+  "id": "0075"
+ },
+ {
+  "frontTitle": "הַרְבֵּה",
+  "backTitle": "beaucoup",
+  "id": "0076"
+ },
+ {
+  "frontTitle": "מְעַט",
+  "backTitle": "peu",
+  "id": "0077"
+ },
+ {
+  "frontTitle": "אֹ֫הֶל",
+  "backTitle": "tente",
+  "backDescription": "(ז)\nאֹהָלִים ",
+  "id": "0078"
+ },
+ {
+  "frontTitle": "חֲמוֹר",
+  "backTitle": "âne",
+  "backDescription": "(ז)",
+  "id": "0079"
+ },
+ {
+  "frontTitle": "מִדְבָּר",
+  "backTitle": "désert",
+  "backDescription": "(ז)",
+  "id": "0080"
+ },
+ {
+  "frontTitle": "מַ֫יִם",
+  "backTitle": "eau",
+  "backDescription": "(ז. Pluriel)",
+  "id": "0081"
+ },
+ {
+  "frontTitle": "מַעְיָן",
+  "backTitle": "source",
+  "backDescription": "(ז)\nמַעְיָנוֹת  ",
+  "id": "0082"
+ },
+ {
+  "frontTitle": "נַ֫חַל",
+  "backTitle": "fleuve",
+  "backDescription": "(ז)\nנְחָלִים ",
+  "id": "0083"
+ },
+ {
+  "frontTitle": "ר֫וּחַ",
+  "backTitle": "soufle, vent",
+  "backDescription": "רוּחוֹת",
+  "id": "0084"
+ },
+ {
+  "frontTitle": "נָעִים",
+  "backTitle": "agréable",
+  "backDescription": "נָעִים, נְעִימָה\nנְעִימִים, נְעִימוֹת",
+  "id": "0085"
+ },
+ {
+  "frontTitle": "קָשֶׁה",
+  "backTitle": "difficile, dur",
+  "backDescription": "קָשֶׁה, קָשָׁה\nקָשִׁים, קָשׁוֹת ",
+  "id": "0086"
+ },
+ {
+  "frontTitle": "שָׁב",
+  "backTitle": "revenir",
+  "backDescription": "שׁוֹב",
+  "id": "0087"
+ },
+ {
+  "frontTitle": "שָׁתָה",
+  "backTitle": "boire",
+  "backDescription": "שָׁתֹה",
+  "id": "0088"
+ },
+ {
+  "frontTitle": "עִם",
+  "backTitle": "avec",
+  "id": "0089"
+ },
+ {
+  "frontTitle": "לְבַד",
+  "backTitle": "seul",
+  "id": "0090"
+ },
+ {
+  "frontTitle": "יַחְדָּו",
+  "backTitle": "ensemble",
+  "id": "0091"
+ },
+ {
+  "frontTitle": "פֹּה ",
+  "backTitle": "ici",
+  "id": "0092"
+ },
+ {
+  "frontTitle": "שָׁם",
+  "backTitle": "là-bas",
+  "id": "0093"
+ },
+ {
+  "frontTitle": "הִנֵּה",
+  "backTitle": "voici",
+  "id": "0094"
+ },
+ {
+  "frontTitle": "לָ֫מָּה",
+  "backTitle": "pourquoi",
+  "id": "0095"
+ },
+ {
+  "frontTitle": "אַיֵּה\nאֵיפֹה\nאֵי־זֶה ",
+  "backTitle": "où",
+  "backDescription": "pour des lieux\nבְּ-, עַל, תַּ֫חַת\nאַחֲרֵי, לִפְנֵי...",
+  "id": "0096"
+ },
+ {
+  "frontTitle": "אָ֫נָה",
+  "backTitle": "où",
+  "backDescription": "pour des directions\nאֶל, לְ, ָה",
+  "id": "0097"
+ },
+ {
+  "frontTitle": "מֵאַ֫יִן\nאֵי־מִזֶּה ",
+  "backTitle": "d'où",
+  "backDescription": "pour des origines\nמִן, מִ",
+  "id": "0098"
+ },
+ {
+  "frontTitle": "אָרוֹן",
+  "backTitle": "coffre",
+  "backDescription": "(ז)\nאֲרוֹנוֹת",
+  "id": "0099"
+ },
+ {
+  "frontTitle": "דָּבָר",
+  "backTitle": "chose, parole, énoncé",
+  "backDescription": "(ז)\nדְּבָרִים",
+  "id": "0100"
+ },
+ {
+  "frontTitle": "הֵיכָל",
+  "backTitle": "temple, palais",
+  "backDescription": "(ז)\nהֵיכָלִים / הֵיכָלוֹת",
+  "id": "0101"
+ },
+ {
+  "frontTitle": "נַ֫עַר",
+  "backTitle": "garçon, serviteur",
+  "backDescription": "(ז)\nנְעָרִים",
+  "id": "0102"
+ },
+ {
+  "frontTitle": "נַעֲרָה",
+  "backTitle": "fille",
+  "backDescription": "(נ)\nנְעָרוֹת",
+  "id": "0103"
+ },
+ {
+  "frontTitle": "עֵת",
+  "backTitle": "temps",
+  "backDescription": "(נ)\nעִתּוֹת",
+  "id": "0104"
+ },
+ {
+  "frontTitle": "זָקֵן",
+  "backTitle": "vieux",
+  "backDescription": "(ז)\nזְקֵנִים",
+  "id": "0105"
+ },
+ {
+  "frontTitle": "אָז",
+  "backTitle": "à ce moment, alors, donc",
+  "id": "0106"
+ },
+ {
+  "frontTitle": "אִם",
+  "backTitle": "si",
+  "id": "0107"
+ },
+ {
+  "frontTitle": "כִּי",
+  "backTitle": "parce que, mais, quand",
+  "backDescription": "que (introduisant une proposition complétive)",
+  "id": "0108"
+ },
+ {
+  "frontTitle": "עוֹד",
+  "backTitle": "encore",
+  "id": "0109"
+ },
+ {
+  "frontTitle": "לֹא... עוֹד",
+  "backTitle": "ne... plus",
+  "id": "0110"
+ },
+ {
+  "frontTitle": "קָרָא",
+  "backTitle": "crier, lire, appeler",
+  "id": "0111"
+ },
+ {
+  "frontTitle": "שָׁמַע",
+  "backTitle": "entendre, écouter",
+  "id": "0112"
+ },
+ {
+  "frontTitle": "אָמַר",
+  "backTitle": "dire",
+  "id": "0113"
+ },
+ {
+  "frontTitle": "יָדַע",
+  "backTitle": "enseigner, savoir",
+  "id": "0114"
+ },
+ {
+  "frontTitle": "דִּבֵּר",
+  "backTitle": "parler",
+  "id": "0115"
+ },
+ {
+  "frontTitle": "מָחָר",
+  "backTitle": "demain",
+  "id": "0116"
+ },
+ {
+  "frontTitle": "תֵּמוֹל\nאֶתְמוֹל",
+  "backTitle": "hier",
+  "id": "0117"
+ },
+ {
+  "frontTitle": "מִי",
+  "backTitle": "qui",
+  "backDescription": "pronom interrogatif",
+  "id": "0118"
+ },
+ {
+  "frontTitle": "בָּכָה",
+  "backTitle": "pleurer",
+  "id": "0119"
+ },
+ {
+  "frontTitle": "רָאָה",
+  "backTitle": "voir",
+  "id": "0120"
+ },
+ {
+  "frontTitle": "שָׁאַל",
+  "backTitle": "demander",
+  "id": "0121"
+ },
+ {
+  "frontTitle": "עָנָה",
+  "backTitle": "répondre",
+  "id": "0122"
+ },
+ {
+  "frontTitle": "מוֹת",
+  "backTitle": "mourir",
+  "id": "0123"
+ },
+ {
+  "frontTitle": "אֶמֶת",
+  "backTitle": "vérité\n(נ)",
+  "id": "0124"
+ },
+ {
+  "frontTitle": "שֶׁקֶר",
+  "backTitle": "mensonge\n(ז)\nשְׁקָרִים",
+  "id": "0125"
+ },
+ {
+  "frontTitle": "בָּשָׂר",
+  "backTitle": "viande",
+  "id": "0126"
+ },
+ {
+  "frontTitle": "יַ֫יִן",
+  "backTitle": "vin",
+  "id": "0127"
+ },
+ {
+  "frontTitle": "יֶלֶד",
+  "backTitle": "enfant\n(ז)\nיְלָדִים",
+  "id": "0128"
+ },
+ {
+  "frontTitle": "יַלְדָּה",
+  "backTitle": "enfant\n(נ)\nיְלָדוֹת",
+  "id": "0129"
+ },
+ {
+  "frontTitle": "קוֹל",
+  "backTitle": "voix\n(ז)\nקוֹלוֹת",
+  "id": "0130"
+ },
+ {
+  "frontTitle": "שָׁנָה",
+  "backTitle": "année\n(נ)\nשָׁנִים",
+  "id": "0131"
+ },
+ {
+  "frontTitle": "בְּלֹא",
+  "backTitle": "sans",
+  "id": "0132"
+ },
+ {
+  "frontTitle": "אֵם",
+  "backTitle": "mère \nאִמּוֹת",
+  "id": "0133"
+ },
+ {
+  "frontTitle": "אָב",
+  "backTitle": "père \nאָבוֹת",
+  "id": "0134"
+ },
+ {
+  "frontTitle": "לֵאמֹר",
+  "backTitle": "introduit un discours direct",
+  "id": "0135"
+ },
+ {
+  "frontTitle": "אָדוֹן",
+  "backTitle": "Maître",
+  "id": "0136"
+ },
+ {
+  "frontTitle": "גְּבִירָה",
+  "backTitle": "'patronne'",
+  "id": "0137"
+ },
+ {
+  "frontTitle": "בֹּקֶר",
+  "backTitle": "matin",
+  "id": "0138"
+ },
+ {
+  "frontTitle": "זוֹנָה",
+  "backTitle": "prostituée",
+  "id": "0139"
+ },
+ {
+  "frontTitle": "חֵיק",
+  "backTitle": "seins",
+  "id": "0140"
+ },
+ {
+  "frontTitle": "חָכְמָה",
+  "backTitle": "sagesse",
+  "id": "0141"
+ },
+ {
+  "frontTitle": "חֲצִי",
+  "backTitle": "moitié",
+  "id": "0142"
+ },
+ {
+  "frontTitle": "חֶרֶב",
+  "backTitle": "épée \n חֲרָבוֹת",
+  "id": "0143"
+ },
+ {
+  "frontTitle": "זָר",
+  "backTitle": "étranger",
+  "id": "0144"
+ },
+ {
+  "frontTitle": "מֵת",
+  "backTitle": "mort",
+  "id": "0145"
+ },
+ {
+  "frontTitle": "חַי",
+  "backTitle": "vivant",
+  "id": "0146"
+ },
+ {
+  "frontTitle": "אֵצֶל",
+  "backTitle": "près de",
+  "id": "0147"
+ },
+ {
+  "frontTitle": "בְּתוֹךְ",
+  "backTitle": "au centre",
+  "id": "0148"
+ },
+ {
+  "frontTitle": "גָּזַר",
+  "backTitle": "couper",
+  "id": "0149"
+ },
+ {
+  "frontTitle": "יָלַד",
+  "backTitle": "engendrer",
+  "id": "0150"
+ },
+ {
+  "frontTitle": "מֵת",
+  "backTitle": "mourir",
+  "id": "0151"
+ },
+ {
+  "frontTitle": "נָפַל",
+  "backTitle": "tomber",
+  "id": "0152"
+ },
+ {
+  "frontTitle": "נָתַל",
+  "backTitle": "donner",
+  "id": "0153"
+ },
+ {
+  "frontTitle": "לָקַח",
+  "backTitle": "prendre",
+  "id": "0154"
+ },
+ {
+  "frontTitle": "יָרֵא",
+  "backTitle": "craindre",
+  "id": "0155"
+ }
 ]

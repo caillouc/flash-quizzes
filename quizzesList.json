@@ -3,9 +3,9 @@
 	"quizzes":
 	[
 		{
-			"name": "Country \u2192 Capital",
+			"name": "Capitales",
 			"file_name": "country-to-capital.json",
-			"version": "1.0",
+			"version": "1.2",
 			"icon": "0xe67c",
 			"question_text_size": 50.0,
 			"description_text_size": 20.0,

@@ -7,33 +7,25 @@
 			"file_name": "country-to-capital.json",
 			"version": "1.2",
 			"icon": "0xe67c",
-			"question_text_size": 50.0,
-			"description_text_size": 20.0,
 			"tags": ["Europe", "Asie", "Amérique du Sud", "Amérique du Nord", "Afrique", "Australie"]
 		},
 		{
 			"name": "Glyphes Hébreu",
 			"file_name": "glyphes-hebreu.json",
 			"version": "1.0",
-			"icon": "0xe0bf",
-			"question_text_size": 180.0,
-			"description_text_size": 20.0
+			"icon": "0xe0bf"
 		},
 		{
 			"name": "Vocabulaire Hébreu",
 			"file_name": "vocabulaire-hebreu.json",
 			"version": "1.0",
-			"icon": "0xf05f0",
-			"question_text_size": 65.0,
-			"description_text_size": 40.0
+			"icon": "0xf05f0"
 		},
 		{
 			"name": "Alphabet Grec",
 			"file_name": "alphabet-grec.json",
 			"version": "1.0",
 			"icon": "0xe3dd",
-			"question_text_size": 180.0,
-			"description_text_size": 20.0,
 			"tags": ["Minuscule", "Majuscule"]
 		},
 		{
@@ -41,8 +33,6 @@
 			"file_name": "vocabulaire-grec.json",
 			"version": "1.0",
 			"icon": "0xe5dd",
-			"question_text_size": 50.0,
-			"description_text_size": 20.0,
 			"tags" : ["Préposition"]
 		}
 	]

@@ -1,0 +1,1580 @@
+[
+    {
+        "frontTitle": "Afghanistan",
+        "backTitle": "Kaboul",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0001"
+    },
+    {
+        "frontTitle": "Afrique du Sud",
+        "backTitle": "Prétoria",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0002"
+    },
+    {
+        "frontTitle": "Albanie",
+        "backTitle": "Tirana",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0003"
+    },
+    {
+        "frontTitle": "Algérie",
+        "backTitle": "Alger",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0004"
+    },
+    {
+        "frontTitle": "Allemagne",
+        "backTitle": "Berlin",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0005"
+    },
+    {
+        "frontTitle": "Andorre",
+        "backTitle": "Andorre-la-Vieille",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0006"
+    },
+    {
+        "frontTitle": "Angola",
+        "backTitle": "Luanda",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0007"
+    },
+    {
+        "frontTitle": "Antigua-et-Barbuda",
+        "backTitle": "Saint John's",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0008"
+    },
+    {
+        "frontTitle": "Arabie saoudite",
+        "backTitle": "Riyad",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0009"
+    },
+    {
+        "frontTitle": "Argentine",
+        "backTitle": "Buenos Aires",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0010"
+    },
+    {
+        "frontTitle": "Arménie",
+        "backTitle": "Erevan",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0011"
+    },
+    {
+        "frontTitle": "Australie",
+        "backTitle": "Canberra",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0012"
+    },
+    {
+        "frontTitle": "Autriche",
+        "backTitle": "Vienne",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0013"
+    },
+    {
+        "frontTitle": "Azerbaïdjan",
+        "backTitle": "Bakou",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0014"
+    },
+    {
+        "frontTitle": "Bahamas",
+        "backTitle": "Nassau",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0015"
+    },
+    {
+        "frontTitle": "Bahreïn",
+        "backTitle": "Manama",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0016"
+    },
+    {
+        "frontTitle": "Bangladesh",
+        "backTitle": "Dacca",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0017"
+    },
+    {
+        "frontTitle": "Barbade",
+        "backTitle": "Bridgetown",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0018"
+    },
+    {
+        "frontTitle": "Belgique",
+        "backTitle": "Bruxelles",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0019"
+    },
+    {
+        "frontTitle": "Bélize",
+        "backTitle": "Belmopan",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0020"
+    },
+    {
+        "frontTitle": "Bénin",
+        "backTitle": "Porto-Novo",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0021"
+    },
+    {
+        "frontTitle": "Bhoutan",
+        "backTitle": "Thimphou",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0022"
+    },
+    {
+        "frontTitle": "Biélorussie",
+        "backTitle": "Minsk",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0023"
+    },
+    {
+        "frontTitle": "Birmanie",
+        "backTitle": "Naypyidaw",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0024"
+    },
+    {
+        "frontTitle": "Bolivie",
+        "backTitle": "Sucre / La Paz",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0025"
+    },
+    {
+        "frontTitle": "Bosnie-Herzégovine",
+        "backTitle": "Sarajevo",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0026"
+    },
+    {
+        "frontTitle": "Botswana",
+        "backTitle": "Gaborone",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0027"
+    },
+    {
+        "frontTitle": "Brésil",
+        "backTitle": "Brasilia",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0028"
+    },
+    {
+        "frontTitle": "Brunei",
+        "backTitle": "Bandar Seri Begawan",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0029"
+    },
+    {
+        "frontTitle": "Bulgarie",
+        "backTitle": "Sofia",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0030"
+    },
+    {
+        "frontTitle": "Burkina",
+        "backTitle": "Ouagadougou",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0031"
+    },
+    {
+        "frontTitle": "Burundi",
+        "backTitle": "Gitega",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0032"
+    },
+    {
+        "frontTitle": "Cambodge",
+        "backTitle": "Phnom Penh",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0033"
+    },
+    {
+        "frontTitle": "Cameroun",
+        "backTitle": "Yaoundé",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0034"
+    },
+    {
+        "frontTitle": "Canada",
+        "backTitle": "Ottawa",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0035"
+    },
+    {
+        "frontTitle": "Cap-Vert",
+        "backTitle": "Praia",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0036"
+    },
+    {
+        "frontTitle": "Centrafrique",
+        "backTitle": "Bangui",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0037"
+    },
+    {
+        "frontTitle": "Chili",
+        "backTitle": "Santiago",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0038"
+    },
+    {
+        "frontTitle": "Chine",
+        "backTitle": "Pékin",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0039"
+    },
+    {
+        "frontTitle": "Chypre",
+        "backTitle": "Nicosie",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0040"
+    },
+    {
+        "frontTitle": "Colombie",
+        "backTitle": "Bogota",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0041"
+    },
+    {
+        "frontTitle": "Comores",
+        "backTitle": "Moroni",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0042"
+    },
+    {
+        "frontTitle": "Congo",
+        "backTitle": "Brazzaville",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0043"
+    },
+    {
+        "frontTitle": "République démocratique du Congo",
+        "backTitle": "Kinshasa",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0044"
+    },
+    {
+        "frontTitle": "Îles Cook",
+        "backTitle": "Avarua",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0045"
+    },
+    {
+        "frontTitle": "Corée du Nord",
+        "backTitle": "Pyongyang",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0046"
+    },
+    {
+        "frontTitle": "Corée du Sud",
+        "backTitle": "Séoul",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0047"
+    },
+    {
+        "frontTitle": "Costa Rica",
+        "backTitle": "San José",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0048"
+    },
+    {
+        "frontTitle": "Côte d'Ivoire",
+        "backTitle": "Yamoussoukro",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0049"
+    },
+    {
+        "frontTitle": "Croatie",
+        "backTitle": "Zagreb",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0050"
+    },
+    {
+        "frontTitle": "Cuba",
+        "backTitle": "La Havane",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0051"
+    },
+    {
+        "frontTitle": "Danemark",
+        "backTitle": "Copenhague",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0052"
+    },
+    {
+        "frontTitle": "Djibouti",
+        "backTitle": "Djibouti",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0053"
+    },
+    {
+        "frontTitle": "République dominicaine",
+        "backTitle": "Saint-Domingue",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0054"
+    },
+    {
+        "frontTitle": "Dominique",
+        "backTitle": "Roseau",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0055"
+    },
+    {
+        "frontTitle": "Égypte",
+        "backTitle": "Le Caire",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0056"
+    },
+    {
+        "frontTitle": "Émirats arabes unis",
+        "backTitle": "Abou Dabi",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0057"
+    },
+    {
+        "frontTitle": "Équateur",
+        "backTitle": "Quito",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0058"
+    },
+    {
+        "frontTitle": "Érythrée",
+        "backTitle": "Asmara",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0059"
+    },
+    {
+        "frontTitle": "Espagne",
+        "backTitle": "Madrid",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0060"
+    },
+    {
+        "frontTitle": "Estonie",
+        "backTitle": "Tallinn",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0061"
+    },
+    {
+        "frontTitle": "Eswatini",
+        "backTitle": "Mbabané",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0062"
+    },
+    {
+        "frontTitle": "États-Unis",
+        "backTitle": "Washington",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0063"
+    },
+    {
+        "frontTitle": "Éthiopie",
+        "backTitle": "Addis Abeba",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0064"
+    },
+    {
+        "frontTitle": "Fidji",
+        "backTitle": "Suva",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0065"
+    },
+    {
+        "frontTitle": "Finlande",
+        "backTitle": "Helsinki",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0066"
+    },
+    {
+        "frontTitle": "France",
+        "backTitle": "Paris",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0067"
+    },
+    {
+        "frontTitle": "Gabon",
+        "backTitle": "Libreville",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0068"
+    },
+    {
+        "frontTitle": "Gambie",
+        "backTitle": "Banjul",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0069"
+    },
+    {
+        "frontTitle": "Géorgie",
+        "backTitle": "Tbilissi",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0070"
+    },
+    {
+        "frontTitle": "Ghana",
+        "backTitle": "Accra",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0071"
+    },
+    {
+        "frontTitle": "Grèce",
+        "backTitle": "Athènes",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0072"
+    },
+    {
+        "frontTitle": "Grenade",
+        "backTitle": "Saint-Georges",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0073"
+    },
+    {
+        "frontTitle": "Guatémala",
+        "backTitle": "Guatémala",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0074"
+    },
+    {
+        "frontTitle": "Guinée",
+        "backTitle": "Conakry",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0075"
+    },
+    {
+        "frontTitle": "Guinée équatoriale",
+        "backTitle": "Malabo",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0076"
+    },
+    {
+        "frontTitle": "Guinée-Bissao",
+        "backTitle": "Bissao",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0077"
+    },
+    {
+        "frontTitle": "Guyana",
+        "backTitle": "Georgetown",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0078"
+    },
+    {
+        "frontTitle": "Haïti",
+        "backTitle": "Port-au-Prince",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0079"
+    },
+    {
+        "frontTitle": "Honduras",
+        "backTitle": "Tégucigalpa",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0080"
+    },
+    {
+        "frontTitle": "Hongrie",
+        "backTitle": "Budapest",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0081"
+    },
+    {
+        "frontTitle": "Inde",
+        "backTitle": "New Delhi",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0082"
+    },
+    {
+        "frontTitle": "Indonésie",
+        "backTitle": "Jakarta",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0083"
+    },
+    {
+        "frontTitle": "Irak",
+        "backTitle": "Bagdad",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0084"
+    },
+    {
+        "frontTitle": "Iran",
+        "backTitle": "Téhéran",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0085"
+    },
+    {
+        "frontTitle": "Irlande",
+        "backTitle": "Dublin",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0086"
+    },
+    {
+        "frontTitle": "Islande",
+        "backTitle": "Reykjavik",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0087"
+    },
+    {
+        "frontTitle": "Israël",
+        "backTitle": "Jérusalem",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0088"
+    },
+    {
+        "frontTitle": "Italie",
+        "backTitle": "Rome",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0089"
+    },
+    {
+        "frontTitle": "Jamaïque",
+        "backTitle": "Kingston",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0090"
+    },
+    {
+        "frontTitle": "Japon",
+        "backTitle": "Tokyo",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0091"
+    },
+    {
+        "frontTitle": "Jordanie",
+        "backTitle": "Amman",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0092"
+    },
+    {
+        "frontTitle": "Kazakhstan",
+        "backTitle": "Nour-Soultan",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0093"
+    },
+    {
+        "frontTitle": "Kénya",
+        "backTitle": "Nairobi",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0094"
+    },
+    {
+        "frontTitle": "Kirghizstan",
+        "backTitle": "Bichkek",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0095"
+    },
+    {
+        "frontTitle": "Kiribati",
+        "backTitle": "Bairiki",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0096"
+    },
+    {
+        "frontTitle": "Kosovo",
+        "backTitle": "Pristina",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0097"
+    },
+    {
+        "frontTitle": "Koweït",
+        "backTitle": "Koweït",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0098"
+    },
+    {
+        "frontTitle": "Laos",
+        "backTitle": "Vientiane",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0099"
+    },
+    {
+        "frontTitle": "Lésotho",
+        "backTitle": "Maséru",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0100"
+    },
+    {
+        "frontTitle": "Lettonie",
+        "backTitle": "Riga",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0101"
+    },
+    {
+        "frontTitle": "Liban",
+        "backTitle": "Beyrouth",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0102"
+    },
+    {
+        "frontTitle": "Libéria",
+        "backTitle": "Monrovia",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0103"
+    },
+    {
+        "frontTitle": "Libye",
+        "backTitle": "Tripoli",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0104"
+    },
+    {
+        "frontTitle": "Liechtenstein",
+        "backTitle": "Vaduz",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0105"
+    },
+    {
+        "frontTitle": "Lituanie",
+        "backTitle": "Vilnius",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0106"
+    },
+    {
+        "frontTitle": "Luxembourg",
+        "backTitle": "Luxembourg",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0107"
+    },
+    {
+        "frontTitle": "Macédoine du Nord",
+        "backTitle": "Skopje",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0108"
+    },
+    {
+        "frontTitle": "Madagascar",
+        "backTitle": "Antananarivo (Tananarive)",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0109"
+    },
+    {
+        "frontTitle": "Malaisie",
+        "backTitle": "Kuala Lumpur",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0110"
+    },
+    {
+        "frontTitle": "Malawi",
+        "backTitle": "Lilongwé",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0111"
+    },
+    {
+        "frontTitle": "Maldives",
+        "backTitle": "Malé",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0112"
+    },
+    {
+        "frontTitle": "Mali",
+        "backTitle": "Bamako",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0113"
+    },
+    {
+        "frontTitle": "Malte",
+        "backTitle": "La Valette",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0114"
+    },
+    {
+        "frontTitle": "Maroc",
+        "backTitle": "Rabat",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0115"
+    },
+    {
+        "frontTitle": "Îles Marshall",
+        "backTitle": "Delap-Uliga-Darrit",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0116"
+    },
+    {
+        "frontTitle": "Maurice",
+        "backTitle": "Port-Louis",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0117"
+    },
+    {
+        "frontTitle": "Mauritanie",
+        "backTitle": "Nouakchott",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0118"
+    },
+    {
+        "frontTitle": "Mexique",
+        "backTitle": "Mexico",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0119"
+    },
+    {
+        "frontTitle": "Micronésie",
+        "backTitle": "Palikir",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0120"
+    },
+    {
+        "frontTitle": "Moldavie",
+        "backTitle": "Chisinau",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0121"
+    },
+    {
+        "frontTitle": "Monaco",
+        "backTitle": "Monaco",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0122"
+    },
+    {
+        "frontTitle": "Mongolie",
+        "backTitle": "Oulan-Bator",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0123"
+    },
+    {
+        "frontTitle": "Monténégro",
+        "backTitle": "Podgorica",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0124"
+    },
+    {
+        "frontTitle": "Mozambique",
+        "backTitle": "Maputo",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0125"
+    },
+    {
+        "frontTitle": "Namibie",
+        "backTitle": "Windhoek",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0126"
+    },
+    {
+        "frontTitle": "Nauru",
+        "backTitle": "Yaren",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0127"
+    },
+    {
+        "frontTitle": "Népal",
+        "backTitle": "Katmandou",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0128"
+    },
+    {
+        "frontTitle": "Nicaragua",
+        "backTitle": "Managua",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0129"
+    },
+    {
+        "frontTitle": "Niger",
+        "backTitle": "Niamey",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0130"
+    },
+    {
+        "frontTitle": "Nigéria",
+        "backTitle": "Abuja",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0131"
+    },
+    {
+        "frontTitle": "Niue",
+        "backTitle": "Alofi",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0132"
+    },
+    {
+        "frontTitle": "Norvège",
+        "backTitle": "Oslo",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0133"
+    },
+    {
+        "frontTitle": "Nouvelle-Zélande",
+        "backTitle": "Wellington",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0134"
+    },
+    {
+        "frontTitle": "Oman",
+        "backTitle": "Mascate",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0135"
+    },
+    {
+        "frontTitle": "Ouganda",
+        "backTitle": "Kampala",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0136"
+    },
+    {
+        "frontTitle": "Ouzbékistan",
+        "backTitle": "Tachkent",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0137"
+    },
+    {
+        "frontTitle": "Pakistan",
+        "backTitle": "Islamabad",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0138"
+    },
+    {
+        "frontTitle": "Palaos",
+        "backTitle": "Melekeok",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0139"
+    },
+    {
+        "frontTitle": "Panama",
+        "backTitle": "Panama",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0140"
+    },
+    {
+        "frontTitle": "Papouasie-Nouvelle-Guinée",
+        "backTitle": "Port Moresby",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0141"
+    },
+    {
+        "frontTitle": "Paraguay",
+        "backTitle": "Assomption (Asuncion)",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0142"
+    },
+    {
+        "frontTitle": "Pays-Bas",
+        "backTitle": "Amsterdam",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0143"
+    },
+    {
+        "frontTitle": "Pérou",
+        "backTitle": "Lima",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0144"
+    },
+    {
+        "frontTitle": "Philippines",
+        "backTitle": "Manille",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0145"
+    },
+    {
+        "frontTitle": "Pologne",
+        "backTitle": "Varsovie",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0146"
+    },
+    {
+        "frontTitle": "Portugal",
+        "backTitle": "Lisbonne",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0147"
+    },
+    {
+        "frontTitle": "Qatar",
+        "backTitle": "Doha",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0148"
+    },
+    {
+        "frontTitle": "Roumanie",
+        "backTitle": "Bucarest",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0149"
+    },
+    {
+        "frontTitle": "Royaume-Uni",
+        "backTitle": "Londres",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0150"
+    },
+    {
+        "frontTitle": "Russie",
+        "backTitle": "Moscou",
+        "tags": [
+            "Europe",
+            "Asie"
+        ],
+        "id": "0151"
+    },
+    {
+        "frontTitle": "Rwanda",
+        "backTitle": "Kigali",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0152"
+    },
+    {
+        "frontTitle": "Saint-Christophe-et-Niévès",
+        "backTitle": "Basseterre",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0153"
+    },
+    {
+        "frontTitle": "Sainte-Lucie",
+        "backTitle": "Castries",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0154"
+    },
+    {
+        "frontTitle": "Saint-Marin",
+        "backTitle": "Saint-Marin",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0155"
+    },
+    {
+        "frontTitle": "Saint-Vincent-et-les-Grenadines",
+        "backTitle": "Kingstown",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0156"
+    },
+    {
+        "frontTitle": "Salomon",
+        "backTitle": "Honiara",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0157"
+    },
+    {
+        "frontTitle": "Salvador",
+        "backTitle": "San Salvador",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0158"
+    },
+    {
+        "frontTitle": "Samoa",
+        "backTitle": "Apia",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0159"
+    },
+    {
+        "frontTitle": "Sao Tomé-et-Principe",
+        "backTitle": "Sao Tomé",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0160"
+    },
+    {
+        "frontTitle": "Sénégal",
+        "backTitle": "Dakar",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0161"
+    },
+    {
+        "frontTitle": "Serbie",
+        "backTitle": "Belgrade",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0162"
+    },
+    {
+        "frontTitle": "Seychelles",
+        "backTitle": "Victoria",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0163"
+    },
+    {
+        "frontTitle": "Sierra Leone",
+        "backTitle": "Freetown",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0164"
+    },
+    {
+        "frontTitle": "Singapour",
+        "backTitle": "Singapour",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0165"
+    },
+    {
+        "frontTitle": "Slovaquie",
+        "backTitle": "Bratislava",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0166"
+    },
+    {
+        "frontTitle": "Slovénie",
+        "backTitle": "Ljubljana",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0167"
+    },
+    {
+        "frontTitle": "Somalie",
+        "backTitle": "Mogadiscio",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0168"
+    },
+    {
+        "frontTitle": "Soudan",
+        "backTitle": "Khartoum",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0169"
+    },
+    {
+        "frontTitle": "Soudan du Sud",
+        "backTitle": "Djouba",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0170"
+    },
+    {
+        "frontTitle": "Sri Lanka",
+        "backTitle": "Sri Jayewardenepura-Kotte",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0171"
+    },
+    {
+        "frontTitle": "Suède",
+        "backTitle": "Stockholm",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0172"
+    },
+    {
+        "frontTitle": "Suisse",
+        "backTitle": "Berne",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0173"
+    },
+    {
+        "frontTitle": "Suriname",
+        "backTitle": "Paramaribo",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0174"
+    },
+    {
+        "frontTitle": "Syrie",
+        "backTitle": "Damas",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0175"
+    },
+    {
+        "frontTitle": "Tadjikistan",
+        "backTitle": "Douchanbé",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0176"
+    },
+    {
+        "frontTitle": "Tanzanie",
+        "backTitle": "Dodoma",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0177"
+    },
+    {
+        "frontTitle": "Tchad",
+        "backTitle": "Ndjamena",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0178"
+    },
+    {
+        "frontTitle": "Tchéquie",
+        "backTitle": "Prague",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0179"
+    },
+    {
+        "frontTitle": "Thaïlande",
+        "backTitle": "Bangkok",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0180"
+    },
+    {
+        "frontTitle": "Timor oriental",
+        "backTitle": "Dili",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0181"
+    },
+    {
+        "frontTitle": "Togo",
+        "backTitle": "Lomé",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0182"
+    },
+    {
+        "frontTitle": "Tonga",
+        "backTitle": "Nuku'alofa",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0183"
+    },
+    {
+        "frontTitle": "Trinité-et-Tobago",
+        "backTitle": "Port d'Espagne (Port of Spain)",
+        "tags": [
+            "Amérique du Nord"
+        ],
+        "id": "0184"
+    },
+    {
+        "frontTitle": "Tunisie",
+        "backTitle": "Tunis",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0185"
+    },
+    {
+        "frontTitle": "Turkménistan",
+        "backTitle": "Achgabat",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0186"
+    },
+    {
+        "frontTitle": "Turquie",
+        "backTitle": "Ankara",
+        "tags": [
+            "Europe",
+            "Asie"
+        ],
+        "id": "0187"
+    },
+    {
+        "frontTitle": "Tuvalu",
+        "backTitle": "Vaiaku",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0188"
+    },
+    {
+        "frontTitle": "Ukraine",
+        "backTitle": "Kiev",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0189"
+    },
+    {
+        "frontTitle": "Uruguay",
+        "backTitle": "Montévidéo",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0190"
+    },
+    {
+        "frontTitle": "Vanuatu",
+        "backTitle": "Port-Vila",
+        "tags": [
+            "Australie"
+        ],
+        "id": "0191"
+    },
+    {
+        "frontTitle": "Vatican",
+        "backTitle": "Vatican",
+        "tags": [
+            "Europe"
+        ],
+        "id": "0192"
+    },
+    {
+        "frontTitle": "Vénézuéla",
+        "backTitle": "Caracas",
+        "tags": [
+            "Amérique du Sud"
+        ],
+        "id": "0193"
+    },
+    {
+        "frontTitle": "Vietnam",
+        "backTitle": "Hanoï",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0194"
+    },
+    {
+        "frontTitle": "Yémen",
+        "backTitle": "Sanaa",
+        "tags": [
+            "Asie"
+        ],
+        "id": "0195"
+    },
+    {
+        "frontTitle": "Zambie",
+        "backTitle": "Lusaka",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0196"
+    },
+    {
+        "frontTitle": "Zimbabwé",
+        "backTitle": "Hararé",
+        "tags": [
+            "Afrique"
+        ],
+        "id": "0197"
+    }
+]

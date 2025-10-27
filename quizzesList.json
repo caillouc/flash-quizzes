@@ -1,13 +1,19 @@
 {
 	"version": "1.0",
-	"quizzes":
-	[
+	"quizzes": [
 		{
 			"name": "Capitales",
-			"file_name": "country-to-capital.json",
-			"version": "1.2",
+			"file_name": "capital.json",
+			"version": "1.3",
 			"icon": "0xe67c",
-			"tags": ["Europe", "Asie", "Amérique du Sud", "Amérique du Nord", "Afrique", "Australie"]
+			"tags": [
+				"Europe",
+				"Asie",
+				"Amérique du Sud",
+				"Amérique du Nord",
+				"Afrique",
+				"Australie"
+			]
 		},
 		{
 			"name": "Glyphes Hébreu",
@@ -26,14 +32,26 @@
 			"file_name": "alphabet-grec.json",
 			"version": "1.0",
 			"icon": "0xe3dd",
-			"tags": ["Minuscule", "Majuscule"]
+			"tags": [
+				"Minuscule",
+				"Majuscule"
+			]
 		},
 		{
 			"name": "Vocabulaire Grec",
 			"file_name": "vocabulaire-grec.json",
-			"version": "1.0",
+			"version": "1.1",
 			"icon": "0xe5dd",
-			"tags" : ["Préposition"]
+			"tags": [
+				"Préposition",
+				"Chapitre 1",
+				"Chapitre 2",
+				"Chapitre 3",
+				"Chapitre 4",
+				"Chapitre 5",
+				"Chapitre 6",
+				"Chapitre 7"
+			]
 		}
 	]
 }

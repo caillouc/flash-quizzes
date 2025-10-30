@@ -178,4 +178,5 @@ The repository currently contains:
 - Greek Vocabulary
 - Hebrew Glyphs
 - Hebrew Vocabulary
+- Morse Code
 

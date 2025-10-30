@@ -1,0 +1,183 @@
+[
+    {
+        "frontTitle": "A",
+        "backTitle": ".-",
+        "id": "A"
+    },
+    {
+        "frontTitle": "B",
+        "backTitle": "-...",
+        "id": "B"
+    },
+    {
+        "frontTitle": "C",
+        "backTitle": "-.-.",
+        "id": "C"
+    },
+    {
+        "frontTitle": "D",
+        "backTitle": "-..",
+        "id": "D"
+    },
+    {
+        "frontTitle": "E",
+        "backTitle": ".",
+        "id": "E"
+    },
+    {
+        "frontTitle": "F",
+        "backTitle": "..-.",
+        "id": "F"
+    },
+    {
+        "frontTitle": "G",
+        "backTitle": "--.",
+        "id": "G"
+    },
+    {
+        "frontTitle": "H",
+        "backTitle": "....",
+        "id": "H"
+    },
+    {
+        "frontTitle": "I",
+        "backTitle": "..",
+        "id": "I"
+    },
+    {
+        "frontTitle": "J",
+        "backTitle": ".---",
+        "id": "J"
+    },
+    {
+        "frontTitle": "K",
+        "backTitle": "-.-",
+        "id": "K"
+    },
+    {
+        "frontTitle": "L",
+        "backTitle": ".-..",
+        "id": "L"
+    },
+    {
+        "frontTitle": "M",
+        "backTitle": "--",
+        "id": "M"
+    },
+    {
+        "frontTitle": "N",
+        "backTitle": "-.",
+        "id": "N"
+    },
+    {
+        "frontTitle": "O",
+        "backTitle": "---",
+        "id": "O"
+    },
+    {
+        "frontTitle": "P",
+        "backTitle": ".--.",
+        "id": "P"
+    },
+    {
+        "frontTitle": "Q",
+        "backTitle": "--.-",
+        "id": "Q"
+    },
+    {
+        "frontTitle": "R",
+        "backTitle": ".-.",
+        "id": "R"
+    },
+    {
+        "frontTitle": "S",
+        "backTitle": "...",
+        "id": "S"
+    },
+    {
+        "frontTitle": "T",
+        "backTitle": "-",
+        "id": "T"
+    },
+    {
+        "frontTitle": "U",
+        "backTitle": "..-",
+        "id": "U"
+    },
+    {
+        "frontTitle": "V",
+        "backTitle": "...-",
+        "id": "V"
+    },
+    {
+        "frontTitle": "W",
+        "backTitle": ".--",
+        "id": "W"
+    },
+    {
+        "frontTitle": "X",
+        "backTitle": "-..-",
+        "id": "X"
+    },
+    {
+        "frontTitle": "Y",
+        "backTitle": "-.--",
+        "id": "Y"
+    },
+    {
+        "frontTitle": "Z",
+        "backTitle": "--..",
+        "id": "Z"
+    },
+    {
+        "frontTitle": "0",
+        "backTitle": "-----",
+        "id": "0"
+    },
+    {
+        "frontTitle": "1",
+        "backTitle": ".----",
+        "id": "1"
+    },
+    {
+        "frontTitle": "2",
+        "backTitle": "..---",
+        "id": "2"
+    },
+    {
+        "frontTitle": "3",
+        "backTitle": "...--",
+        "id": "3"
+    },
+    {
+        "frontTitle": "4",
+        "backTitle": "....-",
+        "id": "4"
+    },
+    {
+        "frontTitle": "5",
+        "backTitle": ".....",
+        "id": "5"
+    },
+    {
+        "frontTitle": "6",
+        "backTitle": "-....",
+        "id": "6"
+    },
+    {
+        "frontTitle": "7",
+        "backTitle": "--...",
+        "id": "7"
+    },
+    {
+        "frontTitle": "8",
+        "backTitle": "---..",
+        "id": "8"
+    },
+    {
+        "frontTitle": "9",
+        "backTitle": "----.",
+        "id": "9"
+    }
+
+]

@@ -52,6 +52,13 @@
 				"Chapitre 6",
 				"Chapitre 7"
 			]
+		},
+		{
+			"name": "Code Morse",
+			"file_name": "morse.json",
+			"version": "1.0",
+			"icon": "0xe37d"
 		}
+
 	]
 }

@@ -1,0 +1,902 @@
+[
+    {
+        "frontTitle": "i",
+        "backTitle": "Insert mode",
+        "backDescription": "Enter insert mode before cursor",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0001"
+    },
+    {
+        "frontTitle": "I",
+        "backTitle": "Insert at beginning of line",
+        "backDescription": "Enter insert mode at the beginning of the current line",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0002"
+    },
+    {
+        "frontTitle": "a",
+        "backTitle": "Append",
+        "backDescription": "Enter insert mode after cursor",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0003"
+    },
+    {
+        "frontTitle": "A",
+        "backTitle": "Append at end of line",
+        "backDescription": "Enter insert mode at the end of the current line",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0004"
+    },
+    {
+        "frontTitle": "o",
+        "backTitle": "Open new line below",
+        "backDescription": "Create a new line below and enter insert mode",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0005"
+    },
+    {
+        "frontTitle": "O",
+        "backTitle": "Open new line above",
+        "backDescription": "Create a new line above and enter insert mode",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0006"
+    },
+    {
+        "frontTitle": "Esc",
+        "backTitle": "Normal mode",
+        "backDescription": "Return to normal mode from any other mode",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0007"
+    },
+    {
+        "frontTitle": "v",
+        "backTitle": "Visual mode",
+        "backDescription": "Enter visual mode for character selection",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0008"
+    },
+    {
+        "frontTitle": "V",
+        "backTitle": "Visual Line mode",
+        "backDescription": "Enter visual mode for line selection",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0009"
+    },
+    {
+        "frontTitle": "Ctrl+v",
+        "backTitle": "Visual Block mode",
+        "backDescription": "Enter visual mode for block selection",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0010"
+    },
+    {
+        "frontTitle": "h",
+        "backTitle": "Move left",
+        "backDescription": "Move cursor one character left",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0011"
+    },
+    {
+        "frontTitle": "j",
+        "backTitle": "Move down",
+        "backDescription": "Move cursor one line down",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0012"
+    },
+    {
+        "frontTitle": "k",
+        "backTitle": "Move up",
+        "backDescription": "Move cursor one line up",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0013"
+    },
+    {
+        "frontTitle": "l",
+        "backTitle": "Move right",
+        "backDescription": "Move cursor one character right",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0014"
+    },
+    {
+        "frontTitle": "w",
+        "backTitle": "Next word",
+        "backDescription": "Move to the beginning of the next word",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0015"
+    },
+    {
+        "frontTitle": "W",
+        "backTitle": "Next WORD",
+        "backDescription": "Move to the beginning of the next WORD (whitespace separated)",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0016"
+    },
+    {
+        "frontTitle": "b",
+        "backTitle": "Previous word",
+        "backDescription": "Move to the beginning of the previous word",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0017"
+    },
+    {
+        "frontTitle": "B",
+        "backTitle": "Previous WORD",
+        "backDescription": "Move to the beginning of the previous WORD (whitespace separated)",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0018"
+    },
+    {
+        "frontTitle": "e",
+        "backTitle": "End of word",
+        "backDescription": "Move to the end of the current/next word",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0019"
+    },
+    {
+        "frontTitle": "E",
+        "backTitle": "End of WORD",
+        "backDescription": "Move to the end of the current/next WORD (whitespace separated)",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0020"
+    },
+    {
+        "frontTitle": "0",
+        "backTitle": "Beginning of line",
+        "backDescription": "Move to the first character of the line",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0021"
+    },
+    {
+        "frontTitle": "^",
+        "backTitle": "First non-blank character",
+        "backDescription": "Move to the first non-whitespace character of the line",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0022"
+    },
+    {
+        "frontTitle": "$",
+        "backTitle": "End of line",
+        "backDescription": "Move to the end of the line",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0023"
+    },
+    {
+        "frontTitle": "gg",
+        "backTitle": "First line",
+        "backDescription": "Move to the first line of the file",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0024"
+    },
+    {
+        "frontTitle": "G",
+        "backTitle": "Last line",
+        "backDescription": "Move to the last line of the file",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0025"
+    },
+    {
+        "frontTitle": ":{number}",
+        "backTitle": "Go to line number",
+        "backDescription": "Jump to a specific line number",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0026"
+    },
+    {
+        "frontTitle": "x",
+        "backTitle": "Delete character",
+        "backDescription": "Delete the character under the cursor",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0027"
+    },
+    {
+        "frontTitle": "X",
+        "backTitle": "Delete character before",
+        "backDescription": "Delete the character before the cursor",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0028"
+    },
+    {
+        "frontTitle": "dd",
+        "backTitle": "Delete line",
+        "backDescription": "Delete the current line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0029"
+    },
+    {
+        "frontTitle": "dw",
+        "backTitle": "Delete word",
+        "backDescription": "Delete from cursor to the beginning of the next word",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0030"
+    },
+    {
+        "frontTitle": "d$",
+        "backTitle": "Delete to end of line",
+        "backDescription": "Delete from cursor to the end of the line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0031"
+    },
+    {
+        "frontTitle": "d0",
+        "backTitle": "Delete to beginning of line",
+        "backDescription": "Delete from cursor to the beginning of the line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0032"
+    },
+    {
+        "frontTitle": "yy",
+        "backTitle": "Copy line",
+        "backDescription": "Yank (copy) the current line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0033"
+    },
+    {
+        "frontTitle": "yw",
+        "backTitle": "Copy word",
+        "backDescription": "Yank (copy) from cursor to the beginning of the next word",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0034"
+    },
+    {
+        "frontTitle": "y$",
+        "backTitle": "Copy to end of line",
+        "backDescription": "Yank (copy) from cursor to the end of the line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0035"
+    },
+    {
+        "frontTitle": "p",
+        "backTitle": "Paste after",
+        "backDescription": "Paste after the cursor position",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0036"
+    },
+    {
+        "frontTitle": "P",
+        "backTitle": "Paste before",
+        "backDescription": "Paste before the cursor position",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0037"
+    },
+    {
+        "frontTitle": "cc",
+        "backTitle": "Change line",
+        "backDescription": "Delete the current line and enter insert mode",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0038"
+    },
+    {
+        "frontTitle": "cw",
+        "backTitle": "Change word",
+        "backDescription": "Delete from cursor to next word and enter insert mode",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0039"
+    },
+    {
+        "frontTitle": "c$",
+        "backTitle": "Change to end of line",
+        "backDescription": "Delete from cursor to end of line and enter insert mode",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0040"
+    },
+    {
+        "frontTitle": "s",
+        "backTitle": "Substitute character",
+        "backDescription": "Delete character under cursor and enter insert mode",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0041"
+    },
+    {
+        "frontTitle": "S",
+        "backTitle": "Substitute line",
+        "backDescription": "Delete entire line and enter insert mode",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0042"
+    },
+    {
+        "frontTitle": "r",
+        "backTitle": "Replace character",
+        "backDescription": "Replace the character under cursor with the next typed character",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0043"
+    },
+    {
+        "frontTitle": "R",
+        "backTitle": "Replace mode",
+        "backDescription": "Enter replace mode to overwrite characters",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0044"
+    },
+    {
+        "frontTitle": "u",
+        "backTitle": "Undo",
+        "backDescription": "Undo the last change",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0045"
+    },
+    {
+        "frontTitle": "Ctrl+r",
+        "backTitle": "Redo",
+        "backDescription": "Redo the last undone change",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0046"
+    },
+    {
+        "frontTitle": "/",
+        "backTitle": "Search forward",
+        "backDescription": "Search for a pattern forward in the file",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0047"
+    },
+    {
+        "frontTitle": "?",
+        "backTitle": "Search backward",
+        "backDescription": "Search for a pattern backward in the file",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0048"
+    },
+    {
+        "frontTitle": "n",
+        "backTitle": "Next search result",
+        "backDescription": "Move to the next search result",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0049"
+    },
+    {
+        "frontTitle": "N",
+        "backTitle": "Previous search result",
+        "backDescription": "Move to the previous search result",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0050"
+    },
+    {
+        "frontTitle": "*",
+        "backTitle": "Search word under cursor (forward)",
+        "backDescription": "Search for the word under cursor forward",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0051"
+    },
+    {
+        "frontTitle": "#",
+        "backTitle": "Search word under cursor (backward)",
+        "backDescription": "Search for the word under cursor backward",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0052"
+    },
+    {
+        "frontTitle": ":s/old/new/",
+        "backTitle": "Substitute in line",
+        "backDescription": "Replace first occurrence of 'old' with 'new' in current line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0053"
+    },
+    {
+        "frontTitle": ":s/old/new/g",
+        "backTitle": "Substitute all in line",
+        "backDescription": "Replace all occurrences of 'old' with 'new' in current line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0054"
+    },
+    {
+        "frontTitle": ":%s/old/new/g",
+        "backTitle": "Substitute all in file",
+        "backDescription": "Replace all occurrences of 'old' with 'new' in entire file",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0055"
+    },
+    {
+        "frontTitle": ":w",
+        "backTitle": "Save file",
+        "backDescription": "Write (save) the current file",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0056"
+    },
+    {
+        "frontTitle": ":q",
+        "backTitle": "Quit",
+        "backDescription": "Quit Vim (fails if there are unsaved changes)",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0057"
+    },
+    {
+        "frontTitle": ":q!",
+        "backTitle": "Force quit",
+        "backDescription": "Quit Vim without saving changes",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0058"
+    },
+    {
+        "frontTitle": ":wq",
+        "backTitle": "Save and quit",
+        "backDescription": "Write (save) the file and quit Vim",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0059"
+    },
+    {
+        "frontTitle": "ZZ",
+        "backTitle": "Save and quit (shortcut)",
+        "backDescription": "Save the file (if modified) and quit Vim",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0060"
+    },
+    {
+        "frontTitle": ":e filename",
+        "backTitle": "Edit file",
+        "backDescription": "Open a file for editing",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0061"
+    },
+    {
+        "frontTitle": ":new",
+        "backTitle": "New horizontal split",
+        "backDescription": "Create a new horizontal split window",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0062"
+    },
+    {
+        "frontTitle": ":vnew",
+        "backTitle": "New vertical split",
+        "backDescription": "Create a new vertical split window",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0063"
+    },
+    {
+        "frontTitle": "Ctrl+w h",
+        "backTitle": "Move to left window",
+        "backDescription": "Move cursor to the window on the left",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0064"
+    },
+    {
+        "frontTitle": "Ctrl+w j",
+        "backTitle": "Move to window below",
+        "backDescription": "Move cursor to the window below",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0065"
+    },
+    {
+        "frontTitle": "Ctrl+w k",
+        "backTitle": "Move to window above",
+        "backDescription": "Move cursor to the window above",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0066"
+    },
+    {
+        "frontTitle": "Ctrl+w l",
+        "backTitle": "Move to right window",
+        "backDescription": "Move cursor to the window on the right",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0067"
+    },
+    {
+        "frontTitle": "Ctrl+w c",
+        "backTitle": "Close window",
+        "backDescription": "Close the current window",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0068"
+    },
+    {
+        "frontTitle": "f{char}",
+        "backTitle": "Find character",
+        "backDescription": "Jump to the next occurrence of {char} on the current line",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0069"
+    },
+    {
+        "frontTitle": "F{char}",
+        "backTitle": "Find character backward",
+        "backDescription": "Jump to the previous occurrence of {char} on the current line",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0070"
+    },
+    {
+        "frontTitle": "t{char}",
+        "backTitle": "Till character",
+        "backDescription": "Jump to just before the next occurrence of {char} on the current line",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0071"
+    },
+    {
+        "frontTitle": "T{char}",
+        "backTitle": "Till character backward",
+        "backDescription": "Jump to just after the previous occurrence of {char} on the current line",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0072"
+    },
+    {
+        "frontTitle": ";",
+        "backTitle": "Repeat f/t/F/T",
+        "backDescription": "Repeat the last f, t, F, or T command",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0073"
+    },
+    {
+        "frontTitle": ",",
+        "backTitle": "Reverse repeat f/t/F/T",
+        "backDescription": "Repeat the last f, t, F, or T command in reverse direction",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0074"
+    },
+    {
+        "frontTitle": "%",
+        "backTitle": "Match bracket",
+        "backDescription": "Jump to the matching bracket, parenthesis, or brace",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0075"
+    },
+    {
+        "frontTitle": "{",
+        "backTitle": "Previous paragraph",
+        "backDescription": "Move to the beginning of the previous paragraph",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0076"
+    },
+    {
+        "frontTitle": "}",
+        "backTitle": "Next paragraph",
+        "backDescription": "Move to the beginning of the next paragraph",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0077"
+    },
+    {
+        "frontTitle": ">>",
+        "backTitle": "Indent line",
+        "backDescription": "Indent the current line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0078"
+    },
+    {
+        "frontTitle": "<<",
+        "backTitle": "Unindent line",
+        "backDescription": "Unindent the current line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0079"
+    },
+    {
+        "frontTitle": "==",
+        "backTitle": "Auto-indent line",
+        "backDescription": "Auto-indent the current line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0080"
+    },
+    {
+        "frontTitle": "~",
+        "backTitle": "Toggle case",
+        "backDescription": "Toggle the case of the character under cursor and move right",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0081"
+    },
+    {
+        "frontTitle": "gU",
+        "backTitle": "Uppercase",
+        "backDescription": "Convert to uppercase (works with motions)",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0082"
+    },
+    {
+        "frontTitle": "gu",
+        "backTitle": "Lowercase",
+        "backDescription": "Convert to lowercase (works with motions)",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0083"
+    },
+    {
+        "frontTitle": ".",
+        "backTitle": "Repeat last command",
+        "backDescription": "Repeat the last change command",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0084"
+    },
+    {
+        "frontTitle": "J",
+        "backTitle": "Join lines",
+        "backDescription": "Join the current line with the next line",
+        "tags": [
+            "Editing"
+        ],
+        "id": "0085"
+    },
+    {
+        "frontTitle": "Ctrl+f",
+        "backTitle": "Page down",
+        "backDescription": "Scroll down one page",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0086"
+    },
+    {
+        "frontTitle": "Ctrl+b",
+        "backTitle": "Page up",
+        "backDescription": "Scroll up one page",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0087"
+    },
+    {
+        "frontTitle": "Ctrl+d",
+        "backTitle": "Half page down",
+        "backDescription": "Scroll down half a page",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0088"
+    },
+    {
+        "frontTitle": "Ctrl+u",
+        "backTitle": "Half page up",
+        "backDescription": "Scroll up half a page",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0089"
+    },
+    {
+        "frontTitle": "zz",
+        "backTitle": "Center screen",
+        "backDescription": "Center the current line on the screen",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0090"
+    },
+    {
+        "frontTitle": "zt",
+        "backTitle": "Top of screen",
+        "backDescription": "Move current line to the top of the screen",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0091"
+    },
+    {
+        "frontTitle": "zb",
+        "backTitle": "Bottom of screen",
+        "backDescription": "Move current line to the bottom of the screen",
+        "tags": [
+            "Navigation"
+        ],
+        "id": "0092"
+    },
+    {
+        "frontTitle": "m{letter}",
+        "backTitle": "Set mark",
+        "backDescription": "Set a mark at the current position using {letter}",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0093"
+    },
+    {
+        "frontTitle": "'{letter}",
+        "backTitle": "Jump to mark line",
+        "backDescription": "Jump to the line containing mark {letter}",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0094"
+    },
+    {
+        "frontTitle": "`{letter}",
+        "backTitle": "Jump to mark position",
+        "backDescription": "Jump to the exact position of mark {letter}",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0095"
+    },
+    {
+        "frontTitle": "q{letter}",
+        "backTitle": "Record macro",
+        "backDescription": "Start recording a macro into register {letter}",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0096"
+    },
+    {
+        "frontTitle": "q",
+        "backTitle": "Stop recording macro",
+        "backDescription": "Stop recording the current macro",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0097"
+    },
+    {
+        "frontTitle": "@{letter}",
+        "backTitle": "Play macro",
+        "backDescription": "Execute the macro stored in register {letter}",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0098"
+    },
+    {
+        "frontTitle": "@@",
+        "backTitle": "Repeat last macro",
+        "backDescription": "Execute the last played macro again",
+        "tags": [
+            "Advanced"
+        ],
+        "id": "0099"
+    },
+    {
+        "frontTitle": ":set number",
+        "backTitle": "Show line numbers",
+        "backDescription": "Display line numbers on the left side",
+        "tags": [
+            "Basic"
+        ],
+        "id": "0100"
+    }
+]

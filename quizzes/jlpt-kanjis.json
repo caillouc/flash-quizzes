@@ -1,0 +1,5582 @@
+[
+    {
+        "id": "0001",
+        "frontTitle": "人",
+        "backTitle": "person, someone",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ひと"
+    },
+    {
+        "id": "0002",
+        "frontTitle": "一",
+        "backTitle": "most, best",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "いっち"
+    },
+    {
+        "id": "0003",
+        "frontTitle": "日",
+        "backTitle": "day, days",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ひ"
+    },
+    {
+        "id": "0004",
+        "frontTitle": "大",
+        "backTitle": "large, big",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "だい"
+    },
+    {
+        "id": "0005",
+        "frontTitle": "年",
+        "backTitle": "year, January is the first month of the year.",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "とし"
+    },
+    {
+        "id": "0006",
+        "frontTitle": "出",
+        "backTitle": "coming out, emerging",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "しゅつ"
+    },
+    {
+        "id": "0007",
+        "frontTitle": "本",
+        "backTitle": "book, volume",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ほん"
+    },
+    {
+        "id": "0008",
+        "frontTitle": "中",
+        "backTitle": "red dragon tile, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "チュン"
+    },
+    {
+        "id": "0009",
+        "frontTitle": "子",
+        "backTitle": "child (esp. a boy)",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0010",
+        "frontTitle": "見",
+        "backTitle": "view (of life, etc.), outlook",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "けん"
+    },
+    {
+        "id": "0011",
+        "frontTitle": "国",
+        "backTitle": "country, state",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "くに"
+    },
+    {
+        "id": "0013",
+        "frontTitle": "上",
+        "backTitle": "from the standpoint of, from the viewpoint of",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "じょう"
+    },
+    {
+        "id": "0014",
+        "frontTitle": "分",
+        "backTitle": "part, portion",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ぶん"
+    },
+    {
+        "id": "0015",
+        "frontTitle": "生",
+        "backTitle": "vital, virile",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "いく"
+    },
+    {
+        "id": "0018",
+        "frontTitle": "行",
+        "backTitle": "going, travelling",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0020",
+        "frontTitle": "二",
+        "backTitle": "two, 2",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "に"
+    },
+    {
+        "id": "0021",
+        "frontTitle": "間",
+        "backTitle": "time, pause",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ま"
+    },
+    {
+        "id": "0024",
+        "frontTitle": "時",
+        "backTitle": "time, hour",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "とき"
+    },
+    {
+        "id": "0025",
+        "frontTitle": "気",
+        "backTitle": "seeming, giving the appearance of",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "げ"
+    },
+    {
+        "id": "0027",
+        "frontTitle": "十",
+        "backTitle": "ten, 10",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "じゅう"
+    },
+    {
+        "id": "0029",
+        "frontTitle": "女",
+        "backTitle": "woman, female",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "おんな"
+    },
+    {
+        "id": "0030",
+        "frontTitle": "三",
+        "backTitle": "three, 3",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "さん"
+    },
+    {
+        "id": "0031",
+        "frontTitle": "前",
+        "backTitle": "last (i.e. immediately preceding), previous",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ぜん"
+    },
+    {
+        "id": "0034",
+        "frontTitle": "入",
+        "backTitle": "counter for soakings (of fabric in a dye)",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "しお"
+    },
+    {
+        "id": "0035",
+        "frontTitle": "小",
+        "backTitle": "small, little",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ぐゎー"
+    },
+    {
+        "id": "0038",
+        "frontTitle": "後",
+        "backTitle": "later, afterwards",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "のち"
+    },
+    {
+        "id": "0040",
+        "frontTitle": "長",
+        "backTitle": "long",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "なが"
+    },
+    {
+        "id": "0044",
+        "frontTitle": "下",
+        "backTitle": "below, down",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "した"
+    },
+    {
+        "id": "0047",
+        "frontTitle": "学",
+        "backTitle": "learning, scholarship",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "がく"
+    },
+    {
+        "id": "0049",
+        "frontTitle": "月",
+        "backTitle": "Monday, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "げつ"
+    },
+    {
+        "id": "0051",
+        "frontTitle": "何",
+        "backTitle": "what, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "なん"
+    },
+    {
+        "id": "0052",
+        "frontTitle": "来",
+        "backTitle": "next (year, spring, etc.), coming",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "らい"
+    },
+    {
+        "id": "0054",
+        "frontTitle": "話",
+        "backTitle": "talk, speech",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "はなし"
+    },
+    {
+        "id": "0060",
+        "frontTitle": "山",
+        "backTitle": "mountain, hill",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "やま"
+    },
+    {
+        "id": "0065",
+        "frontTitle": "高",
+        "backTitle": "high, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0071",
+        "frontTitle": "今",
+        "backTitle": "now, the present time",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "いま"
+    },
+    {
+        "id": "0072",
+        "frontTitle": "書",
+        "backTitle": "book, document",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "しょ"
+    },
+    {
+        "id": "0075",
+        "frontTitle": "五",
+        "backTitle": "five, Chinese:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ウー"
+    },
+    {
+        "id": "0078",
+        "frontTitle": "名",
+        "backTitle": "name, given name",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "な"
+    },
+    {
+        "id": "0079",
+        "frontTitle": "金",
+        "backTitle": "gold (metal), All that glitters is not gold.",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "きん"
+    },
+    {
+        "id": "0084",
+        "frontTitle": "男",
+        "backTitle": "masculine noun, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "だん"
+    },
+    {
+        "id": "0096",
+        "frontTitle": "外",
+        "backTitle": "outside ..., beyond ...",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "がい"
+    },
+    {
+        "id": "0102",
+        "frontTitle": "四",
+        "backTitle": "four, 4",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0103",
+        "frontTitle": "先",
+        "backTitle": "point, tip",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "さき"
+    },
+    {
+        "id": "0108",
+        "frontTitle": "川",
+        "backTitle": "river, stream",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "かわ"
+    },
+    {
+        "id": "0109",
+        "frontTitle": "東",
+        "backTitle": "east wind tile",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "トン"
+    },
+    {
+        "id": "0114",
+        "frontTitle": "聞",
+        "backTitle": "listen",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "きく"
+    },
+    {
+        "id": "0127",
+        "frontTitle": "語",
+        "backTitle": "word, term",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ご"
+    },
+    {
+        "id": "0135",
+        "frontTitle": "九",
+        "backTitle": "nine, 9",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "きゅう"
+    },
+    {
+        "id": "0140",
+        "frontTitle": "食",
+        "backTitle": "food, foodstuff",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "しょく"
+    },
+    {
+        "id": "0142",
+        "frontTitle": "八",
+        "backTitle": "eight, 8",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "はち"
+    },
+    {
+        "id": "0144",
+        "frontTitle": "水",
+        "backTitle": "Wednesday, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "すい"
+    },
+    {
+        "id": "0156",
+        "frontTitle": "天",
+        "backTitle": "sky, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "あめ"
+    },
+    {
+        "id": "0159",
+        "frontTitle": "木",
+        "backTitle": "Thursday, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "もく"
+    },
+    {
+        "id": "0169",
+        "frontTitle": "六",
+        "backTitle": "six, Chinese:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "リュー"
+    },
+    {
+        "id": "0185",
+        "frontTitle": "万",
+        "backTitle": "10,000, ten thousand",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "まん"
+    },
+    {
+        "id": "0188",
+        "frontTitle": "白",
+        "backTitle": "white",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "はく"
+    },
+    {
+        "id": "0191",
+        "frontTitle": "七",
+        "backTitle": "seven, Chinese:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "チー"
+    },
+    {
+        "id": "0199",
+        "frontTitle": "円",
+        "backTitle": "yen (Japanese monetary unit), It cost me 3,000 yen to buy the record.",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "えん"
+    },
+    {
+        "id": "0204",
+        "frontTitle": "電",
+        "backTitle": "electricity",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "でん"
+    },
+    {
+        "id": "0215",
+        "frontTitle": "父",
+        "backTitle": "father, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ちち"
+    },
+    {
+        "id": "0220",
+        "frontTitle": "北",
+        "backTitle": "north wind tile",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ペー"
+    },
+    {
+        "id": "0222",
+        "frontTitle": "車",
+        "backTitle": "car, automobile",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "くるま"
+    },
+    {
+        "id": "0226",
+        "frontTitle": "母",
+        "backTitle": "mother, かか was used by children",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "はは"
+    },
+    {
+        "id": "0238",
+        "frontTitle": "半",
+        "backTitle": "half, semi-",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "はん"
+    },
+    {
+        "id": "0262",
+        "frontTitle": "百",
+        "backTitle": "hundred, 100",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ひゃく"
+    },
+    {
+        "id": "0267",
+        "frontTitle": "土",
+        "backTitle": "Turkey, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "と"
+    },
+    {
+        "id": "0273",
+        "frontTitle": "西",
+        "backTitle": "Spain, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "せい"
+    },
+    {
+        "id": "0287",
+        "frontTitle": "読",
+        "backTitle": "read",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "よむ"
+    },
+    {
+        "id": "0288",
+        "frontTitle": "千",
+        "backTitle": "thousand, 1,000",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "せん"
+    },
+    {
+        "id": "0297",
+        "frontTitle": "校",
+        "backTitle": "school",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0314",
+        "frontTitle": "右",
+        "backTitle": "right, right-hand side",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "みぎ"
+    },
+    {
+        "id": "0340",
+        "frontTitle": "南",
+        "backTitle": "south, France is to the south of England.",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "みなみ"
+    },
+    {
+        "id": "0346",
+        "frontTitle": "左",
+        "backTitle": "left (esp. in vertical Japanese writing), the following",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "さ"
+    },
+    {
+        "id": "0393",
+        "frontTitle": "友",
+        "backTitle": "friend, see:",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ゆう"
+    },
+    {
+        "id": "0397",
+        "frontTitle": "火",
+        "backTitle": "fire, flame",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ひ"
+    },
+    {
+        "id": "0500",
+        "frontTitle": "毎",
+        "backTitle": "each, every",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "ごと"
+    },
+    {
+        "id": "0542",
+        "frontTitle": "雨",
+        "backTitle": "rain, The rain dampened their spirits.",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "あめ"
+    },
+    {
+        "id": "0544",
+        "frontTitle": "休",
+        "backTitle": "rest",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "やすむ"
+    },
+    {
+        "id": "0562",
+        "frontTitle": "午",
+        "backTitle": "the Horse (seventh sign of the Chinese zodiac)",
+        "tags": [
+            "JLPT N5"
+        ],
+        "backDescription": "うま"
+    },
+    {
+        "id": "0012",
+        "frontTitle": "言",
+        "backTitle": "word, remark",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "げん"
+    },
+    {
+        "id": "0016",
+        "frontTitle": "手",
+        "backTitle": "hand, arm",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "て"
+    },
+    {
+        "id": "0017",
+        "frontTitle": "自",
+        "backTitle": "self-",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "じ"
+    },
+    {
+        "id": "0019",
+        "frontTitle": "者",
+        "backTitle": "person, -er",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しゃ"
+    },
+    {
+        "id": "0022",
+        "frontTitle": "事",
+        "backTitle": "nominalizing suffix, see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ごと"
+    },
+    {
+        "id": "0023",
+        "frontTitle": "思",
+        "backTitle": "think",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おもう"
+    },
+    {
+        "id": "0026",
+        "frontTitle": "会",
+        "backTitle": "meeting, assembly",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かい"
+    },
+    {
+        "id": "0028",
+        "frontTitle": "家",
+        "backTitle": "house, residence",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "いえ"
+    },
+    {
+        "id": "0032",
+        "frontTitle": "的",
+        "backTitle": "-ical, -ive",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "てき"
+    },
+    {
+        "id": "0033",
+        "frontTitle": "方",
+        "backTitle": "direction, way",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ほう"
+    },
+    {
+        "id": "0036",
+        "frontTitle": "地",
+        "backTitle": "earth, ground",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ち"
+    },
+    {
+        "id": "0039",
+        "frontTitle": "目",
+        "backTitle": "order",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "もく"
+    },
+    {
+        "id": "0041",
+        "frontTitle": "場",
+        "backTitle": "place, spot",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ば"
+    },
+    {
+        "id": "0042",
+        "frontTitle": "代",
+        "backTitle": "substitution",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しろ"
+    },
+    {
+        "id": "0043",
+        "frontTitle": "私",
+        "backTitle": "I, me",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "わたし"
+    },
+    {
+        "id": "0045",
+        "frontTitle": "立",
+        "backTitle": "stand",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "たつ"
+    },
+    {
+        "id": "0048",
+        "frontTitle": "物",
+        "backTitle": "stock, products",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ぶつ"
+    },
+    {
+        "id": "0050",
+        "frontTitle": "田",
+        "backTitle": "rice field",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "た"
+    },
+    {
+        "id": "0055",
+        "frontTitle": "体",
+        "backTitle": "body, からだ is a gikun reading of 身体",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "からだ"
+    },
+    {
+        "id": "0056",
+        "frontTitle": "動",
+        "backTitle": "motion, antonym:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "どう"
+    },
+    {
+        "id": "0057",
+        "frontTitle": "社",
+        "backTitle": "(Shinto) shrine, This shrine is sacred to Jupiter.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "やしろ"
+    },
+    {
+        "id": "0058",
+        "frontTitle": "知",
+        "backTitle": "wisdom, Wisdom is better than gold or silver.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ち"
+    },
+    {
+        "id": "0059",
+        "frontTitle": "理",
+        "backTitle": "reason, logic",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ことわり"
+    },
+    {
+        "id": "0062",
+        "frontTitle": "同",
+        "backTitle": "the same, the said",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "どう"
+    },
+    {
+        "id": "0063",
+        "frontTitle": "心",
+        "backTitle": "heart, mind",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しん"
+    },
+    {
+        "id": "0064",
+        "frontTitle": "発",
+        "backTitle": "departure, departing from ...",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "はつ"
+    },
+    {
+        "id": "0067",
+        "frontTitle": "作",
+        "backTitle": "work (e.g. of art), piece",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "さく"
+    },
+    {
+        "id": "0069",
+        "frontTitle": "新",
+        "backTitle": "new, neo-",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しん"
+    },
+    {
+        "id": "0070",
+        "frontTitle": "世",
+        "backTitle": "counter for generations",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "せい"
+    },
+    {
+        "id": "0073",
+        "frontTitle": "度",
+        "backTitle": "degree (angle, temperature, scale, etc.), Water freezes at 0 degrees Centigrade.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ど"
+    },
+    {
+        "id": "0074",
+        "frontTitle": "明",
+        "backTitle": "vidya (wisdom)",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "みょう"
+    },
+    {
+        "id": "0077",
+        "frontTitle": "力",
+        "backTitle": "strength, power",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "りき"
+    },
+    {
+        "id": "0082",
+        "frontTitle": "意",
+        "backTitle": "feelings, thoughts",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "い"
+    },
+    {
+        "id": "0083",
+        "frontTitle": "用",
+        "backTitle": "business, task",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "よう"
+    },
+    {
+        "id": "0085",
+        "frontTitle": "主",
+        "backTitle": "chief, main",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おも"
+    },
+    {
+        "id": "0086",
+        "frontTitle": "通",
+        "backTitle": "authority, expert",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "つう"
+    },
+    {
+        "id": "0088",
+        "frontTitle": "文",
+        "backTitle": "mon",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "もん"
+    },
+    {
+        "id": "0089",
+        "frontTitle": "屋",
+        "backTitle": "house, building",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おく"
+    },
+    {
+        "id": "0091",
+        "frontTitle": "業",
+        "backTitle": "deed, act",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "わざ"
+    },
+    {
+        "id": "0094",
+        "frontTitle": "持",
+        "backTitle": "draw (in go, poetry contest, etc.), tie",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "じ"
+    },
+    {
+        "id": "0095",
+        "frontTitle": "道",
+        "backTitle": "road, path",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "みち"
+    },
+    {
+        "id": "0105",
+        "frontTitle": "身",
+        "backTitle": "one's body, one's person",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "み"
+    },
+    {
+        "id": "0106",
+        "frontTitle": "不",
+        "backTitle": "un-, non-",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ふ"
+    },
+    {
+        "id": "0107",
+        "frontTitle": "口",
+        "backTitle": "mouth, speech",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "く"
+    },
+    {
+        "id": "0111",
+        "frontTitle": "多",
+        "backTitle": "multi-",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "た"
+    },
+    {
+        "id": "0116",
+        "frontTitle": "野",
+        "backTitle": "plain, field",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "の"
+    },
+    {
+        "id": "0117",
+        "frontTitle": "考",
+        "backTitle": "thought",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0121",
+        "frontTitle": "開",
+        "backTitle": "open",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ひらく"
+    },
+    {
+        "id": "0122",
+        "frontTitle": "教",
+        "backTitle": "teach",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おしえる"
+    },
+    {
+        "id": "0125",
+        "frontTitle": "近",
+        "backTitle": "close",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ちかい"
+    },
+    {
+        "id": "0126",
+        "frontTitle": "以",
+        "backTitle": "or",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "い"
+    },
+    {
+        "id": "0130",
+        "frontTitle": "問",
+        "backTitle": "counter for questions",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "もん"
+    },
+    {
+        "id": "0133",
+        "frontTitle": "正",
+        "backTitle": "(logical) true, regular",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "せい"
+    },
+    {
+        "id": "0146",
+        "frontTitle": "真",
+        "backTitle": "just, right",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ま"
+    },
+    {
+        "id": "0147",
+        "frontTitle": "味",
+        "backTitle": "flavor, flavour",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "あじ"
+    },
+    {
+        "id": "0148",
+        "frontTitle": "界",
+        "backTitle": "community, circles",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かい"
+    },
+    {
+        "id": "0149",
+        "frontTitle": "無",
+        "backTitle": "nothing, naught",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "む"
+    },
+    {
+        "id": "0150",
+        "frontTitle": "少",
+        "backTitle": "small, little",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しょう"
+    },
+    {
+        "id": "0152",
+        "frontTitle": "海",
+        "backTitle": "sea, ocean",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うみ"
+    },
+    {
+        "id": "0154",
+        "frontTitle": "切",
+        "backTitle": "eager, earnest",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "せつ"
+    },
+    {
+        "id": "0155",
+        "frontTitle": "重",
+        "backTitle": "-fold, -ply",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "え"
+    },
+    {
+        "id": "0160",
+        "frontTitle": "集",
+        "backTitle": "collection, compilation",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しゅう"
+    },
+    {
+        "id": "0162",
+        "frontTitle": "員",
+        "backTitle": "member, He is heart and soul a Democrat.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "いん"
+    },
+    {
+        "id": "0164",
+        "frontTitle": "公",
+        "backTitle": "official, governmental",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おおやけ"
+    },
+    {
+        "id": "0165",
+        "frontTitle": "画",
+        "backTitle": "stroke (of a kanji), How many strokes does the kanji for \"michi\" have?",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かく"
+    },
+    {
+        "id": "0166",
+        "frontTitle": "死",
+        "backTitle": "death, As soon as man is born, he begins to die.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0167",
+        "frontTitle": "安",
+        "backTitle": "cheap",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "やす"
+    },
+    {
+        "id": "0168",
+        "frontTitle": "親",
+        "backTitle": "parent, parents",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おや"
+    },
+    {
+        "id": "0173",
+        "frontTitle": "強",
+        "backTitle": "a little over, a little more than",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "きょう"
+    },
+    {
+        "id": "0174",
+        "frontTitle": "使",
+        "backTitle": "messenger",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0176",
+        "frontTitle": "朝",
+        "backTitle": "dynasty",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ちょう"
+    },
+    {
+        "id": "0184",
+        "frontTitle": "題",
+        "backTitle": "title, subject",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "だい"
+    },
+    {
+        "id": "0187",
+        "frontTitle": "仕",
+        "backTitle": "official, civil service",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0193",
+        "frontTitle": "京",
+        "backTitle": "imperial capital (esp. Kyoto)",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "きょう"
+    },
+    {
+        "id": "0198",
+        "frontTitle": "足",
+        "backTitle": "counter for pairs of socks, shoes, etc.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "そく"
+    },
+    {
+        "id": "0203",
+        "frontTitle": "品",
+        "backTitle": "article, item",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しな"
+    },
+    {
+        "id": "0207",
+        "frontTitle": "着",
+        "backTitle": "clothes, outfit",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ぎ"
+    },
+    {
+        "id": "0208",
+        "frontTitle": "別",
+        "backTitle": "see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "わけ"
+    },
+    {
+        "id": "0210",
+        "frontTitle": "音",
+        "backTitle": "sound, tone",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ね"
+    },
+    {
+        "id": "0212",
+        "frontTitle": "元",
+        "backTitle": "yuan (monetary unit of China), Chinese:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ユアン"
+    },
+    {
+        "id": "0214",
+        "frontTitle": "特",
+        "backTitle": "special",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "とく"
+    },
+    {
+        "id": "0219",
+        "frontTitle": "風",
+        "backTitle": "wind, breeze",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かぜ"
+    },
+    {
+        "id": "0224",
+        "frontTitle": "夜",
+        "backTitle": "counter for nights",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "や"
+    },
+    {
+        "id": "0240",
+        "frontTitle": "空",
+        "backTitle": "empty air, sky",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "くう"
+    },
+    {
+        "id": "0241",
+        "frontTitle": "有",
+        "backTitle": "existence, Nothing comes from nothing.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ゆう"
+    },
+    {
+        "id": "0244",
+        "frontTitle": "起",
+        "backTitle": "wake up",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おきる"
+    },
+    {
+        "id": "0245",
+        "frontTitle": "運",
+        "backTitle": "fortune, luck",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うん"
+    },
+    {
+        "id": "0247",
+        "frontTitle": "料",
+        "backTitle": "fee, charge",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "りょう"
+    },
+    {
+        "id": "0250",
+        "frontTitle": "楽",
+        "backTitle": "music, see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "がく"
+    },
+    {
+        "id": "0253",
+        "frontTitle": "色",
+        "backTitle": "rupa (form), see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しき"
+    },
+    {
+        "id": "0254",
+        "frontTitle": "帰",
+        "backTitle": "return",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かえる"
+    },
+    {
+        "id": "0255",
+        "frontTitle": "歩",
+        "backTitle": "bu",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ぶ"
+    },
+    {
+        "id": "0256",
+        "frontTitle": "悪",
+        "backTitle": "evil, wickedness",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "あく"
+    },
+    {
+        "id": "0257",
+        "frontTitle": "広",
+        "backTitle": "broad",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ひろい"
+    },
+    {
+        "id": "0258",
+        "frontTitle": "店",
+        "backTitle": "store, shop",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "てん"
+    },
+    {
+        "id": "0260",
+        "frontTitle": "町",
+        "backTitle": "town, block",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ちょう"
+    },
+    {
+        "id": "0272",
+        "frontTitle": "住",
+        "backTitle": "dwelling, living",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "じゅう"
+    },
+    {
+        "id": "0274",
+        "frontTitle": "売",
+        "backTitle": "sell",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うる"
+    },
+    {
+        "id": "0281",
+        "frontTitle": "待",
+        "backTitle": "wait",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "まつ"
+    },
+    {
+        "id": "0282",
+        "frontTitle": "古",
+        "backTitle": "used item, secondhand item",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ふる"
+    },
+    {
+        "id": "0284",
+        "frontTitle": "始",
+        "backTitle": "begin",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "はじまる"
+    },
+    {
+        "id": "0292",
+        "frontTitle": "終",
+        "backTitle": "end, final",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "つい"
+    },
+    {
+        "id": "0299",
+        "frontTitle": "計",
+        "backTitle": "plan",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "けい"
+    },
+    {
+        "id": "0303",
+        "frontTitle": "院",
+        "backTitle": "house of parliament (congress, diet, etc.), see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "いん"
+    },
+    {
+        "id": "0307",
+        "frontTitle": "送",
+        "backTitle": "send",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おくる"
+    },
+    {
+        "id": "0308",
+        "frontTitle": "族",
+        "backTitle": "tribe, clan",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ぞく"
+    },
+    {
+        "id": "0311",
+        "frontTitle": "映",
+        "backTitle": "shine",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うつす"
+    },
+    {
+        "id": "0313",
+        "frontTitle": "買",
+        "backTitle": "buy",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かう"
+    },
+    {
+        "id": "0317",
+        "frontTitle": "病",
+        "backTitle": "disease",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "びょう"
+    },
+    {
+        "id": "0319",
+        "frontTitle": "早",
+        "backTitle": "already, now",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "はや"
+    },
+    {
+        "id": "0323",
+        "frontTitle": "質",
+        "backTitle": "quality, value",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しつ"
+    },
+    {
+        "id": "0325",
+        "frontTitle": "台",
+        "backTitle": "Taiwan, see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "たい"
+    },
+    {
+        "id": "0330",
+        "frontTitle": "室",
+        "backTitle": "greenhouse, icehouse",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "むろ"
+    },
+    {
+        "id": "0335",
+        "frontTitle": "可",
+        "backTitle": "acceptable, satisfactory",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "か"
+    },
+    {
+        "id": "0339",
+        "frontTitle": "建",
+        "backTitle": "build",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "たてる"
+    },
+    {
+        "id": "0345",
+        "frontTitle": "転",
+        "backTitle": "more and more, increasingly",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うたた"
+    },
+    {
+        "id": "0351",
+        "frontTitle": "医",
+        "backTitle": "medicine, the healing art",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "い"
+    },
+    {
+        "id": "0352",
+        "frontTitle": "止",
+        "backTitle": "stop",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "とまる"
+    },
+    {
+        "id": "0356",
+        "frontTitle": "字",
+        "backTitle": "section of village",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "あざ"
+    },
+    {
+        "id": "0358",
+        "frontTitle": "工",
+        "backTitle": "(factory) worker",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0360",
+        "frontTitle": "急",
+        "backTitle": "sudden, abrupt",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "きゅう"
+    },
+    {
+        "id": "0362",
+        "frontTitle": "図",
+        "backTitle": "drawing, picture",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ず"
+    },
+    {
+        "id": "0367",
+        "frontTitle": "黒",
+        "backTitle": "black",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "くろ"
+    },
+    {
+        "id": "0378",
+        "frontTitle": "花",
+        "backTitle": "flower, blossom",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "はな"
+    },
+    {
+        "id": "0381",
+        "frontTitle": "英",
+        "backTitle": "United Kingdom, Britain",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "えい"
+    },
+    {
+        "id": "0385",
+        "frontTitle": "走",
+        "backTitle": "run, race",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "そう"
+    },
+    {
+        "id": "0389",
+        "frontTitle": "青",
+        "backTitle": "blue, azure",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "あお"
+    },
+    {
+        "id": "0395",
+        "frontTitle": "答",
+        "backTitle": "answer",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "こたえ"
+    },
+    {
+        "id": "0401",
+        "frontTitle": "紙",
+        "backTitle": "paper, Draw a line on the paper.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かみ"
+    },
+    {
+        "id": "0403",
+        "frontTitle": "歌",
+        "backTitle": "song, singing",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うた"
+    },
+    {
+        "id": "0406",
+        "frontTitle": "注",
+        "backTitle": "annotation, explanatory note",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ちゅう"
+    },
+    {
+        "id": "0408",
+        "frontTitle": "赤",
+        "backTitle": "red, crimson",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "あか"
+    },
+    {
+        "id": "0414",
+        "frontTitle": "春",
+        "backTitle": "spring, springtime",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "はる"
+    },
+    {
+        "id": "0418",
+        "frontTitle": "館",
+        "backTitle": "mansion, palace",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "やかた"
+    },
+    {
+        "id": "0421",
+        "frontTitle": "旅",
+        "backTitle": "500-man battalion (Zhou dynasty Chinese army)",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "りょ"
+    },
+    {
+        "id": "0425",
+        "frontTitle": "験",
+        "backTitle": "effect, efficacy",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "げん"
+    },
+    {
+        "id": "0427",
+        "frontTitle": "写",
+        "backTitle": "photo",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うつす"
+    },
+    {
+        "id": "0445",
+        "frontTitle": "去",
+        "backTitle": "leave",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "さる"
+    },
+    {
+        "id": "0447",
+        "frontTitle": "研",
+        "backTitle": "sharpen",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "けん"
+    },
+    {
+        "id": "0448",
+        "frontTitle": "飲",
+        "backTitle": "drinking (sometimes esp. alcohol), drink",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "いん"
+    },
+    {
+        "id": "0449",
+        "frontTitle": "肉",
+        "backTitle": "flesh (esp. of an animal), meat",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しし"
+    },
+    {
+        "id": "0452",
+        "frontTitle": "服",
+        "backTitle": "clothes (esp. Western clothes), clothing",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ふく"
+    },
+    {
+        "id": "0454",
+        "frontTitle": "銀",
+        "backTitle": "silver, see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しろがね"
+    },
+    {
+        "id": "0457",
+        "frontTitle": "茶",
+        "backTitle": "tea, see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ちゃ"
+    },
+    {
+        "id": "0458",
+        "frontTitle": "究",
+        "backTitle": "investigate",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "きゅう"
+    },
+    {
+        "id": "0461",
+        "frontTitle": "洋",
+        "backTitle": "Occident and Orient (esp. the Occident)",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "よう"
+    },
+    {
+        "id": "0487",
+        "frontTitle": "兄",
+        "backTitle": "eldest son, see:",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "このかみ"
+    },
+    {
+        "id": "0490",
+        "frontTitle": "秋",
+        "backTitle": "autumn, fall",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "あき"
+    },
+    {
+        "id": "0491",
+        "frontTitle": "堂",
+        "backTitle": "temple, shrine",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "どう"
+    },
+    {
+        "id": "0504",
+        "frontTitle": "週",
+        "backTitle": "week, I had bought it the week before.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "しゅう"
+    },
+    {
+        "id": "0511",
+        "frontTitle": "習",
+        "backTitle": "learn",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ならう"
+    },
+    {
+        "id": "0513",
+        "frontTitle": "試",
+        "backTitle": "testing, experiment",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0514",
+        "frontTitle": "夏",
+        "backTitle": "summer, この夏最高の暑さだ。",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "なつ"
+    },
+    {
+        "id": "0518",
+        "frontTitle": "弟",
+        "backTitle": "younger brother, little brother",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おとうと"
+    },
+    {
+        "id": "0554",
+        "frontTitle": "鳥",
+        "backTitle": "bird",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "とり"
+    },
+    {
+        "id": "0555",
+        "frontTitle": "犬",
+        "backTitle": "dog (Canis (lupus) familiaris), She is afraid of barking dogs.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "いぬ"
+    },
+    {
+        "id": "0558",
+        "frontTitle": "夕",
+        "backTitle": "evening",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ゆう"
+    },
+    {
+        "id": "0572",
+        "frontTitle": "魚",
+        "backTitle": "fish, This is how I usually cook fish.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "さかな"
+    },
+    {
+        "id": "0576",
+        "frontTitle": "借",
+        "backTitle": "borrow",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かりる"
+    },
+    {
+        "id": "0577",
+        "frontTitle": "飯",
+        "backTitle": "cooked rice",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "めし"
+    },
+    {
+        "id": "0578",
+        "frontTitle": "駅",
+        "backTitle": "railway station, train station",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "えき"
+    },
+    {
+        "id": "0579",
+        "frontTitle": "昼",
+        "backTitle": "noon, midday",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ひる"
+    },
+    {
+        "id": "0580",
+        "frontTitle": "冬",
+        "backTitle": "winter, It will be winter before long.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "ふゆ"
+    },
+    {
+        "id": "0582",
+        "frontTitle": "姉",
+        "backTitle": "older sister, elder sister",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "あね"
+    },
+    {
+        "id": "0584",
+        "frontTitle": "曜",
+        "backTitle": "day of the week",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "よう"
+    },
+    {
+        "id": "0592",
+        "frontTitle": "漢",
+        "backTitle": "man among men, man's man",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "おとこ"
+    },
+    {
+        "id": "0601",
+        "frontTitle": "牛",
+        "backTitle": "cattle (Bos taurus), cow",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "うし"
+    },
+    {
+        "id": "0603",
+        "frontTitle": "妹",
+        "backTitle": "younger sister, That pretty girl is my sister.",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "いもうと"
+    },
+    {
+        "id": "0610",
+        "frontTitle": "貸",
+        "backTitle": "lend",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "かす"
+    },
+    {
+        "id": "0613",
+        "frontTitle": "勉",
+        "backTitle": "exertion",
+        "tags": [
+            "JLPT N4"
+        ],
+        "backDescription": "べん"
+    },
+    {
+        "id": "0037",
+        "frontTitle": "合",
+        "backTitle": "gō, traditional unit of volume, approx. 180 ml",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ごう"
+    },
+    {
+        "id": "0046",
+        "frontTitle": "部",
+        "backTitle": "department (in an organization, company, etc.), division",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぶ"
+    },
+    {
+        "id": "0053",
+        "frontTitle": "彼",
+        "backTitle": "he, him",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かれ"
+    },
+    {
+        "id": "0061",
+        "frontTitle": "内",
+        "backTitle": "inside, within",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "うち"
+    },
+    {
+        "id": "0066",
+        "frontTitle": "実",
+        "backTitle": "seed (of a fruit), pit",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さね"
+    },
+    {
+        "id": "0068",
+        "frontTitle": "当",
+        "backTitle": "this, our",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "とう"
+    },
+    {
+        "id": "0076",
+        "frontTitle": "戦",
+        "backTitle": "war, battle",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いくさ"
+    },
+    {
+        "id": "0080",
+        "frontTitle": "性",
+        "backTitle": "nature (of a person), Habit is second nature.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せい"
+    },
+    {
+        "id": "0081",
+        "frontTitle": "対",
+        "backTitle": "pair, couple",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つい"
+    },
+    {
+        "id": "0087",
+        "frontTitle": "関",
+        "backTitle": "barrier, gate",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かん"
+    },
+    {
+        "id": "0090",
+        "frontTitle": "感",
+        "backTitle": "feeling, sensation",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かん"
+    },
+    {
+        "id": "0092",
+        "frontTitle": "定",
+        "backTitle": "certainly, truly",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さだ"
+    },
+    {
+        "id": "0093",
+        "frontTitle": "政",
+        "backTitle": "rule, government",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "まつりごと"
+    },
+    {
+        "id": "0097",
+        "frontTitle": "取",
+        "backTitle": "appropriation, obtaining",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しゅ"
+    },
+    {
+        "id": "0098",
+        "frontTitle": "所",
+        "backTitle": "place, spot",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ところ"
+    },
+    {
+        "id": "0099",
+        "frontTitle": "現",
+        "backTitle": "present (e.g. government, administration), current",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "げん"
+    },
+    {
+        "id": "0100",
+        "frontTitle": "最",
+        "backTitle": "the most, the extreme",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さい"
+    },
+    {
+        "id": "0101",
+        "frontTitle": "化",
+        "backTitle": "change to ..., becoming ...",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "か"
+    },
+    {
+        "id": "0104",
+        "frontTitle": "民",
+        "backTitle": "citizen, resident",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "みん"
+    },
+    {
+        "id": "0110",
+        "frontTitle": "相",
+        "backTitle": "together, mutually",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "あい"
+    },
+    {
+        "id": "0112",
+        "frontTitle": "法",
+        "backTitle": "rule, law",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "のり"
+    },
+    {
+        "id": "0113",
+        "frontTitle": "全",
+        "backTitle": "all, whole",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぜん"
+    },
+    {
+        "id": "0115",
+        "frontTitle": "情",
+        "backTitle": "feelings, emotion",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じょう"
+    },
+    {
+        "id": "0118",
+        "frontTitle": "向",
+        "backTitle": "confront",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "むかう"
+    },
+    {
+        "id": "0119",
+        "frontTitle": "平",
+        "backTitle": "plain, plateau",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だいら"
+    },
+    {
+        "id": "0120",
+        "frontTitle": "成",
+        "backTitle": "become",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "なる"
+    },
+    {
+        "id": "0123",
+        "frontTitle": "経",
+        "backTitle": "warp (weaving)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けい"
+    },
+    {
+        "id": "0124",
+        "frontTitle": "信",
+        "backTitle": "honesty, sincerity",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しん"
+    },
+    {
+        "id": "0128",
+        "frontTitle": "面",
+        "backTitle": "face",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おもて"
+    },
+    {
+        "id": "0129",
+        "frontTitle": "連",
+        "backTitle": "two reams (of paper), 1000 sheets (of paper)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "れん"
+    },
+    {
+        "id": "0131",
+        "frontTitle": "原",
+        "backTitle": "original, primitive",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "げん"
+    },
+    {
+        "id": "0132",
+        "frontTitle": "顔",
+        "backTitle": "countenance, visage",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かんばせ"
+    },
+    {
+        "id": "0134",
+        "frontTitle": "機",
+        "backTitle": "chance, opportunity",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "き"
+    },
+    {
+        "id": "0136",
+        "frontTitle": "次",
+        "backTitle": "next, Click the picture to go to the next page!",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じ"
+    },
+    {
+        "id": "0137",
+        "frontTitle": "数",
+        "backTitle": "several, a few",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "すう"
+    },
+    {
+        "id": "0138",
+        "frontTitle": "美",
+        "backTitle": "beauty, I am a lover of the beautiful.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "び"
+    },
+    {
+        "id": "0139",
+        "frontTitle": "回",
+        "backTitle": "counter for occurrences",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かい"
+    },
+    {
+        "id": "0141",
+        "frontTitle": "表",
+        "backTitle": "surface, antonym:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おもて"
+    },
+    {
+        "id": "0143",
+        "frontTitle": "声",
+        "backTitle": "voice, sound",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しょう"
+    },
+    {
+        "id": "0145",
+        "frontTitle": "報",
+        "backTitle": "information, news",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ほう"
+    },
+    {
+        "id": "0151",
+        "frontTitle": "要",
+        "backTitle": "pivot",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かなめ"
+    },
+    {
+        "id": "0153",
+        "frontTitle": "変",
+        "backTitle": "strange, odd",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "へん"
+    },
+    {
+        "id": "0157",
+        "frontTitle": "神",
+        "backTitle": "soul, spirit",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "み"
+    },
+    {
+        "id": "0158",
+        "frontTitle": "記",
+        "backTitle": "account, history",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "き"
+    },
+    {
+        "id": "0161",
+        "frontTitle": "和",
+        "backTitle": "sum",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "わ"
+    },
+    {
+        "id": "0163",
+        "frontTitle": "引",
+        "backTitle": "pull",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひく"
+    },
+    {
+        "id": "0170",
+        "frontTitle": "治",
+        "backTitle": "politics, government",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ち"
+    },
+    {
+        "id": "0171",
+        "frontTitle": "決",
+        "backTitle": "decision, vote",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けつ"
+    },
+    {
+        "id": "0172",
+        "frontTitle": "太",
+        "backTitle": "fat, fatty",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ふと"
+    },
+    {
+        "id": "0175",
+        "frontTitle": "込",
+        "backTitle": "crowded",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こむ"
+    },
+    {
+        "id": "0177",
+        "frontTitle": "受",
+        "backTitle": "vedana (sensation), see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じゅ"
+    },
+    {
+        "id": "0178",
+        "frontTitle": "解",
+        "backTitle": "solution (of an equation, inequality, etc.), root (e.g. of a polynomial)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かい"
+    },
+    {
+        "id": "0179",
+        "frontTitle": "市",
+        "backTitle": "market, fair",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いち"
+    },
+    {
+        "id": "0180",
+        "frontTitle": "期",
+        "backTitle": "time, moment",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ご"
+    },
+    {
+        "id": "0181",
+        "frontTitle": "様",
+        "backTitle": "Mr, Mrs",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さま"
+    },
+    {
+        "id": "0182",
+        "frontTitle": "活",
+        "backTitle": "living, life",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かつ"
+    },
+    {
+        "id": "0183",
+        "frontTitle": "頭",
+        "backTitle": "head",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つむり"
+    },
+    {
+        "id": "0186",
+        "frontTitle": "組",
+        "backTitle": "class (of students), He is at the head of the class.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くみ"
+    },
+    {
+        "id": "0189",
+        "frontTitle": "指",
+        "backTitle": "finger, toe",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ゆび"
+    },
+    {
+        "id": "0190",
+        "frontTitle": "説",
+        "backTitle": "theory, doctrine",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せつ"
+    },
+    {
+        "id": "0192",
+        "frontTitle": "能",
+        "backTitle": "talent, gift",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "のう"
+    },
+    {
+        "id": "0194",
+        "frontTitle": "葉",
+        "backTitle": "leaf, blade (of grass)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "は"
+    },
+    {
+        "id": "0195",
+        "frontTitle": "流",
+        "backTitle": "see: , 五刑",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "る"
+    },
+    {
+        "id": "0196",
+        "frontTitle": "然",
+        "backTitle": "like that, as such",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しか"
+    },
+    {
+        "id": "0197",
+        "frontTitle": "初",
+        "backTitle": "first, new",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はつ"
+    },
+    {
+        "id": "0200",
+        "frontTitle": "在",
+        "backTitle": "the country, countryside",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ざい"
+    },
+    {
+        "id": "0201",
+        "frontTitle": "調",
+        "backTitle": "key",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ちょう"
+    },
+    {
+        "id": "0202",
+        "frontTitle": "笑",
+        "backTitle": "LOL, haha",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "わら"
+    },
+    {
+        "id": "0205",
+        "frontTitle": "議",
+        "backTitle": "discussion, deliberation",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぎ"
+    },
+    {
+        "id": "0206",
+        "frontTitle": "直",
+        "backTitle": "straight, direct",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ただ"
+    },
+    {
+        "id": "0209",
+        "frontTitle": "夫",
+        "backTitle": "husband, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おっと"
+    },
+    {
+        "id": "0211",
+        "frontTitle": "選",
+        "backTitle": "selection, choice",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せん"
+    },
+    {
+        "id": "0213",
+        "frontTitle": "権",
+        "backTitle": "right (to do something), Both sons pretended to the throne.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けん"
+    },
+    {
+        "id": "0216",
+        "frontTitle": "利",
+        "backTitle": "advantage, benefit",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "り"
+    },
+    {
+        "id": "0217",
+        "frontTitle": "制",
+        "backTitle": "system, organization",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せい"
+    },
+    {
+        "id": "0218",
+        "frontTitle": "続",
+        "backTitle": "sequel, second series",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぞく"
+    },
+    {
+        "id": "0221",
+        "frontTitle": "石",
+        "backTitle": "stone, rock",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いし"
+    },
+    {
+        "id": "0223",
+        "frontTitle": "進",
+        "backTitle": "advance",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "すすむ"
+    },
+    {
+        "id": "0225",
+        "frontTitle": "伝",
+        "backTitle": "means of making contact, intermediary",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つて"
+    },
+    {
+        "id": "0227",
+        "frontTitle": "加",
+        "backTitle": "addition",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "か"
+    },
+    {
+        "id": "0228",
+        "frontTitle": "助",
+        "backTitle": "assistance, help",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "すけ"
+    },
+    {
+        "id": "0229",
+        "frontTitle": "点",
+        "backTitle": "dot, spot",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "てん"
+    },
+    {
+        "id": "0230",
+        "frontTitle": "産",
+        "backTitle": "birth-",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "うぶ"
+    },
+    {
+        "id": "0231",
+        "frontTitle": "務",
+        "backTitle": "work",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つとめ"
+    },
+    {
+        "id": "0232",
+        "frontTitle": "件",
+        "backTitle": "the aforementioned, the said",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くだん"
+    },
+    {
+        "id": "0233",
+        "frontTitle": "命",
+        "backTitle": "life, life force",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いのち"
+    },
+    {
+        "id": "0234",
+        "frontTitle": "番",
+        "backTitle": "number (in a series)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ばん"
+    },
+    {
+        "id": "0235",
+        "frontTitle": "落",
+        "backTitle": "fall",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おちる"
+    },
+    {
+        "id": "0236",
+        "frontTitle": "付",
+        "backTitle": "dated (e.g. a letter), date of effect (e.g. a rule change)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "づけ"
+    },
+    {
+        "id": "0237",
+        "frontTitle": "得",
+        "backTitle": "profit, advantage",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "とく"
+    },
+    {
+        "id": "0239",
+        "frontTitle": "好",
+        "backTitle": "good",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0242",
+        "frontTitle": "違",
+        "backTitle": "different",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ちがう"
+    },
+    {
+        "id": "0243",
+        "frontTitle": "殺",
+        "backTitle": "kill",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ころす"
+    },
+    {
+        "id": "0246",
+        "frontTitle": "置",
+        "backTitle": "put",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おく"
+    },
+    {
+        "id": "0248",
+        "frontTitle": "返",
+        "backTitle": "reply, answer",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "へん"
+    },
+    {
+        "id": "0249",
+        "frontTitle": "論",
+        "backTitle": "argument, discussion",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ろん"
+    },
+    {
+        "id": "0251",
+        "frontTitle": "際",
+        "backTitle": "edge, brink",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "きわ"
+    },
+    {
+        "id": "0252",
+        "frontTitle": "歳",
+        "backTitle": "... years old, age (of) ...",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さい"
+    },
+    {
+        "id": "0259",
+        "frontTitle": "反",
+        "backTitle": "anti-, It is still immoral.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はん"
+    },
+    {
+        "id": "0261",
+        "frontTitle": "形",
+        "backTitle": "form",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けい"
+    },
+    {
+        "id": "0263",
+        "frontTitle": "光",
+        "backTitle": "light, Light has come into the world.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひかり"
+    },
+    {
+        "id": "0264",
+        "frontTitle": "首",
+        "backTitle": "head (of a doll), see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かしら"
+    },
+    {
+        "id": "0265",
+        "frontTitle": "勝",
+        "backTitle": "win, victory",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しょう"
+    },
+    {
+        "id": "0266",
+        "frontTitle": "必",
+        "backTitle": "definiteness, certainty",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひつ"
+    },
+    {
+        "id": "0268",
+        "frontTitle": "係",
+        "backTitle": "charge, duty",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かかり"
+    },
+    {
+        "id": "0269",
+        "frontTitle": "由",
+        "backTitle": "reason, significance",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よし"
+    },
+    {
+        "id": "0270",
+        "frontTitle": "愛",
+        "backTitle": "beloved, dear",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "まな"
+    },
+    {
+        "id": "0271",
+        "frontTitle": "都",
+        "backTitle": "Metropolis (of Tokyo), (Tokyo) Metropolitan District",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "と"
+    },
+    {
+        "id": "0275",
+        "frontTitle": "放",
+        "backTitle": "let go",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はなす"
+    },
+    {
+        "id": "0276",
+        "frontTitle": "確",
+        "backTitle": "certain, definite",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かく"
+    },
+    {
+        "id": "0277",
+        "frontTitle": "過",
+        "backTitle": "surplus-, excess-",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "か"
+    },
+    {
+        "id": "0278",
+        "frontTitle": "約",
+        "backTitle": "approximately, about",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "やく"
+    },
+    {
+        "id": "0279",
+        "frontTitle": "馬",
+        "backTitle": "horse, Can you ride a horse?",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "うま"
+    },
+    {
+        "id": "0280",
+        "frontTitle": "状",
+        "backTitle": "form, shape",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じょう"
+    },
+    {
+        "id": "0283",
+        "frontTitle": "想",
+        "backTitle": "conception, idea",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "そう"
+    },
+    {
+        "id": "0285",
+        "frontTitle": "官",
+        "backTitle": "office, official",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つかさ"
+    },
+    {
+        "id": "0286",
+        "frontTitle": "交",
+        "backTitle": "association, fellowship",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0289",
+        "frontTitle": "米",
+        "backTitle": "(United States of) America, USA",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "べい"
+    },
+    {
+        "id": "0290",
+        "frontTitle": "配",
+        "backTitle": "distribute",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くばる"
+    },
+    {
+        "id": "0291",
+        "frontTitle": "若",
+        "backTitle": "youth",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "わか"
+    },
+    {
+        "id": "0293",
+        "frontTitle": "資",
+        "backTitle": "funds, capital",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0294",
+        "frontTitle": "常",
+        "backTitle": "usual state of things, I used to go to school with him.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つね"
+    },
+    {
+        "id": "0295",
+        "frontTitle": "果",
+        "backTitle": "phala (attained state, result), see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "か"
+    },
+    {
+        "id": "0296",
+        "frontTitle": "呼",
+        "backTitle": "call",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よぶ"
+    },
+    {
+        "id": "0298",
+        "frontTitle": "共",
+        "backTitle": "together with",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "とも"
+    },
+    {
+        "id": "0300",
+        "frontTitle": "残",
+        "backTitle": "remainder, the rest",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ざん"
+    },
+    {
+        "id": "0301",
+        "frontTitle": "判",
+        "backTitle": "seal, stamp",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はん"
+    },
+    {
+        "id": "0302",
+        "frontTitle": "役",
+        "backTitle": "role, assignment",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "やく"
+    },
+    {
+        "id": "0304",
+        "frontTitle": "他",
+        "backTitle": "another place, some other place",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ほか"
+    },
+    {
+        "id": "0305",
+        "frontTitle": "術",
+        "backTitle": "art, technique",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じゅつ"
+    },
+    {
+        "id": "0306",
+        "frontTitle": "支",
+        "backTitle": "China, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0309",
+        "frontTitle": "両",
+        "backTitle": "two, esp. in hand games",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "りゃん"
+    },
+    {
+        "id": "0310",
+        "frontTitle": "乗",
+        "backTitle": "(nth) power, 3 to the third power is 27.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じょう"
+    },
+    {
+        "id": "0312",
+        "frontTitle": "済",
+        "backTitle": "finish",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "すむ"
+    },
+    {
+        "id": "0315",
+        "frontTitle": "供",
+        "backTitle": "companion, follower",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "とも"
+    },
+    {
+        "id": "0316",
+        "frontTitle": "格",
+        "backTitle": "status, position",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かく"
+    },
+    {
+        "id": "0318",
+        "frontTitle": "打",
+        "backTitle": "hitting a ball (with a bat, golf club, etc.), batting",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だ"
+    },
+    {
+        "id": "0320",
+        "frontTitle": "御",
+        "backTitle": "honorific/polite/humble prefix, usu. before a term with an on-yomi reading",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ご"
+    },
+    {
+        "id": "0321",
+        "frontTitle": "断",
+        "backTitle": "decision, judgment",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だん"
+    },
+    {
+        "id": "0322",
+        "frontTitle": "式",
+        "backTitle": "way, style",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しき"
+    },
+    {
+        "id": "0324",
+        "frontTitle": "師",
+        "backTitle": "teacher, master",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0326",
+        "frontTitle": "告",
+        "backTitle": "announce",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つげる"
+    },
+    {
+        "id": "0327",
+        "frontTitle": "深",
+        "backTitle": "deep",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ふかい"
+    },
+    {
+        "id": "0328",
+        "frontTitle": "存",
+        "backTitle": "suppose",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "そん"
+    },
+    {
+        "id": "0329",
+        "frontTitle": "争",
+        "backTitle": "contend",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "あらそう"
+    },
+    {
+        "id": "0331",
+        "frontTitle": "覚",
+        "backTitle": "Satori, folklore monster that can read minds",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さとり"
+    },
+    {
+        "id": "0332",
+        "frontTitle": "側",
+        "backTitle": "side (of something, or taking someone's side), part",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "がわ"
+    },
+    {
+        "id": "0333",
+        "frontTitle": "飛",
+        "backTitle": "rook, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひ"
+    },
+    {
+        "id": "0334",
+        "frontTitle": "参",
+        "backTitle": "see: , 二十八宿",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しん"
+    },
+    {
+        "id": "0336",
+        "frontTitle": "突",
+        "backTitle": "poke",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つく"
+    },
+    {
+        "id": "0337",
+        "frontTitle": "容",
+        "backTitle": "contents",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いれる"
+    },
+    {
+        "id": "0338",
+        "frontTitle": "育",
+        "backTitle": "grow up",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "そだつ"
+    },
+    {
+        "id": "0341",
+        "frontTitle": "構",
+        "backTitle": "build",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かまえる"
+    },
+    {
+        "id": "0342",
+        "frontTitle": "認",
+        "backTitle": "recognize",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "みとめる"
+    },
+    {
+        "id": "0343",
+        "frontTitle": "位",
+        "backTitle": "throne, crown",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くらい"
+    },
+    {
+        "id": "0344",
+        "frontTitle": "達",
+        "backTitle": "friend, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だち"
+    },
+    {
+        "id": "0347",
+        "frontTitle": "守",
+        "backTitle": "see: , 国司",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かみ"
+    },
+    {
+        "id": "0348",
+        "frontTitle": "満",
+        "backTitle": "being full",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "まん"
+    },
+    {
+        "id": "0349",
+        "frontTitle": "消",
+        "backTitle": "extinguish",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けす"
+    },
+    {
+        "id": "0350",
+        "frontTitle": "任",
+        "backTitle": "obligation, duty",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "にん"
+    },
+    {
+        "id": "0353",
+        "frontTitle": "居",
+        "backTitle": "being (somewhere), usu. used in compound words",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "い"
+    },
+    {
+        "id": "0354",
+        "frontTitle": "予",
+        "backTitle": "I, me",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よ"
+    },
+    {
+        "id": "0355",
+        "frontTitle": "路",
+        "backTitle": "way, road",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ち"
+    },
+    {
+        "id": "0357",
+        "frontTitle": "座",
+        "backTitle": "seat, place",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ざ"
+    },
+    {
+        "id": "0359",
+        "frontTitle": "客",
+        "backTitle": "guest, visitor",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "きゃく"
+    },
+    {
+        "id": "0361",
+        "frontTitle": "船",
+        "backTitle": "ship, boat",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せん"
+    },
+    {
+        "id": "0363",
+        "frontTitle": "追",
+        "backTitle": "pursue",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おう"
+    },
+    {
+        "id": "0364",
+        "frontTitle": "背",
+        "backTitle": "back, The sun beat down on our necks and backs.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せ"
+    },
+    {
+        "id": "0365",
+        "frontTitle": "観",
+        "backTitle": "look, appearance",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かん"
+    },
+    {
+        "id": "0366",
+        "frontTitle": "誰",
+        "backTitle": "who, だあれ is emphatic or inquisitive",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だれ"
+    },
+    {
+        "id": "0368",
+        "frontTitle": "息",
+        "backTitle": "breath, breathing",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いき"
+    },
+    {
+        "id": "0369",
+        "frontTitle": "失",
+        "backTitle": "loss (of something), disadvantage",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しつ"
+    },
+    {
+        "id": "0370",
+        "frontTitle": "老",
+        "backTitle": "old age, age",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ろう"
+    },
+    {
+        "id": "0371",
+        "frontTitle": "良",
+        "backTitle": "good (quality, condition, etc.), The tomato crop is of good quality.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "りょう"
+    },
+    {
+        "id": "0372",
+        "frontTitle": "示",
+        "backTitle": "show",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しめす"
+    },
+    {
+        "id": "0373",
+        "frontTitle": "号",
+        "backTitle": "number, edition",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ごう"
+    },
+    {
+        "id": "0374",
+        "frontTitle": "職",
+        "backTitle": "job, work",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しょく"
+    },
+    {
+        "id": "0375",
+        "frontTitle": "王",
+        "backTitle": "king, ruler",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おう"
+    },
+    {
+        "id": "0376",
+        "frontTitle": "識",
+        "backTitle": "acquaintanceship",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しき"
+    },
+    {
+        "id": "0377",
+        "frontTitle": "警",
+        "backTitle": "admonish",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けい"
+    },
+    {
+        "id": "0379",
+        "frontTitle": "優",
+        "backTitle": "Excellent (grade), A",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ゆう"
+    },
+    {
+        "id": "0380",
+        "frontTitle": "投",
+        "backTitle": "pitching ability",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "とう"
+    },
+    {
+        "id": "0382",
+        "frontTitle": "局",
+        "backTitle": "bureau, department",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "きょく"
+    },
+    {
+        "id": "0383",
+        "frontTitle": "難",
+        "backTitle": "difficulty, trouble",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "なん"
+    },
+    {
+        "id": "0384",
+        "frontTitle": "種",
+        "backTitle": "seed (e.g. of a plant), pip",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "たね"
+    },
+    {
+        "id": "0386",
+        "frontTitle": "念",
+        "backTitle": "sense, idea",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ねん"
+    },
+    {
+        "id": "0387",
+        "frontTitle": "寄",
+        "backTitle": "draw near",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よる"
+    },
+    {
+        "id": "0388",
+        "frontTitle": "商",
+        "backTitle": "quotient, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しょう"
+    },
+    {
+        "id": "0390",
+        "frontTitle": "害",
+        "backTitle": "injury, harm",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "がい"
+    },
+    {
+        "id": "0391",
+        "frontTitle": "頼",
+        "backTitle": "rely",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "たのむ"
+    },
+    {
+        "id": "0392",
+        "frontTitle": "横",
+        "backTitle": "horizontal (as opposed to vertical), see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よこ"
+    },
+    {
+        "id": "0394",
+        "frontTitle": "増",
+        "backTitle": "increase, This new investment will multiply our profit.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぞう"
+    },
+    {
+        "id": "0396",
+        "frontTitle": "差",
+        "backTitle": "difference, variation",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さ"
+    },
+    {
+        "id": "0398",
+        "frontTitle": "苦",
+        "backTitle": "pain, anguish",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "く"
+    },
+    {
+        "id": "0399",
+        "frontTitle": "収",
+        "backTitle": "supply",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おさめる"
+    },
+    {
+        "id": "0400",
+        "frontTitle": "段",
+        "backTitle": "step, stair",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だん"
+    },
+    {
+        "id": "0402",
+        "frontTitle": "俺",
+        "backTitle": "I, me",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おれ"
+    },
+    {
+        "id": "0404",
+        "frontTitle": "渡",
+        "backTitle": "cross",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "わたる"
+    },
+    {
+        "id": "0405",
+        "frontTitle": "与",
+        "backTitle": "together with ...",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "むた"
+    },
+    {
+        "id": "0407",
+        "frontTitle": "演",
+        "backTitle": "performance",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "えん"
+    },
+    {
+        "id": "0409",
+        "frontTitle": "備",
+        "backTitle": "prepare",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "そなえる"
+    },
+    {
+        "id": "0410",
+        "frontTitle": "申",
+        "backTitle": "the Monkey (ninth sign of the Chinese zodiac)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さる"
+    },
+    {
+        "id": "0411",
+        "frontTitle": "例",
+        "backTitle": "example, instance",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "れい"
+    },
+    {
+        "id": "0412",
+        "frontTitle": "働",
+        "backTitle": "work",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はたらく"
+    },
+    {
+        "id": "0413",
+        "frontTitle": "景",
+        "backTitle": "vista, view",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けい"
+    },
+    {
+        "id": "0415",
+        "frontTitle": "抜",
+        "backTitle": "extract",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぬく"
+    },
+    {
+        "id": "0416",
+        "frontTitle": "遠",
+        "backTitle": "distant",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "とお"
+    },
+    {
+        "id": "0417",
+        "frontTitle": "絶",
+        "backTitle": "see: , 絶場",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぜつ"
+    },
+    {
+        "id": "0419",
+        "frontTitle": "負",
+        "backTitle": "negative, minus",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ふ"
+    },
+    {
+        "id": "0420",
+        "frontTitle": "福",
+        "backTitle": "good fortune, happiness",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ふく"
+    },
+    {
+        "id": "0422",
+        "frontTitle": "球",
+        "backTitle": "sphere, globe",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "きゅう"
+    },
+    {
+        "id": "0423",
+        "frontTitle": "酒",
+        "backTitle": "alcohol, (alcoholic) drink",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しゅ"
+    },
+    {
+        "id": "0424",
+        "frontTitle": "君",
+        "backTitle": "suffix appended to someone else's family members",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぎみ"
+    },
+    {
+        "id": "0426",
+        "frontTitle": "察",
+        "backTitle": "cops, police",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さつ"
+    },
+    {
+        "id": "0428",
+        "frontTitle": "望",
+        "backTitle": "full moon",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "もち"
+    },
+    {
+        "id": "0429",
+        "frontTitle": "婚",
+        "backTitle": "sexual intercourse",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くながい"
+    },
+    {
+        "id": "0430",
+        "frontTitle": "単",
+        "backTitle": "single, simple",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "たん"
+    },
+    {
+        "id": "0431",
+        "frontTitle": "押",
+        "backTitle": "push",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おす"
+    },
+    {
+        "id": "0432",
+        "frontTitle": "割",
+        "backTitle": "separate",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "わる"
+    },
+    {
+        "id": "0433",
+        "frontTitle": "限",
+        "backTitle": "limit",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かぎる"
+    },
+    {
+        "id": "0434",
+        "frontTitle": "戻",
+        "backTitle": "return",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "もどる"
+    },
+    {
+        "id": "0435",
+        "frontTitle": "科",
+        "backTitle": "Japanese linden (Tilia japonica), see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しな"
+    },
+    {
+        "id": "0436",
+        "frontTitle": "求",
+        "backTitle": "request",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "もとめる"
+    },
+    {
+        "id": "0437",
+        "frontTitle": "談",
+        "backTitle": "talk, story",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だん"
+    },
+    {
+        "id": "0438",
+        "frontTitle": "降",
+        "backTitle": "get off",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おりる"
+    },
+    {
+        "id": "0439",
+        "frontTitle": "妻",
+        "backTitle": "wife, I went to the hospital to see my wife.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つま"
+    },
+    {
+        "id": "0440",
+        "frontTitle": "岡",
+        "backTitle": "hill",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おか"
+    },
+    {
+        "id": "0441",
+        "frontTitle": "熱",
+        "backTitle": "fever",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ねち"
+    },
+    {
+        "id": "0442",
+        "frontTitle": "浮",
+        "backTitle": "float",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "うく"
+    },
+    {
+        "id": "0443",
+        "frontTitle": "等",
+        "backTitle": "pluralizing suffix",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ら"
+    },
+    {
+        "id": "0444",
+        "frontTitle": "末",
+        "backTitle": "end, tip",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "すえ"
+    },
+    {
+        "id": "0446",
+        "frontTitle": "幸",
+        "backTitle": "good luck, fortune",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さち"
+    },
+    {
+        "id": "0450",
+        "frontTitle": "草",
+        "backTitle": "draft, rough copy",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "そう"
+    },
+    {
+        "id": "0451",
+        "frontTitle": "越",
+        "backTitle": "surpass",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こえる"
+    },
+    {
+        "id": "0453",
+        "frontTitle": "登",
+        "backTitle": "climb",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "のぼる"
+    },
+    {
+        "id": "0455",
+        "frontTitle": "類",
+        "backTitle": "kind, sort",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "るい"
+    },
+    {
+        "id": "0456",
+        "frontTitle": "未",
+        "backTitle": "the Sheep (eighth sign of the Chinese zodiac), the Ram",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひつじ"
+    },
+    {
+        "id": "0459",
+        "frontTitle": "規",
+        "backTitle": "standard",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "き"
+    },
+    {
+        "id": "0460",
+        "frontTitle": "精",
+        "backTitle": "spirit, sprite",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せい"
+    },
+    {
+        "id": "0462",
+        "frontTitle": "抱",
+        "backTitle": "hug",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "だく"
+    },
+    {
+        "id": "0463",
+        "frontTitle": "労",
+        "backTitle": "labor, labour",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ろう"
+    },
+    {
+        "id": "0464",
+        "frontTitle": "処",
+        "backTitle": "restaurant, specialist",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "どころ"
+    },
+    {
+        "id": "0465",
+        "frontTitle": "退",
+        "backTitle": "retreat",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しりぞく"
+    },
+    {
+        "id": "0466",
+        "frontTitle": "費",
+        "backTitle": "cost, expense",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひ"
+    },
+    {
+        "id": "0467",
+        "frontTitle": "非",
+        "backTitle": "fault, error",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひ"
+    },
+    {
+        "id": "0468",
+        "frontTitle": "喜",
+        "backTitle": "rejoice",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よろこぶ"
+    },
+    {
+        "id": "0469",
+        "frontTitle": "娘",
+        "backTitle": "daughter, She aided her daughter in dressing.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "むすめ"
+    },
+    {
+        "id": "0470",
+        "frontTitle": "逃",
+        "backTitle": "escape",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "にげる"
+    },
+    {
+        "id": "0471",
+        "frontTitle": "探",
+        "backTitle": "grope",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さがす"
+    },
+    {
+        "id": "0472",
+        "frontTitle": "犯",
+        "backTitle": "perpetrators of (some) crime, (some type of) crime",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はん"
+    },
+    {
+        "id": "0473",
+        "frontTitle": "薬",
+        "backTitle": "medicine, pharmaceuticals",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くすり"
+    },
+    {
+        "id": "0474",
+        "frontTitle": "園",
+        "backTitle": "garden, orchard",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "その"
+    },
+    {
+        "id": "0475",
+        "frontTitle": "疑",
+        "backTitle": "doubt, distrust",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぎ"
+    },
+    {
+        "id": "0476",
+        "frontTitle": "緒",
+        "backTitle": "beginning, inception",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しょ"
+    },
+    {
+        "id": "0477",
+        "frontTitle": "静",
+        "backTitle": "quiet, calm",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しず"
+    },
+    {
+        "id": "0478",
+        "frontTitle": "具",
+        "backTitle": "tool, means",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぐ"
+    },
+    {
+        "id": "0479",
+        "frontTitle": "席",
+        "backTitle": "seat, Can you save this seat for me?",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せき"
+    },
+    {
+        "id": "0480",
+        "frontTitle": "速",
+        "backTitle": "gear, speed (e.g. 4-speed transmission)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "そく"
+    },
+    {
+        "id": "0481",
+        "frontTitle": "舞",
+        "backTitle": "dancing, dance",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "まい"
+    },
+    {
+        "id": "0482",
+        "frontTitle": "宿",
+        "backTitle": "lodging",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しゅく"
+    },
+    {
+        "id": "0483",
+        "frontTitle": "程",
+        "backTitle": "extent, degree",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ほど"
+    },
+    {
+        "id": "0484",
+        "frontTitle": "倒",
+        "backTitle": "fall over",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "たおれる"
+    },
+    {
+        "id": "0485",
+        "frontTitle": "寝",
+        "backTitle": "to lie down, to go to bed",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぬ"
+    },
+    {
+        "id": "0486",
+        "frontTitle": "宅",
+        "backTitle": "house, home",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "たく"
+    },
+    {
+        "id": "0488",
+        "frontTitle": "絵",
+        "backTitle": "picture, drawing",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "え"
+    },
+    {
+        "id": "0489",
+        "frontTitle": "破",
+        "backTitle": "middle section of a song (in gagaku or noh), see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "は"
+    },
+    {
+        "id": "0492",
+        "frontTitle": "庭",
+        "backTitle": "garden, yard",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "にわ"
+    },
+    {
+        "id": "0493",
+        "frontTitle": "婦",
+        "backTitle": "married woman",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ふ"
+    },
+    {
+        "id": "0494",
+        "frontTitle": "余",
+        "backTitle": "other, another",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よ"
+    },
+    {
+        "id": "0495",
+        "frontTitle": "訪",
+        "backTitle": "visit",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "たずねる"
+    },
+    {
+        "id": "0496",
+        "frontTitle": "冷",
+        "backTitle": "refrigerator, on floor plans",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "れい"
+    },
+    {
+        "id": "0497",
+        "frontTitle": "暮",
+        "backTitle": "get dark",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くれる"
+    },
+    {
+        "id": "0498",
+        "frontTitle": "腹",
+        "backTitle": "abdomen, belly",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はら"
+    },
+    {
+        "id": "0499",
+        "frontTitle": "危",
+        "backTitle": "danger",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "き"
+    },
+    {
+        "id": "0501",
+        "frontTitle": "許",
+        "backTitle": "permit",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ゆるす"
+    },
+    {
+        "id": "0502",
+        "frontTitle": "似",
+        "backTitle": "looking like (someone), taking after (either of one's parents)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "に"
+    },
+    {
+        "id": "0503",
+        "frontTitle": "険",
+        "backTitle": "steepness, steep place",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けん"
+    },
+    {
+        "id": "0505",
+        "frontTitle": "財",
+        "backTitle": "fortune, riches",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ざい"
+    },
+    {
+        "id": "0506",
+        "frontTitle": "遊",
+        "backTitle": "play",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "あそぶ"
+    },
+    {
+        "id": "0507",
+        "frontTitle": "雑",
+        "backTitle": "rough, crude",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ざつ"
+    },
+    {
+        "id": "0508",
+        "frontTitle": "恐",
+        "backTitle": "fear",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おそれる"
+    },
+    {
+        "id": "0509",
+        "frontTitle": "値",
+        "backTitle": "level, value",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ち"
+    },
+    {
+        "id": "0510",
+        "frontTitle": "暗",
+        "backTitle": "darkness, antonym:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "あん"
+    },
+    {
+        "id": "0512",
+        "frontTitle": "積",
+        "backTitle": "product, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せき"
+    },
+    {
+        "id": "0515",
+        "frontTitle": "夢",
+        "backTitle": "dream, May all your dreams come true!",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ゆめ"
+    },
+    {
+        "id": "0516",
+        "frontTitle": "痛",
+        "backTitle": "ouch, ow",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いた"
+    },
+    {
+        "id": "0517",
+        "frontTitle": "富",
+        "backTitle": "riches, wealth",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "とみ"
+    },
+    {
+        "id": "0519",
+        "frontTitle": "刻",
+        "backTitle": "scratch",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "きざ"
+    },
+    {
+        "id": "0520",
+        "frontTitle": "鳴",
+        "backTitle": "chirp",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "なく"
+    },
+    {
+        "id": "0521",
+        "frontTitle": "欲",
+        "backTitle": "greed, craving",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よく"
+    },
+    {
+        "id": "0522",
+        "frontTitle": "途",
+        "backTitle": "way, route",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "と"
+    },
+    {
+        "id": "0523",
+        "frontTitle": "曲",
+        "backTitle": "composition, piece of music",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "きょく"
+    },
+    {
+        "id": "0524",
+        "frontTitle": "耳",
+        "backTitle": "ear, I put the receiver to my ear.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "みみ"
+    },
+    {
+        "id": "0525",
+        "frontTitle": "完",
+        "backTitle": "The End, Finis",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かん"
+    },
+    {
+        "id": "0526",
+        "frontTitle": "願",
+        "backTitle": "prayer, wish",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "がん"
+    },
+    {
+        "id": "0527",
+        "frontTitle": "罪",
+        "backTitle": "crime, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ざい"
+    },
+    {
+        "id": "0528",
+        "frontTitle": "陽",
+        "backTitle": "(the) positive",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "よう"
+    },
+    {
+        "id": "0529",
+        "frontTitle": "亡",
+        "backTitle": "death, usu. after dates",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぼう"
+    },
+    {
+        "id": "0530",
+        "frontTitle": "散",
+        "backTitle": "loose articles (not packaged with other things), bulk items",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ばら"
+    },
+    {
+        "id": "0531",
+        "frontTitle": "掛",
+        "backTitle": "hanging",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かける"
+    },
+    {
+        "id": "0532",
+        "frontTitle": "昨",
+        "backTitle": "last (year), yesterday",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さく"
+    },
+    {
+        "id": "0533",
+        "frontTitle": "怒",
+        "backTitle": "angry",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いかる"
+    },
+    {
+        "id": "0534",
+        "frontTitle": "留",
+        "backTitle": "stationary point",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "りゅう"
+    },
+    {
+        "id": "0535",
+        "frontTitle": "礼",
+        "backTitle": "thanks, gratitude",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "れい"
+    },
+    {
+        "id": "0536",
+        "frontTitle": "列",
+        "backTitle": "row, line",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "れつ"
+    },
+    {
+        "id": "0537",
+        "frontTitle": "雪",
+        "backTitle": "snow, snowfall",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ゆき"
+    },
+    {
+        "id": "0538",
+        "frontTitle": "払",
+        "backTitle": "pay",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はらう"
+    },
+    {
+        "id": "0539",
+        "frontTitle": "給",
+        "backTitle": "wage, recompense",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "きゅう"
+    },
+    {
+        "id": "0540",
+        "frontTitle": "敗",
+        "backTitle": "loss, defeat",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はい"
+    },
+    {
+        "id": "0541",
+        "frontTitle": "捕",
+        "backTitle": "catch",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つかまえる"
+    },
+    {
+        "id": "0543",
+        "frontTitle": "忘",
+        "backTitle": "forget",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "わすれる"
+    },
+    {
+        "id": "0545",
+        "frontTitle": "晴",
+        "backTitle": "clear up",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はれる"
+    },
+    {
+        "id": "0546",
+        "frontTitle": "因",
+        "backTitle": "cause, factor",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いん"
+    },
+    {
+        "id": "0547",
+        "frontTitle": "折",
+        "backTitle": "opportunity, chance",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おり"
+    },
+    {
+        "id": "0548",
+        "frontTitle": "迎",
+        "backTitle": "meet",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "むかえる"
+    },
+    {
+        "id": "0549",
+        "frontTitle": "悲",
+        "backTitle": "karuna (compassion)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひ"
+    },
+    {
+        "id": "0550",
+        "frontTitle": "港",
+        "backTitle": "harbour, in location names",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0551",
+        "frontTitle": "責",
+        "backTitle": "responsibility, duty",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せき"
+    },
+    {
+        "id": "0552",
+        "frontTitle": "除",
+        "backTitle": "division, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じょ"
+    },
+    {
+        "id": "0553",
+        "frontTitle": "困",
+        "backTitle": "distressed",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こまる"
+    },
+    {
+        "id": "0556",
+        "frontTitle": "閉",
+        "backTitle": "closed",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "しめる"
+    },
+    {
+        "id": "0557",
+        "frontTitle": "吸",
+        "backTitle": "suck",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "すう"
+    },
+    {
+        "id": "0559",
+        "frontTitle": "髪",
+        "backTitle": "hair (on the head), That dress matches her red hair.",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かみ"
+    },
+    {
+        "id": "0560",
+        "frontTitle": "束",
+        "backTitle": "strut, short vertical post",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つか"
+    },
+    {
+        "id": "0561",
+        "frontTitle": "眠",
+        "backTitle": "sleep",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ねむる"
+    },
+    {
+        "id": "0563",
+        "frontTitle": "易",
+        "backTitle": "easiness",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "い"
+    },
+    {
+        "id": "0564",
+        "frontTitle": "窓",
+        "backTitle": "window, Did you leave the window open?",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "まど"
+    },
+    {
+        "id": "0565",
+        "frontTitle": "祖",
+        "backTitle": "ancestor, forefather",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "そ"
+    },
+    {
+        "id": "0566",
+        "frontTitle": "勤",
+        "backTitle": "work",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つとめる"
+    },
+    {
+        "id": "0567",
+        "frontTitle": "昔",
+        "backTitle": "the old days, the past",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "むかし"
+    },
+    {
+        "id": "0568",
+        "frontTitle": "便",
+        "backTitle": "flight (e.g. airline flight), trip (e.g. train trip)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "びん"
+    },
+    {
+        "id": "0569",
+        "frontTitle": "適",
+        "backTitle": "suitable",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "てき"
+    },
+    {
+        "id": "0570",
+        "frontTitle": "吹",
+        "backTitle": "blow",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ふく"
+    },
+    {
+        "id": "0571",
+        "frontTitle": "候",
+        "backTitle": "season, weather",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0573",
+        "frontTitle": "怖",
+        "backTitle": "frightening, terrifying",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こわ"
+    },
+    {
+        "id": "0574",
+        "frontTitle": "辞",
+        "backTitle": "address (e.g. opening or closing remarks), speech",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "じ"
+    },
+    {
+        "id": "0575",
+        "frontTitle": "否",
+        "backTitle": "no, nay",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いな"
+    },
+    {
+        "id": "0581",
+        "frontTitle": "遅",
+        "backTitle": "late",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "おそい"
+    },
+    {
+        "id": "0583",
+        "frontTitle": "煙",
+        "backTitle": "smoke, fumes",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けむり"
+    },
+    {
+        "id": "0585",
+        "frontTitle": "徒",
+        "backTitle": "vain, futile",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "あだ"
+    },
+    {
+        "id": "0586",
+        "frontTitle": "欠",
+        "backTitle": "lack, deficiency",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "けつ"
+    },
+    {
+        "id": "0587",
+        "frontTitle": "迷",
+        "backTitle": "perplexed",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "まよう"
+    },
+    {
+        "id": "0588",
+        "frontTitle": "洗",
+        "backTitle": "washing machine, (clothes) washer",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "せん"
+    },
+    {
+        "id": "0589",
+        "frontTitle": "互",
+        "backTitle": "mutual",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "たがい"
+    },
+    {
+        "id": "0590",
+        "frontTitle": "才",
+        "backTitle": "ability, gift",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さい"
+    },
+    {
+        "id": "0591",
+        "frontTitle": "更",
+        "backTitle": "one-fifth of the night (approx. 2 hours), see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "こう"
+    },
+    {
+        "id": "0593",
+        "frontTitle": "歯",
+        "backTitle": "tooth, see:",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "し"
+    },
+    {
+        "id": "0594",
+        "frontTitle": "盗",
+        "backTitle": "steal",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぬすむ"
+    },
+    {
+        "id": "0595",
+        "frontTitle": "慣",
+        "backTitle": "get used to",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "なれる"
+    },
+    {
+        "id": "0596",
+        "frontTitle": "晩",
+        "backTitle": "evening, night",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ばん"
+    },
+    {
+        "id": "0597",
+        "frontTitle": "箱",
+        "backTitle": "box, case",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はこ"
+    },
+    {
+        "id": "0598",
+        "frontTitle": "到",
+        "backTitle": "arrive",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いたる"
+    },
+    {
+        "id": "0599",
+        "frontTitle": "頂",
+        "backTitle": "crown (of head), summit (of mountain)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いただき"
+    },
+    {
+        "id": "0600",
+        "frontTitle": "杯",
+        "backTitle": "sake cup, cup for alcoholic beverages",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はい"
+    },
+    {
+        "id": "0602",
+        "frontTitle": "皆",
+        "backTitle": "everyone, everybody",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "みな"
+    },
+    {
+        "id": "0604",
+        "frontTitle": "招",
+        "backTitle": "beckon",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "まねく"
+    },
+    {
+        "id": "0605",
+        "frontTitle": "寒",
+        "backTitle": "midwinter, cold season",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "かん"
+    },
+    {
+        "id": "0606",
+        "frontTitle": "恥",
+        "backTitle": "shame, embarrassment",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "はじ"
+    },
+    {
+        "id": "0607",
+        "frontTitle": "疲",
+        "backTitle": "fatigue",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "つかれる"
+    },
+    {
+        "id": "0608",
+        "frontTitle": "貧",
+        "backTitle": "poverty, penury",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ひん"
+    },
+    {
+        "id": "0609",
+        "frontTitle": "猫",
+        "backTitle": "cat (esp. the domestic cat, Felis catus)",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ねこ"
+    },
+    {
+        "id": "0611",
+        "frontTitle": "誤",
+        "backTitle": "mistake, error",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ご"
+    },
+    {
+        "id": "0612",
+        "frontTitle": "努",
+        "backTitle": "never, by no means",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ゆめ"
+    },
+    {
+        "id": "0614",
+        "frontTitle": "幾",
+        "backTitle": "some, several",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いく"
+    },
+    {
+        "id": "0615",
+        "frontTitle": "賛",
+        "backTitle": "praise, tribute",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "さん"
+    },
+    {
+        "id": "0616",
+        "frontTitle": "偶",
+        "backTitle": "even number, even",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "ぐう"
+    },
+    {
+        "id": "0617",
+        "frontTitle": "忙",
+        "backTitle": "busy",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "いそがしい"
+    },
+    {
+        "id": "0618",
+        "frontTitle": "泳",
+        "backTitle": "swim",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "およぐ"
+    },
+    {
+        "id": "0619",
+        "frontTitle": "靴",
+        "backTitle": "shoe, shoes",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "くつ"
+    },
+    {
+        "id": "0620",
+        "frontTitle": "偉",
+        "backTitle": "greatness, excellence",
+        "tags": [
+            "JLPT N3"
+        ],
+        "backDescription": "い"
+    }
+]

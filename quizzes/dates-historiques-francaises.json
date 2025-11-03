@@ -1,0 +1,597 @@
+[
+    {
+        "frontTitle": "486",
+        "backTitle": "Baptême de Clovis",
+        "backDescription": "Conversion au christianisme du roi des Francs",
+        "tags": [
+            "Époque Moderne",
+            "Moyen Âge"
+        ],
+        "id": "0001"
+    },
+    {
+        "frontTitle": "732",
+        "backTitle": "Bataille de Poitiers",
+        "backDescription": "Charles Martel arrête l'expansion musulmane en Europe",
+        "tags": [
+            "Moyen Âge"
+        ],
+        "id": "0002"
+    },
+    {
+        "frontTitle": "800",
+        "backTitle": "Couronnement de Charlemagne",
+        "backDescription": "Charlemagne couronné empereur par le pape",
+        "tags": [
+            "XIXe siècle",
+            "Moyen Âge"
+        ],
+        "id": "0003"
+    },
+    {
+        "frontTitle": "987",
+        "backTitle": "Avènement d'Hugues Capet",
+        "backDescription": "Début de la dynastie capétienne",
+        "tags": [
+            "Époque Moderne",
+            "Moyen Âge"
+        ],
+        "id": "0004"
+    },
+    {
+        "frontTitle": "1066",
+        "backTitle": "Bataille d'Hastings",
+        "backDescription": "Guillaume le Conquérant devient roi d'Angleterre",
+        "tags": [
+            "Moyen Âge"
+        ],
+        "id": "0005"
+    },
+    {
+        "frontTitle": "1095",
+        "backTitle": "Première croisade",
+        "backDescription": "Appel du pape Urbain II à la croisade",
+        "tags": [
+            "Moyen Âge"
+        ],
+        "id": "0006"
+    },
+    {
+        "frontTitle": "1214",
+        "backTitle": "Bataille de Bouvines",
+        "backDescription": "Victoire de Philippe Auguste contre une coalition",
+        "tags": [
+            "Moyen Âge"
+        ],
+        "id": "0007"
+    },
+    {
+        "frontTitle": "1337-1453",
+        "backTitle": "Guerre de Cent Ans",
+        "backDescription": "Conflit entre la France et l'Angleterre",
+        "tags": [
+            "Moyen Âge"
+        ],
+        "id": "0008"
+    },
+    {
+        "frontTitle": "1429",
+        "backTitle": "Jeanne d'Arc délivre Orléans",
+        "backDescription": "Tournant de la guerre de Cent Ans",
+        "tags": [
+            "Moyen Âge"
+        ],
+        "id": "0009"
+    },
+    {
+        "frontTitle": "1453",
+        "backTitle": "Fin de la guerre de Cent Ans",
+        "backDescription": "Bataille de Castillon, fin de la présence anglaise",
+        "tags": [
+            "Moyen Âge"
+        ],
+        "id": "0010"
+    },
+    {
+        "frontTitle": "1515",
+        "backTitle": "Bataille de Marignan",
+        "backDescription": "Victoire de François Ier en Italie",
+        "tags": [
+            "Époque Moderne"
+        ],
+        "id": "0011"
+    },
+    {
+        "frontTitle": "1572",
+        "backTitle": "Massacre de la Saint-Barthélemy",
+        "backDescription": "Massacre des protestants à Paris",
+        "tags": [
+            "Époque Moderne"
+        ],
+        "id": "0012"
+    },
+    {
+        "frontTitle": "1598",
+        "backTitle": "Édit de Nantes",
+        "backDescription": "Henri IV accorde la liberté de culte aux protestants",
+        "tags": [
+            "Époque Moderne"
+        ],
+        "id": "0013"
+    },
+    {
+        "frontTitle": "1610",
+        "backTitle": "Assassinat d'Henri IV",
+        "backDescription": "Mort du roi par Ravaillac",
+        "tags": [
+            "Contemporary",
+            "Époque Moderne"
+        ],
+        "id": "0014"
+    },
+    {
+        "frontTitle": "1661",
+        "backTitle": "Début du règne personnel de Louis XIV",
+        "backDescription": "Mort de Mazarin, Louis XIV gouverne seul",
+        "tags": [
+            "Époque Moderne"
+        ],
+        "id": "0015"
+    },
+    {
+        "frontTitle": "1682",
+        "backTitle": "Installation à Versailles",
+        "backDescription": "Louis XIV s'installe définitivement à Versailles",
+        "tags": [
+            "Époque Moderne"
+        ],
+        "id": "0016"
+    },
+    {
+        "frontTitle": "1685",
+        "backTitle": "Révocation de l'édit de Nantes",
+        "backDescription": "Louis XIV supprime la liberté de culte protestant",
+        "tags": [
+            "Époque Moderne"
+        ],
+        "id": "0017"
+    },
+    {
+        "frontTitle": "1715",
+        "backTitle": "Mort de Louis XIV",
+        "backDescription": "Fin du plus long règne de l'histoire de France",
+        "tags": [
+            "Époque Moderne"
+        ],
+        "id": "0018"
+    },
+    {
+        "frontTitle": "1789",
+        "backTitle": "Début de la Révolution française",
+        "backDescription": "Prise de la Bastille le 14 juillet",
+        "tags": [
+            "Révolution"
+        ],
+        "id": "0019"
+    },
+    {
+        "frontTitle": "26 août 1789",
+        "backTitle": "Déclaration des Droits de l'Homme",
+        "backDescription": "Adoption de la Déclaration des Droits de l'Homme et du Citoyen",
+        "tags": [
+            "Révolution"
+        ],
+        "id": "0020"
+    },
+    {
+        "frontTitle": "1792",
+        "backTitle": "Proclamation de la République",
+        "backDescription": "Chute de la monarchie, Première République",
+        "tags": [
+            "Révolution"
+        ],
+        "id": "0021"
+    },
+    {
+        "frontTitle": "21 janvier 1793",
+        "backTitle": "Exécution de Louis XVI",
+        "backDescription": "Louis XVI guillotiné place de la Révolution",
+        "tags": [
+            "Révolution"
+        ],
+        "id": "0022"
+    },
+    {
+        "frontTitle": "1793-1794",
+        "backTitle": "La Terreur",
+        "backDescription": "Période de gouvernement révolutionnaire radical",
+        "tags": [
+            "Révolution"
+        ],
+        "id": "0023"
+    },
+    {
+        "frontTitle": "18 brumaire an VIII",
+        "backTitle": "Coup d'État de Bonaparte",
+        "backDescription": "9 novembre 1799, Bonaparte prend le pouvoir",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0024"
+    },
+    {
+        "frontTitle": "1804",
+        "backTitle": "Sacre de Napoléon",
+        "backDescription": "Napoléon devient empereur des Français",
+        "tags": [
+            "XIXe siècle",
+            "Époque Moderne"
+        ],
+        "id": "0025"
+    },
+    {
+        "frontTitle": "1815",
+        "backTitle": "Bataille de Waterloo",
+        "backDescription": "Défaite finale de Napoléon",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0026"
+    },
+    {
+        "frontTitle": "1830",
+        "backTitle": "Révolution de Juillet",
+        "backDescription": "Chute de Charles X, avènement de Louis-Philippe",
+        "tags": [
+            "XIXe siècle",
+            "Révolution"
+        ],
+        "id": "0027"
+    },
+    {
+        "frontTitle": "1848",
+        "backTitle": "Révolution de 1848",
+        "backDescription": "Chute de la Monarchie de Juillet, Deuxième République",
+        "tags": [
+            "XIXe siècle",
+            "Révolution"
+        ],
+        "id": "0028"
+    },
+    {
+        "frontTitle": "2 décembre 1851",
+        "backTitle": "Coup d'État de Louis-Napoléon",
+        "backDescription": "Louis-Napoléon Bonaparte prend le pouvoir",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0029"
+    },
+    {
+        "frontTitle": "1870-1871",
+        "backTitle": "Guerre franco-prussienne",
+        "backDescription": "Défaite française, chute du Second Empire",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0030"
+    },
+    {
+        "frontTitle": "18 mars - 28 mai 1871",
+        "backTitle": "Commune de Paris",
+        "backDescription": "Insurrection révolutionnaire à Paris",
+        "tags": [
+            "XIXe siècle",
+            "Révolution"
+        ],
+        "id": "0031"
+    },
+    {
+        "frontTitle": "1875",
+        "backTitle": "Lois constitutionnelles",
+        "backDescription": "Établissement définitif de la Troisième République",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0032"
+    },
+    {
+        "frontTitle": "1894-1906",
+        "backTitle": "Affaire Dreyfus",
+        "backDescription": "Crise politique et sociale majeure",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0033"
+    },
+    {
+        "frontTitle": "1905",
+        "backTitle": "Loi de séparation des Églises et de l'État",
+        "backDescription": "Laïcité de l'État français",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0034"
+    },
+    {
+        "frontTitle": "1914-1918",
+        "backTitle": "Première Guerre mondiale",
+        "backDescription": "La Grande Guerre",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0035"
+    },
+    {
+        "frontTitle": "11 novembre 1918",
+        "backTitle": "Armistice",
+        "backDescription": "Fin de la Première Guerre mondiale",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0036"
+    },
+    {
+        "frontTitle": "6 février 1934",
+        "backTitle": "Émeutes du 6 février",
+        "backDescription": "Crise politique de la Troisième République",
+        "tags": [
+            "XIXe siècle"
+        ],
+        "id": "0037"
+    },
+    {
+        "frontTitle": "3 septembre 1939",
+        "backTitle": "Déclaration de guerre à l'Allemagne",
+        "backDescription": "Début de la Seconde Guerre mondiale pour la France",
+        "tags": [
+            "XXe siècle",
+            "Révolution"
+        ],
+        "id": "0038"
+    },
+    {
+        "frontTitle": "18 juin 1940",
+        "backTitle": "Appel du général de Gaulle",
+        "backDescription": "Appel à la résistance depuis Londres",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0039"
+    },
+    {
+        "frontTitle": "10 juillet 1940",
+        "backTitle": "Vote des pleins pouvoirs à Pétain",
+        "backDescription": "Fin de la Troisième République, début de Vichy",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0040"
+    },
+    {
+        "frontTitle": "6 juin 1944",
+        "backTitle": "Débarquement de Normandie",
+        "backDescription": "Début de la libération de l'Europe occidentale",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0041"
+    },
+    {
+        "frontTitle": "25 août 1944",
+        "backTitle": "Libération de Paris",
+        "backDescription": "Entrée des Alliés et de la 2e DB dans Paris",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0042"
+    },
+    {
+        "frontTitle": "8 mai 1945",
+        "backTitle": "Capitulation de l'Allemagne",
+        "backDescription": "Fin de la Seconde Guerre mondiale en Europe",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0043"
+    },
+    {
+        "frontTitle": "1946",
+        "backTitle": "Début de la Quatrième République",
+        "backDescription": "Nouvelle constitution adoptée",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0044"
+    },
+    {
+        "frontTitle": "1954",
+        "backTitle": "Bataille de Dien Bien Phu",
+        "backDescription": "Défaite française en Indochine",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0045"
+    },
+    {
+        "frontTitle": "1er novembre 1954",
+        "backTitle": "Début de la guerre d'Algérie",
+        "backDescription": "Insurrection du FLN en Algérie",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0046"
+    },
+    {
+        "frontTitle": "13 mai 1958",
+        "backTitle": "Crise du 13 mai",
+        "backDescription": "Crise politique à Alger, retour de De Gaulle",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0047"
+    },
+    {
+        "frontTitle": "4 octobre 1958",
+        "backTitle": "Constitution de la Ve République",
+        "backDescription": "Adoption de la Constitution actuelle",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0048"
+    },
+    {
+        "frontTitle": "19 mars 1962",
+        "backTitle": "Accords d'Évian",
+        "backDescription": "Fin de la guerre d'Algérie",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0049"
+    },
+    {
+        "frontTitle": "Mai 1968",
+        "backTitle": "Mai 68",
+        "backDescription": "Mouvement de contestation étudiante et sociale",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0050"
+    },
+    {
+        "frontTitle": "9 novembre 1970",
+        "backTitle": "Mort de Charles de Gaulle",
+        "backDescription": "Disparition du fondateur de la Ve République",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0051"
+    },
+    {
+        "frontTitle": "10 mai 1981",
+        "backTitle": "Élection de François Mitterrand",
+        "backDescription": "Première alternance de la Ve République",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0052"
+    },
+    {
+        "frontTitle": "1986",
+        "backTitle": "Première cohabitation",
+        "backDescription": "Mitterrand président, Chirac Premier ministre",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0053"
+    },
+    {
+        "frontTitle": "9 novembre 1989",
+        "backTitle": "Chute du mur de Berlin",
+        "backDescription": "Fin de la guerre froide",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0054"
+    },
+    {
+        "frontTitle": "7 février 1992",
+        "backTitle": "Traité de Maastricht",
+        "backDescription": "Création de l'Union européenne",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0055"
+    },
+    {
+        "frontTitle": "1995",
+        "backTitle": "Élection de Jacques Chirac",
+        "backDescription": "Chirac président de la République",
+        "tags": [
+            "XXe siècle"
+        ],
+        "id": "0056"
+    },
+    {
+        "frontTitle": "1er janvier 2002",
+        "backTitle": "Passage à l'euro",
+        "backDescription": "L'euro devient la monnaie française",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0057"
+    },
+    {
+        "frontTitle": "21 avril 2002",
+        "backTitle": "Le Pen au second tour",
+        "backDescription": "Jean-Marie Le Pen qualifié pour le second tour",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0058"
+    },
+    {
+        "frontTitle": "6 mai 2007",
+        "backTitle": "Élection de Nicolas Sarkozy",
+        "backDescription": "Sarkozy président de la République",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0059"
+    },
+    {
+        "frontTitle": "6 mai 2012",
+        "backTitle": "Élection de François Hollande",
+        "backDescription": "Hollande président de la République",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0060"
+    },
+    {
+        "frontTitle": "7-9 janvier 2015",
+        "backTitle": "Attentats de Charlie Hebdo",
+        "backDescription": "Attaques terroristes à Paris",
+        "tags": [
+            "Contemporary",
+            "Révolution"
+        ],
+        "id": "0061"
+    },
+    {
+        "frontTitle": "13 novembre 2015",
+        "backTitle": "Attentats du 13 novembre",
+        "backDescription": "Attaques terroristes à Paris et Saint-Denis",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0062"
+    },
+    {
+        "frontTitle": "7 mai 2017",
+        "backTitle": "Élection d'Emmanuel Macron",
+        "backDescription": "Macron président de la République",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0063"
+    },
+    {
+        "frontTitle": "17 novembre 2018",
+        "backTitle": "Début des Gilets jaunes",
+        "backDescription": "Mouvement de protestation sociale",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0064"
+    },
+    {
+        "frontTitle": "15 avril 2019",
+        "backTitle": "Incendie de Notre-Dame",
+        "backDescription": "Incendie de la cathédrale Notre-Dame de Paris",
+        "tags": [
+            "Contemporary"
+        ],
+        "id": "0065"
+    }
+]

@@ -58,7 +58,43 @@
 			"file_name": "morse.json",
 			"version": "1.0",
 			"icon": "0xe37d"
+		},
+		{
+			"name": "Vim Keybindings",
+			"file_name": "vim-keybindings.json",
+			"version": "1.0",
+			"icon": "0xe351",
+			"tags": [
+				"Basic",
+				"Navigation",
+				"Editing",
+				"Advanced"
+			]
+		},
+		{
+			"name": "Essential Kanjis",
+			"file_name": "jlpt-kanjis.json",
+			"version": "1.0",
+			"icon": "0xe67b",
+			"tags": [
+				"JLPT N5",
+				"JLPT N4",
+				"JLPT N3"
+			]
+		},
+		{
+			"name": "Dates Historiques Françaises",
+			"file_name": "dates-historiques-francaises.json",
+			"version": "1.0",
+			"icon": "0xe315",
+			"tags": [
+				"Moyen Âge",
+				"Époque Moderne",
+				"Révolution",
+				"XIXe siècle",
+				"XXe siècle",
+				"Contemporary"
+			]
 		}
-
 	]
 }

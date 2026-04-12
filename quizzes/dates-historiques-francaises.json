@@ -124,7 +124,7 @@
         "backTitle": "Assassinat d'Henri IV",
         "backDescription": "Mort du roi par Ravaillac",
         "tags": [
-            "Contemporary",
+            "Contemporain",
             "Époque Moderne"
         ],
         "id": "0014"
@@ -517,7 +517,7 @@
         "backTitle": "Passage à l'euro",
         "backDescription": "L'euro devient la monnaie française",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0057"
     },
@@ -526,7 +526,7 @@
         "backTitle": "Le Pen au second tour",
         "backDescription": "Jean-Marie Le Pen qualifié pour le second tour",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0058"
     },
@@ -535,7 +535,7 @@
         "backTitle": "Élection de Nicolas Sarkozy",
         "backDescription": "Sarkozy président de la République",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0059"
     },
@@ -544,7 +544,7 @@
         "backTitle": "Élection de François Hollande",
         "backDescription": "Hollande président de la République",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0060"
     },
@@ -553,7 +553,7 @@
         "backTitle": "Attentats de Charlie Hebdo",
         "backDescription": "Attaques terroristes à Paris",
         "tags": [
-            "Contemporary",
+            "Contemporain",
             "Révolution"
         ],
         "id": "0061"
@@ -563,7 +563,7 @@
         "backTitle": "Attentats du 13 novembre",
         "backDescription": "Attaques terroristes à Paris et Saint-Denis",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0062"
     },
@@ -572,7 +572,7 @@
         "backTitle": "Élection d'Emmanuel Macron",
         "backDescription": "Macron président de la République",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0063"
     },
@@ -581,7 +581,7 @@
         "backTitle": "Début des Gilets jaunes",
         "backDescription": "Mouvement de protestation sociale",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0064"
     },
@@ -590,7 +590,7 @@
         "backTitle": "Incendie de Notre-Dame",
         "backDescription": "Incendie de la cathédrale Notre-Dame de Paris",
         "tags": [
-            "Contemporary"
+            "Contemporain"
         ],
         "id": "0065"
     }

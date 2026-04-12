@@ -1,0 +1,770 @@
+[
+    {
+        "frontImage": "01.png",
+        "backTitle": "Ain",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "01"
+    },
+    {
+        "frontImage": "02.png",
+        "backTitle": "Aisne",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "02"
+    },
+    {
+        "frontImage": "03.png",
+        "backTitle": "Allier",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "03"
+    },
+    {
+        "frontImage": "04.png",
+        "backTitle": "Alpes-de-Haute-Provence",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "04"
+    },
+    {
+        "frontImage": "05.png",
+        "backTitle": "Hautes-Alpes",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "05"
+    },
+    {
+        "frontImage": "06.png",
+        "backTitle": "Alpes-Maritimes",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "06"
+    },
+    {
+        "frontImage": "07.png",
+        "backTitle": "Ardèche",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "07"
+    },
+    {
+        "frontImage": "08.png",
+        "backTitle": "Ardennes",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "08"
+    },
+    {
+        "frontImage": "09.png",
+        "backTitle": "Ariège",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "09"
+    },
+    {
+        "frontImage": "10.png",
+        "backTitle": "Aube",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "10"
+    },
+    {
+        "frontImage": "11.png",
+        "backTitle": "Aude",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "11"
+    },
+    {
+        "frontImage": "12.png",
+        "backTitle": "Aveyron",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "12"
+    },
+    {
+        "frontImage": "13.png",
+        "backTitle": "Bouches-du-Rhône",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "13"
+    },
+    {
+        "frontImage": "14.png",
+        "backTitle": "Calvados",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "14"
+    },
+    {
+        "frontImage": "15.png",
+        "backTitle": "Cantal",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "15"
+    },
+    {
+        "frontImage": "16.png",
+        "backTitle": "Charente",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "16"
+    },
+    {
+        "frontImage": "17.png",
+        "backTitle": "Charente-Maritime",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "17"
+    },
+    {
+        "frontImage": "18.png",
+        "backTitle": "Cher",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "18"
+    },
+    {
+        "frontImage": "19.png",
+        "backTitle": "Corrèze",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "19"
+    },
+    {
+        "frontImage": "2A.png",
+        "backTitle": "Corse-du-Sud",
+        "tags": [
+            "Corse"
+        ],
+        "id": "2A"
+    },
+    {
+        "frontImage": "2B.png",
+        "backTitle": "Haute-Corse",
+        "tags": [
+            "Corse"
+        ],
+        "id": "2B"
+    },
+    {
+        "frontImage": "21.png",
+        "backTitle": "Côte-d'Or",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "21"
+    },
+    {
+        "frontImage": "22.png",
+        "backTitle": "Côtes-d'Armor",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "22"
+    },
+    {
+        "frontImage": "23.png",
+        "backTitle": "Creuse",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "23"
+    },
+    {
+        "frontImage": "24.png",
+        "backTitle": "Dordogne",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "24"
+    },
+    {
+        "frontImage": "25.png",
+        "backTitle": "Doubs",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "25"
+    },
+    {
+        "frontImage": "26.png",
+        "backTitle": "Drôme",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "26"
+    },
+    {
+        "frontImage": "27.png",
+        "backTitle": "Eure",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "27"
+    },
+    {
+        "frontImage": "28.png",
+        "backTitle": "Eure-et-Loir",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "28"
+    },
+    {
+        "frontImage": "29.png",
+        "backTitle": "Finistère",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "29"
+    },
+    {
+        "frontImage": "30.png",
+        "backTitle": "Gard",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "30"
+    },
+    {
+        "frontImage": "31.png",
+        "backTitle": "Haute-Garonne",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "31"
+    },
+    {
+        "frontImage": "32.png",
+        "backTitle": "Gers",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "32"
+    },
+    {
+        "frontImage": "33.png",
+        "backTitle": "Gironde",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "33"
+    },
+    {
+        "frontImage": "34.png",
+        "backTitle": "Hérault",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "34"
+    },
+    {
+        "frontImage": "35.png",
+        "backTitle": "Ille-et-Vilaine",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "35"
+    },
+    {
+        "frontImage": "36.png",
+        "backTitle": "Indre",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "36"
+    },
+    {
+        "frontImage": "37.png",
+        "backTitle": "Indre-et-Loire",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "37"
+    },
+    {
+        "frontImage": "38.png",
+        "backTitle": "Isère",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "38"
+    },
+    {
+        "frontImage": "39.png",
+        "backTitle": "Jura",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "39"
+    },
+    {
+        "frontImage": "40.png",
+        "backTitle": "Landes",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "40"
+    },
+    {
+        "frontImage": "41.png",
+        "backTitle": "Loir-et-Cher",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "41"
+    },
+    {
+        "frontImage": "42.png",
+        "backTitle": "Loire",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "42"
+    },
+    {
+        "frontImage": "43.png",
+        "backTitle": "Haute-Loire",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "43"
+    },
+    {
+        "frontImage": "44.png",
+        "backTitle": "Loire-Atlantique",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "44"
+    },
+    {
+        "frontImage": "45.png",
+        "backTitle": "Loiret",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "45"
+    },
+    {
+        "frontImage": "46.png",
+        "backTitle": "Lot",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "46"
+    },
+    {
+        "frontImage": "47.png",
+        "backTitle": "Lot-et-Garonne",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "47"
+    },
+    {
+        "frontImage": "48.png",
+        "backTitle": "Lozère",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "48"
+    },
+    {
+        "frontImage": "49.png",
+        "backTitle": "Maine-et-Loire",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "49"
+    },
+    {
+        "frontImage": "50.png",
+        "backTitle": "Manche",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "50"
+    },
+    {
+        "frontImage": "51.png",
+        "backTitle": "Marne",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "51"
+    },
+    {
+        "frontImage": "52.png",
+        "backTitle": "Haute-Marne",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "52"
+    },
+    {
+        "frontImage": "53.png",
+        "backTitle": "Mayenne",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "53"
+    },
+    {
+        "frontImage": "54.png",
+        "backTitle": "Meurthe-et-Moselle",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "54"
+    },
+    {
+        "frontImage": "55.png",
+        "backTitle": "Meuse",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "55"
+    },
+    {
+        "frontImage": "56.png",
+        "backTitle": "Morbihan",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "56"
+    },
+    {
+        "frontImage": "57.png",
+        "backTitle": "Moselle",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "57"
+    },
+    {
+        "frontImage": "58.png",
+        "backTitle": "Nièvre",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "58"
+    },
+    {
+        "frontImage": "59.png",
+        "backTitle": "Nord",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "59"
+    },
+    {
+        "frontImage": "60.png",
+        "backTitle": "Oise",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "60"
+    },
+    {
+        "frontImage": "61.png",
+        "backTitle": "Orne",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "61"
+    },
+    {
+        "frontImage": "62.png",
+        "backTitle": "Pas-de-Calais",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "62"
+    },
+    {
+        "frontImage": "63.png",
+        "backTitle": "Puy-de-Dôme",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "63"
+    },
+    {
+        "frontImage": "64.png",
+        "backTitle": "Pyrénées-Atlantiques",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "64"
+    },
+    {
+        "frontImage": "65.png",
+        "backTitle": "Hautes-Pyrénées",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "65"
+    },
+    {
+        "frontImage": "66.png",
+        "backTitle": "Pyrénées-Orientales",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "66"
+    },
+    {
+        "frontImage": "67.png",
+        "backTitle": "Bas-Rhin",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "67"
+    },
+    {
+        "frontImage": "68.png",
+        "backTitle": "Haut-Rhin",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "68"
+    },
+    {
+        "frontImage": "69.png",
+        "backTitle": "Rhône",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "69"
+    },
+    {
+        "frontImage": "70.png",
+        "backTitle": "Haute-Saône",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "70"
+    },
+    {
+        "frontImage": "71.png",
+        "backTitle": "Saône-et-Loire",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "71"
+    },
+    {
+        "frontImage": "72.png",
+        "backTitle": "Sarthe",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "72"
+    },
+    {
+        "frontImage": "73.png",
+        "backTitle": "Savoie",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "73"
+    },
+    {
+        "frontImage": "74.png",
+        "backTitle": "Haute-Savoie",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "74"
+    },
+    {
+        "frontImage": "75.png",
+        "backTitle": "Paris",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "75"
+    },
+    {
+        "frontImage": "76.png",
+        "backTitle": "Seine-Maritime",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "76"
+    },
+    {
+        "frontImage": "77.png",
+        "backTitle": "Seine-et-Marne",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "77"
+    },
+    {
+        "frontImage": "78.png",
+        "backTitle": "Yvelines",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "78"
+    },
+    {
+        "frontImage": "79.png",
+        "backTitle": "Deux-Sèvres",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "79"
+    },
+    {
+        "frontImage": "80.png",
+        "backTitle": "Somme",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "80"
+    },
+    {
+        "frontImage": "81.png",
+        "backTitle": "Tarn",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "81"
+    },
+    {
+        "frontImage": "82.png",
+        "backTitle": "Tarn-et-Garonne",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "82"
+    },
+    {
+        "frontImage": "83.png",
+        "backTitle": "Var",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "83"
+    },
+    {
+        "frontImage": "84.png",
+        "backTitle": "Vaucluse",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "84"
+    },
+    {
+        "frontImage": "85.png",
+        "backTitle": "Vendée",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "85"
+    },
+    {
+        "frontImage": "86.png",
+        "backTitle": "Vienne",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "86"
+    },
+    {
+        "frontImage": "87.png",
+        "backTitle": "Haute-Vienne",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "87"
+    },
+    {
+        "frontImage": "88.png",
+        "backTitle": "Vosges",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "88"
+    },
+    {
+        "frontImage": "89.png",
+        "backTitle": "Yonne",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "89"
+    },
+    {
+        "frontImage": "90.png",
+        "backTitle": "Territoire de Belfort",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "90"
+    },
+    {
+        "frontImage": "91.png",
+        "backTitle": "Essonne",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "91"
+    },
+    {
+        "frontImage": "92.png",
+        "backTitle": "Hauts-de-Seine",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "92"
+    },
+    {
+        "frontImage": "93.png",
+        "backTitle": "Seine-Saint-Denis",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "93"
+    },
+    {
+        "frontImage": "94.png",
+        "backTitle": "Val-de-Marne",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "94"
+    },
+    {
+        "frontImage": "95.png",
+        "backTitle": "Val-d'Oise",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "95"
+    }
+]

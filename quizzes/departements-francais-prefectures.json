@@ -1,0 +1,770 @@
+[
+    {
+        "frontTitle": "Ain",
+        "backTitle": "Bourg-en-Bresse",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "01"
+    },
+    {
+        "frontTitle": "Aisne",
+        "backTitle": "Laon",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "02"
+    },
+    {
+        "frontTitle": "Allier",
+        "backTitle": "Moulins",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "03"
+    },
+    {
+        "frontTitle": "Alpes-de-Haute-Provence",
+        "backTitle": "Digne-les-Bains",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "04"
+    },
+    {
+        "frontTitle": "Hautes-Alpes",
+        "backTitle": "Gap",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "05"
+    },
+    {
+        "frontTitle": "Alpes-Maritimes",
+        "backTitle": "Nice",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "06"
+    },
+    {
+        "frontTitle": "Ardèche",
+        "backTitle": "Privas",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "07"
+    },
+    {
+        "frontTitle": "Ardennes",
+        "backTitle": "Charleville-Mézières",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "08"
+    },
+    {
+        "frontTitle": "Ariège",
+        "backTitle": "Foix",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "09"
+    },
+    {
+        "frontTitle": "Aube",
+        "backTitle": "Troyes",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "10"
+    },
+    {
+        "frontTitle": "Aude",
+        "backTitle": "Carcassonne",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "11"
+    },
+    {
+        "frontTitle": "Aveyron",
+        "backTitle": "Rodez",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "12"
+    },
+    {
+        "frontTitle": "Bouches-du-Rhône",
+        "backTitle": "Marseille",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "13"
+    },
+    {
+        "frontTitle": "Calvados",
+        "backTitle": "Caen",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "14"
+    },
+    {
+        "frontTitle": "Cantal",
+        "backTitle": "Aurillac",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "15"
+    },
+    {
+        "frontTitle": "Charente",
+        "backTitle": "Angoulême",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "16"
+    },
+    {
+        "frontTitle": "Charente-Maritime",
+        "backTitle": "La Rochelle",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "17"
+    },
+    {
+        "frontTitle": "Cher",
+        "backTitle": "Bourges",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "18"
+    },
+    {
+        "frontTitle": "Corrèze",
+        "backTitle": "Tulle",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "19"
+    },
+    {
+        "frontTitle": "Corse-du-Sud",
+        "backTitle": "Ajaccio",
+        "tags": [
+            "Corse"
+        ],
+        "id": "2A"
+    },
+    {
+        "frontTitle": "Haute-Corse",
+        "backTitle": "Bastia",
+        "tags": [
+            "Corse"
+        ],
+        "id": "2B"
+    },
+    {
+        "frontTitle": "Côte-d'Or",
+        "backTitle": "Dijon",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "21"
+    },
+    {
+        "frontTitle": "Côtes-d'Armor",
+        "backTitle": "Saint-Brieuc",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "22"
+    },
+    {
+        "frontTitle": "Creuse",
+        "backTitle": "Guéret",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "23"
+    },
+    {
+        "frontTitle": "Dordogne",
+        "backTitle": "Périgueux",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "24"
+    },
+    {
+        "frontTitle": "Doubs",
+        "backTitle": "Besançon",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "25"
+    },
+    {
+        "frontTitle": "Drôme",
+        "backTitle": "Valence",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "26"
+    },
+    {
+        "frontTitle": "Eure",
+        "backTitle": "Évreux",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "27"
+    },
+    {
+        "frontTitle": "Eure-et-Loir",
+        "backTitle": "Chartres",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "28"
+    },
+    {
+        "frontTitle": "Finistère",
+        "backTitle": "Quimper",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "29"
+    },
+    {
+        "frontTitle": "Gard",
+        "backTitle": "Nîmes",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "30"
+    },
+    {
+        "frontTitle": "Haute-Garonne",
+        "backTitle": "Toulouse",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "31"
+    },
+    {
+        "frontTitle": "Gers",
+        "backTitle": "Auch",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "32"
+    },
+    {
+        "frontTitle": "Gironde",
+        "backTitle": "Bordeaux",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "33"
+    },
+    {
+        "frontTitle": "Hérault",
+        "backTitle": "Montpellier",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "34"
+    },
+    {
+        "frontTitle": "Ille-et-Vilaine",
+        "backTitle": "Rennes",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "35"
+    },
+    {
+        "frontTitle": "Indre",
+        "backTitle": "Châteauroux",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "36"
+    },
+    {
+        "frontTitle": "Indre-et-Loire",
+        "backTitle": "Tours",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "37"
+    },
+    {
+        "frontTitle": "Isère",
+        "backTitle": "Grenoble",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "38"
+    },
+    {
+        "frontTitle": "Jura",
+        "backTitle": "Lons-le-Saunier",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "39"
+    },
+    {
+        "frontTitle": "Landes",
+        "backTitle": "Mont-de-Marsan",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "40"
+    },
+    {
+        "frontTitle": "Loir-et-Cher",
+        "backTitle": "Blois",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "41"
+    },
+    {
+        "frontTitle": "Loire",
+        "backTitle": "Saint-Étienne",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "42"
+    },
+    {
+        "frontTitle": "Haute-Loire",
+        "backTitle": "Le Puy-en-Velay",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "43"
+    },
+    {
+        "frontTitle": "Loire-Atlantique",
+        "backTitle": "Nantes",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "44"
+    },
+    {
+        "frontTitle": "Loiret",
+        "backTitle": "Orléans",
+        "tags": [
+            "Centre-Val de Loire"
+        ],
+        "id": "45"
+    },
+    {
+        "frontTitle": "Lot",
+        "backTitle": "Cahors",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "46"
+    },
+    {
+        "frontTitle": "Lot-et-Garonne",
+        "backTitle": "Agen",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "47"
+    },
+    {
+        "frontTitle": "Lozère",
+        "backTitle": "Mende",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "48"
+    },
+    {
+        "frontTitle": "Maine-et-Loire",
+        "backTitle": "Angers",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "49"
+    },
+    {
+        "frontTitle": "Manche",
+        "backTitle": "Saint-Lô",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "50"
+    },
+    {
+        "frontTitle": "Marne",
+        "backTitle": "Châlons-en-Champagne",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "51"
+    },
+    {
+        "frontTitle": "Haute-Marne",
+        "backTitle": "Chaumont",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "52"
+    },
+    {
+        "frontTitle": "Mayenne",
+        "backTitle": "Laval",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "53"
+    },
+    {
+        "frontTitle": "Meurthe-et-Moselle",
+        "backTitle": "Nancy",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "54"
+    },
+    {
+        "frontTitle": "Meuse",
+        "backTitle": "Bar-le-Duc",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "55"
+    },
+    {
+        "frontTitle": "Morbihan",
+        "backTitle": "Vannes",
+        "tags": [
+            "Bretagne"
+        ],
+        "id": "56"
+    },
+    {
+        "frontTitle": "Moselle",
+        "backTitle": "Metz",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "57"
+    },
+    {
+        "frontTitle": "Nièvre",
+        "backTitle": "Nevers",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "58"
+    },
+    {
+        "frontTitle": "Nord",
+        "backTitle": "Lille",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "59"
+    },
+    {
+        "frontTitle": "Oise",
+        "backTitle": "Beauvais",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "60"
+    },
+    {
+        "frontTitle": "Orne",
+        "backTitle": "Alençon",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "61"
+    },
+    {
+        "frontTitle": "Pas-de-Calais",
+        "backTitle": "Arras",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "62"
+    },
+    {
+        "frontTitle": "Puy-de-Dôme",
+        "backTitle": "Clermont-Ferrand",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "63"
+    },
+    {
+        "frontTitle": "Pyrénées-Atlantiques",
+        "backTitle": "Pau",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "64"
+    },
+    {
+        "frontTitle": "Hautes-Pyrénées",
+        "backTitle": "Tarbes",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "65"
+    },
+    {
+        "frontTitle": "Pyrénées-Orientales",
+        "backTitle": "Perpignan",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "66"
+    },
+    {
+        "frontTitle": "Bas-Rhin",
+        "backTitle": "Strasbourg",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "67"
+    },
+    {
+        "frontTitle": "Haut-Rhin",
+        "backTitle": "Colmar",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "68"
+    },
+    {
+        "frontTitle": "Rhône",
+        "backTitle": "Lyon",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "69"
+    },
+    {
+        "frontTitle": "Haute-Saône",
+        "backTitle": "Vesoul",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "70"
+    },
+    {
+        "frontTitle": "Saône-et-Loire",
+        "backTitle": "Mâcon",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "71"
+    },
+    {
+        "frontTitle": "Sarthe",
+        "backTitle": "Le Mans",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "72"
+    },
+    {
+        "frontTitle": "Savoie",
+        "backTitle": "Chambéry",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "73"
+    },
+    {
+        "frontTitle": "Haute-Savoie",
+        "backTitle": "Annecy",
+        "tags": [
+            "Auvergne-Rhône-Alpes"
+        ],
+        "id": "74"
+    },
+    {
+        "frontTitle": "Paris",
+        "backTitle": "Paris",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "75"
+    },
+    {
+        "frontTitle": "Seine-Maritime",
+        "backTitle": "Rouen",
+        "tags": [
+            "Normandie"
+        ],
+        "id": "76"
+    },
+    {
+        "frontTitle": "Seine-et-Marne",
+        "backTitle": "Melun",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "77"
+    },
+    {
+        "frontTitle": "Yvelines",
+        "backTitle": "Versailles",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "78"
+    },
+    {
+        "frontTitle": "Deux-Sèvres",
+        "backTitle": "Niort",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "79"
+    },
+    {
+        "frontTitle": "Somme",
+        "backTitle": "Amiens",
+        "tags": [
+            "Hauts-de-France"
+        ],
+        "id": "80"
+    },
+    {
+        "frontTitle": "Tarn",
+        "backTitle": "Albi",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "81"
+    },
+    {
+        "frontTitle": "Tarn-et-Garonne",
+        "backTitle": "Montauban",
+        "tags": [
+            "Occitanie"
+        ],
+        "id": "82"
+    },
+    {
+        "frontTitle": "Var",
+        "backTitle": "Toulon",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "83"
+    },
+    {
+        "frontTitle": "Vaucluse",
+        "backTitle": "Avignon",
+        "tags": [
+            "Provence-Alpes-Côte d'Azur"
+        ],
+        "id": "84"
+    },
+    {
+        "frontTitle": "Vendée",
+        "backTitle": "La Roche-sur-Yon",
+        "tags": [
+            "Pays de la Loire"
+        ],
+        "id": "85"
+    },
+    {
+        "frontTitle": "Vienne",
+        "backTitle": "Poitiers",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "86"
+    },
+    {
+        "frontTitle": "Haute-Vienne",
+        "backTitle": "Limoges",
+        "tags": [
+            "Nouvelle-Aquitaine"
+        ],
+        "id": "87"
+    },
+    {
+        "frontTitle": "Vosges",
+        "backTitle": "Épinal",
+        "tags": [
+            "Grand Est"
+        ],
+        "id": "88"
+    },
+    {
+        "frontTitle": "Yonne",
+        "backTitle": "Auxerre",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "89"
+    },
+    {
+        "frontTitle": "Territoire de Belfort",
+        "backTitle": "Belfort",
+        "tags": [
+            "Bourgogne-Franche-Comté"
+        ],
+        "id": "90"
+    },
+    {
+        "frontTitle": "Essonne",
+        "backTitle": "Évry-Courcouronnes",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "91"
+    },
+    {
+        "frontTitle": "Hauts-de-Seine",
+        "backTitle": "Nanterre",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "92"
+    },
+    {
+        "frontTitle": "Seine-Saint-Denis",
+        "backTitle": "Bobigny",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "93"
+    },
+    {
+        "frontTitle": "Val-de-Marne",
+        "backTitle": "Créteil",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "94"
+    },
+    {
+        "frontTitle": "Val-d'Oise",
+        "backTitle": "Cergy",
+        "tags": [
+            "Île-de-France"
+        ],
+        "id": "95"
+    }
+]

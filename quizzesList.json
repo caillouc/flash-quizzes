@@ -93,7 +93,71 @@
 				"Révolution",
 				"XIXe siècle",
 				"XXe siècle",
-				"Contemporary"
+				"Contemporain"
+			]
+		},
+		{
+			"name": "Départements français - Positions",
+			"file_name": "departements-francais-positions.json",
+			"image_folder": "pos-departements",
+			"version": "1.0",
+			"icon": "0xe3c8",
+			"tags": [
+				"Auvergne-Rhône-Alpes",
+				"Centre-Val de Loire",
+				"Corse",
+				"Bretagne",
+				"Hauts-de-France",
+				"Provence-Alpes-Côte d'Azur",
+				"Grand Est",
+				"Occitanie",
+				"Nouvelle-Aquitaine",
+				"Bourgogne-Franche-Comté",
+				"Pays de la Loire",
+				"Île-de-France",
+				"Normandie"
+			]
+		},
+		{
+			"name": "Départements français - Numéros",
+			"file_name": "departements-francais-numeros.json",
+			"version": "1.0",
+			"icon": "0xe3c8",
+			"tags": [
+				"Auvergne-Rhône-Alpes",
+				"Centre-Val de Loire",
+				"Corse",
+				"Bretagne",
+				"Hauts-de-France",
+				"Provence-Alpes-Côte d'Azur",
+				"Grand Est",
+				"Occitanie",
+				"Nouvelle-Aquitaine",
+				"Bourgogne-Franche-Comté",
+				"Pays de la Loire",
+				"Île-de-France",
+				"Normandie"
+			]
+		},
+		{
+			"name": "Départements français - Préfectures",
+			"file_name": "departements-francais-prefectures.json",
+			"version": "1.0",
+			"icon": "0xe3c8",
+			"tags": [
+				"Auvergne-Rhône-Alpes",
+				"Centre-Val de Loire",
+				"Corse",
+				"Bretagne",
+				"Hauts-de-France",
+				"Provence-Alpes-Côte d'Azur",
+				"Grand Est",
+				"Occitanie",
+				"Nouvelle-Aquitaine",
+				"Bourgogne-Franche-Comté",
+				"Pays de la Loire",
+				"Île-de-France",
+				"Normandie"
 			]
 		}
 	]

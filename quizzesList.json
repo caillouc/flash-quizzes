@@ -1,5 +1,5 @@
 {
-	"version": "1.0",
+	"version": "1.1",
 	"quizzes": [
 		{
 			"name": "Capitales",
@@ -140,9 +140,9 @@
 			]
 		},
 		{
-			"name": "Départements français - Préfectures",
+			"name": "Préfectures françaises",
 			"file_name": "departements-francais-prefectures.json",
-			"version": "1.0",
+			"version": "1.1",
 			"icon": "0xe3c8",
 			"tags": [
 				"Auvergne-Rhône-Alpes",
@@ -159,6 +159,13 @@
 				"Île-de-France",
 				"Normandie"
 			]
+		},
+		{
+			"name": "Rivières françaises",
+			"file_name": "riviere.json",
+			"image_folder": "riviere",
+			"version": "1.0",
+			"icon": "0xe6d0"
 		}
 	]
 }

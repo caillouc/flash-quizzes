@@ -1,0 +1,257 @@
+[
+    {
+        "frontImage": "river_l'ain.png",
+        "backTitle": "L'Ain",
+        "id": "ain"
+    },
+    {
+        "frontImage": "river_l'aisne.png",
+        "backTitle": "L'Aisne",
+        "id": "aisne"
+    },
+    {
+        "frontImage": "river_l'allier.png",
+        "backTitle": "L'Allier",
+        "id": "allier"
+    },
+    {
+        "frontImage": "river_l'ardèche.png",
+        "backTitle": "L'Ardèche",
+        "id": "ardèche"
+    },
+    {
+        "frontImage": "river_l'ariège.png",
+        "backTitle": "L'Ariège",
+        "id": "ariège"
+    },
+    {
+        "frontImage": "river_l'aube.png",
+        "backTitle": "L'Aube",
+        "id": "aube"
+    },
+    {
+        "frontImage": "river_l'aude.png",
+        "backTitle": "L'Aude",
+        "id": "aude"
+    },
+    {
+        "frontImage": "river_l'aveyron.png",
+        "backTitle": "L'Aveyron",
+        "id": "aveyron"
+    },
+    {
+        "frontImage": "river_l'essonne.png",
+        "backTitle": "L'Essonne",
+        "id": "essonne"
+    },
+    {
+        "frontImage": "river_l'eure.png",
+        "backTitle": "L'Eure",
+        "id": "eure"
+    },
+    {
+        "frontImage": "river_l'hérault.png",
+        "backTitle": "L'Hérault",
+        "id": "hérault"
+    },
+    {
+        "frontImage": "river_l'ille.png",
+        "backTitle": "L'Ille",
+        "id": "ille"
+    },
+    {
+        "frontImage": "river_l'indre.png",
+        "backTitle": "L'Indre",
+        "id": "indre"
+    },
+    {
+        "frontImage": "river_l'isère.png",
+        "backTitle": "L'Isère",
+        "id": "isère"
+    },
+    {
+        "frontImage": "river_l'oise.png",
+        "backTitle": "L'Oise",
+        "id": "oise"
+    },
+    {
+        "frontImage": "river_l'orne.png",
+        "backTitle": "L'Orne",
+        "id": "orne"
+    },
+    {
+        "frontImage": "river_l'yonne.png",
+        "backTitle": "L'Yonne",
+        "id": "yonne"
+    },
+    {
+        "frontImage": "river_la_charente.png",
+        "backTitle": "La Charente",
+        "id": "charente"
+    },
+    {
+        "frontImage": "river_la_corrèze.png",
+        "backTitle": "La Corrèze",
+        "id": "corrèze"
+    },
+    {
+        "frontImage": "river_la_creuse.png",
+        "backTitle": "La Creuse",
+        "id": "creuse"
+    },
+    {
+        "frontImage": "river_la_dordogne.png",
+        "backTitle": "La Dordogne",
+        "id": "dordogne"
+    },
+    {
+        "frontImage": "river_la_drôme.png",
+        "backTitle": "La Drôme",
+        "id": "drôme"
+    },
+    {
+        "frontImage": "river_la_garonne.png",
+        "backTitle": "La Garonne",
+        "id": "garonne"
+    },
+    {
+        "frontImage": "river_la_loire.png",
+        "backTitle": "La Loire",
+        "id": "loire"
+    },
+    {
+        "frontImage": "river_la_maine.png",
+        "backTitle": "La Maine",
+        "id": "maine"
+    },
+    {
+        "frontImage": "river_la_marne.png",
+        "backTitle": "La Marne",
+        "id": "marne"
+    },
+    {
+        "frontImage": "river_la_mayenne.png",
+        "backTitle": "La Mayenne",
+        "id": "mayenne"
+    },
+    {
+        "frontImage": "river_la_meurthe.png",
+        "backTitle": "La Meurthe",
+        "id": "meurthe"
+    },
+    {
+        "frontImage": "river_la_meuse.png",
+        "backTitle": "La Meuse",
+        "id": "meuse"
+    },
+    {
+        "frontImage": "river_la_moselle.png",
+        "backTitle": "La Moselle",
+        "id": "moselle"
+    },
+    {
+        "frontImage": "river_la_nièvre.png",
+        "backTitle": "La Nièvre",
+        "id": "nièvre"
+    },
+    {
+        "frontImage": "river_la_sarthe.png",
+        "backTitle": "La Sarthe",
+        "id": "sarthe"
+    },
+    {
+        "frontImage": "river_la_saône.png",
+        "backTitle": "La Saône",
+        "id": "saône"
+    },
+    {
+        "frontImage": "river_la_seine.png",
+        "backTitle": "La Seine",
+        "id": "seine"
+    },
+    {
+        "frontImage": "river_la_somme_canalisée.png",
+        "backTitle": "La Somme",
+        "id": "somme_canalisée"
+    },
+    {
+        "frontImage": "river_la_sèvre_nantaise.png",
+        "backTitle": "La Sèvre Nantaise",
+        "id": "sèvre_nantaise"
+    },
+    {
+        "frontImage": "river_la_sèvre_niortaise.png",
+        "backTitle": "La Sèvre Niortaise",
+        "id": "sèvre_niortaise"
+    },
+    {
+        "frontImage": "river_la_vendée.png",
+        "backTitle": "La Vendée",
+        "id": "vendée"
+    },
+    {
+        "frontImage": "river_la_vienne.png",
+        "backTitle": "La Vienne",
+        "id": "vienne"
+    },
+    {
+        "frontImage": "river_la_vilaine.png",
+        "backTitle": "La Vilaine",
+        "id": "vilaine"
+    },
+    {
+        "frontImage": "river_le_cher.png",
+        "backTitle": "Le Cher",
+        "id": "cher"
+    },
+    {
+        "frontImage": "river_le_doubs.png",
+        "backTitle": "Le Doubs",
+        "id": "doubs"
+    },
+    {
+        "frontImage": "river_le_gard.png",
+        "backTitle": "Le Gard",
+        "id": "gard"
+    },
+    {
+        "frontImage": "river_le_gers.png",
+        "backTitle": "Le Gers",
+        "id": "gers"
+    },
+    {
+        "frontImage": "river_le_loir.png",
+        "backTitle": "Le Loir",
+        "id": "loir"
+    },
+    {
+        "frontImage": "river_le_loiret.png",
+        "backTitle": "Le Loiret",
+        "id": "loiret"
+    },
+    {
+        "frontImage": "river_le_lot.png",
+        "backTitle": "Le Lot",
+        "id": "lot"
+    },
+    {
+        "frontImage": "river_le_rhin.png",
+        "backTitle": "Le Rhin",
+        "id": "rhin"
+    },
+    {
+        "frontImage": "river_le_rhône.png",
+        "backTitle": "Le Rhône",
+        "id": "rhône"
+    },
+    {
+        "frontImage": "river_le_tarn.png",
+        "backTitle": "Le Tarn",
+        "id": "tarn"
+    },
+    {
+        "frontImage": "river_le_var.png",
+        "backTitle": "Le Var",
+        "id": "var"
+    }
+]

@@ -1,5 +1,5 @@
 {
-	"version": "1.2",
+	"version": "1.3",
 	"quizzes": [
 		{
 			"name": "Capitales",
@@ -164,7 +164,7 @@
 			"name": "Rivières françaises",
 			"file_name": "riviere.json",
 			"image_folder": "riviere",
-			"version": "1.2",
+			"version": "1.3",
 			"icon": "0xe6d0"
 		}
 	]

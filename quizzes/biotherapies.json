@@ -1,0 +1,222 @@
+[
+    {
+        "frontTitle": "Dupilumab",
+        "backTitle": "Dupixent\nIL4",
+        "id": "0001"
+    },
+    {
+        "frontTitle": "Dupixent",
+        "backTitle": "Dupilumab\nIL4",
+        "id": "0002"
+    },
+    {
+        "frontTitle": "Ustekinumab",
+        "backTitle": "Stelara\nIL12/23",
+        "id": "0003"
+    },
+    {
+        "frontTitle": "Stelara",
+        "backTitle": "Ustekinumab\nIL12/23",
+        "id": "0004"
+    },
+    {
+        "frontTitle": "Tralokinumab",
+        "backTitle": "Adtralza\nIL13",
+        "id": "0005"
+    },
+    {
+        "frontTitle": "Adtralza",
+        "backTitle": "Tralokinumab\nIL13",
+        "id": "0006"
+    },
+    {
+        "frontTitle": "Brodalumab",
+        "backTitle": "Kyntheum\nIL17",
+        "id": "0007"
+    },
+    {
+        "frontTitle": "Kyntheum",
+        "backTitle": "Brodalumab\nIL17",
+        "id": "0008"
+    },
+    {
+        "frontTitle": "Secukinumab",
+        "backTitle": "Cosentyx\nIL17",
+        "id": "0009"
+    },
+    {
+        "frontTitle": "Cosentyx",
+        "backTitle": "Secukinumab\nIL17",
+        "id": "0010"
+    },
+    {
+        "frontTitle": "Bimekizumab",
+        "backTitle": "Bimzelx\nIL17",
+        "id": "0011"
+    },
+    {
+        "frontTitle": "Bimzelx",
+        "backTitle": "Bimekizumab\nIL17",
+        "id": "0012"
+    },
+    {
+        "frontTitle": "Guselkumab",
+        "backTitle": "Tremfya\nIL23",
+        "id": "0013"
+    },
+    {
+        "frontTitle": "Tremfya",
+        "backTitle": "Guselkumab\nIL23",
+        "id": "0014"
+    },
+    {
+        "frontTitle": "Tildrakizumab",
+        "backTitle": "Ilumetri\nIL23",
+        "id": "0015"
+    },
+    {
+        "frontTitle": "Ilumetri",
+        "backTitle": "Tildrakizumab\nIL23",
+        "id": "0016"
+    },
+    {
+        "frontTitle": "Risankizumab",
+        "backTitle": "Skyrizi\nIL23",
+        "id": "0017"
+    },
+    {
+        "frontTitle": "Skyrizi",
+        "backTitle": "Risankizumab\nIL23",
+        "id": "0018"
+    },
+    {
+        "frontTitle": "Nemolizumab",
+        "backTitle": "Nemluvio\nIL31",
+        "id": "0019"
+    },
+    {
+        "frontTitle": "Nemluvio",
+        "backTitle": "Nemolizumab\nIL31",
+        "id": "0020"
+    },
+    {
+        "frontTitle": "Spesolimab",
+        "backTitle": "Spevigo\nIL36R",
+        "id": "0021"
+    },
+    {
+        "frontTitle": "Spevigo",
+        "backTitle": "Spesolimab\nIL36R",
+        "id": "0022"
+    },
+    {
+        "frontTitle": "Certolizumab",
+        "backTitle": "Cimzia\nAnti TNF",
+        "id": "0023"
+    },
+    {
+        "frontTitle": "Cimzia",
+        "backTitle": "Certolizumab\nAnti TNF",
+        "id": "0024"
+    },
+    {
+        "frontTitle": "Infliximab",
+        "backTitle": "Remicade\nAnti TNF",
+        "id": "0025"
+    },
+    {
+        "frontTitle": "Remicade",
+        "backTitle": "Infliximab\nAnti TNF",
+        "id": "0026"
+    },
+    {
+        "frontTitle": "Adalimumab",
+        "backTitle": "Humira\nAnti TNF",
+        "id": "0027"
+    },
+    {
+        "frontTitle": "Humira",
+        "backTitle": "Adalimumab\nAnti TNF",
+        "id": "0028"
+    },
+    {
+        "frontTitle": "Etanercept",
+        "backTitle": "Enbrel\nAnti TNF",
+        "id": "0029"
+    },
+    {
+        "frontTitle": "Enbrel",
+        "backTitle": "Etanercept\nAnti TNF",
+        "id": "0030"
+    },
+    {
+        "frontTitle": "Upadacitinib",
+        "backTitle": "Rinvoq\nJAK1",
+        "id": "0031"
+    },
+    {
+        "frontTitle": "Rinvoq",
+        "backTitle": "Upadacitinib\nJAK1",
+        "id": "0032"
+    },
+    {
+        "frontTitle": "Abrocitinib",
+        "backTitle": "Cibinqo\nJAK1",
+        "id": "0033"
+    },
+    {
+        "frontTitle": "Cibinqo",
+        "backTitle": "Abrocitinib\nJAK1",
+        "id": "0034"
+    },
+    {
+        "frontTitle": "Baricitinib",
+        "backTitle": "Olumiant\nJAK 1/2",
+        "id": "0035"
+    },
+    {
+        "frontTitle": "Olumiant",
+        "backTitle": "Baricitinib\nJAK 1/2",
+        "id": "0036"
+    },
+    {
+        "frontTitle": "Ruxolitinib",
+        "backTitle": "Jakavi\nJAK 1/2",
+        "id": "0037"
+    },
+    {
+        "frontTitle": "Jakavi",
+        "backTitle": "Ruxolitinib\nJAK 1/2",
+        "id": "0038"
+    },
+    {
+        "frontTitle": "Tofacitinib",
+        "backTitle": "Xeljanz\nJAK 1/3",
+        "id": "0039"
+    },
+    {
+        "frontTitle": "Xeljanz",
+        "backTitle": "Tofacitinib\nJAK 1/3",
+        "id": "0040"
+    },
+    {
+        "frontTitle": "Ritlecitinib",
+        "backTitle": "Litfulo\nJAK3",
+        "id": "0041"
+    },
+    {
+        "frontTitle": "Litfulo",
+        "backTitle": "Ritlecitinib\nJAK3",
+        "id": "0042"
+    },
+    {
+        "frontTitle": "Deucravacitinib",
+        "backTitle": "Sotyktu\nTYK2",
+        "id": "0043"
+    },
+    {
+        "frontTitle": "Sotyktu",
+        "backTitle": "Deucravacitinib\nTYK2",
+        "id": "0044"
+    }
+]

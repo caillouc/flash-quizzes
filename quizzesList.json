@@ -1,5 +1,5 @@
 {
-	"version": "1.3",
+	"version": "1.4",
 	"quizzes": [
 		{
 			"name": "Capitales",
@@ -166,6 +166,12 @@
 			"image_folder": "riviere",
 			"version": "1.3",
 			"icon": "0xe6d0"
+		},
+		{
+			"name": "Biothérapies",
+			"file_name": "biotherapies.json",
+			"version": "1.0",
+			"icon": "0xf06fc"
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"version": "1.5",
+	"version": "1.6",
 	"quizzes": [
 		{
 			"name": "Capitales",
@@ -178,6 +178,17 @@
 			"file_name": "biologie.json",
 			"version": "1.0",
 			"icon": "0xe0eb"
+		},
+		{
+			"name": "Paris - Arrondissements et quartiers",
+			"file_name": "paris.json",
+			"image_folder": "paris",
+			"version": "1.0",
+			"icon": "0xe3a8",
+			"tags": [
+				"Arrondissements",
+				"Quartiers"
+			]
 		}
 	]
 }

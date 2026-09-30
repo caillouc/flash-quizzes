@@ -1,0 +1,522 @@
+[
+    {
+        "frontImage": "arrondissement_01.png",
+        "backTitle": "1er arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-01"
+    },
+    {
+        "frontImage": "arrondissement_02.png",
+        "backTitle": "2e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-02"
+    },
+    {
+        "frontImage": "arrondissement_03.png",
+        "backTitle": "3e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-03"
+    },
+    {
+        "frontImage": "arrondissement_04.png",
+        "backTitle": "4e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-04"
+    },
+    {
+        "frontImage": "arrondissement_05.png",
+        "backTitle": "5e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-05"
+    },
+    {
+        "frontImage": "arrondissement_06.png",
+        "backTitle": "6e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-06"
+    },
+    {
+        "frontImage": "arrondissement_07.png",
+        "backTitle": "7e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-07"
+    },
+    {
+        "frontImage": "arrondissement_08.png",
+        "backTitle": "8e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-08"
+    },
+    {
+        "frontImage": "arrondissement_09.png",
+        "backTitle": "9e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-09"
+    },
+    {
+        "frontImage": "arrondissement_10.png",
+        "backTitle": "10e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-10"
+    },
+    {
+        "frontImage": "arrondissement_11.png",
+        "backTitle": "11e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-11"
+    },
+    {
+        "frontImage": "arrondissement_12.png",
+        "backTitle": "12e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-12"
+    },
+    {
+        "frontImage": "arrondissement_13.png",
+        "backTitle": "13e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-13"
+    },
+    {
+        "frontImage": "arrondissement_14.png",
+        "backTitle": "14e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-14"
+    },
+    {
+        "frontImage": "arrondissement_15.png",
+        "backTitle": "15e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-15"
+    },
+    {
+        "frontImage": "arrondissement_16.png",
+        "backTitle": "16e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-16"
+    },
+    {
+        "frontImage": "arrondissement_17.png",
+        "backTitle": "17e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-17"
+    },
+    {
+        "frontImage": "arrondissement_18.png",
+        "backTitle": "18e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-18"
+    },
+    {
+        "frontImage": "arrondissement_19.png",
+        "backTitle": "19e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-19"
+    },
+    {
+        "frontImage": "arrondissement_20.png",
+        "backTitle": "20e arrondissement",
+        "tags": [
+            "Arrondissements"
+        ],
+        "id": "arrondissement-20"
+    },
+    {
+        "frontImage": "quartier_les-halles.png",
+        "backTitle": "Les Halles",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-les-halles"
+    },
+    {
+        "frontImage": "quartier_montorgueil.png",
+        "backTitle": "Montorgueil",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-montorgueil"
+    },
+    {
+        "frontImage": "quartier_sentier.png",
+        "backTitle": "Sentier",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-sentier"
+    },
+    {
+        "frontImage": "quartier_marais.png",
+        "backTitle": "Le Marais",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-marais"
+    },
+    {
+        "frontImage": "quartier_ile-de-la-cite.png",
+        "backTitle": "Île de la Cité",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-ile-de-la-cite"
+    },
+    {
+        "frontImage": "quartier_ile-saint-louis.png",
+        "backTitle": "Île Saint-Louis",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-ile-saint-louis"
+    },
+    {
+        "frontImage": "quartier_palais-royal.png",
+        "backTitle": "Palais-Royal",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-palais-royal"
+    },
+    {
+        "frontImage": "quartier_opera.png",
+        "backTitle": "Opéra",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-opera"
+    },
+    {
+        "frontImage": "quartier_champs-elysees.png",
+        "backTitle": "Champs-Élysées",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-champs-elysees"
+    },
+    {
+        "frontImage": "quartier_strasbourg-saint-denis.png",
+        "backTitle": "Strasbourg-Saint-Denis",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-strasbourg-saint-denis"
+    },
+    {
+        "frontImage": "quartier_pigalle.png",
+        "backTitle": "Pigalle",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-pigalle"
+    },
+    {
+        "frontImage": "quartier_nouvelle-athenes.png",
+        "backTitle": "Nouvelle Athènes",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-nouvelle-athenes"
+    },
+    {
+        "frontImage": "quartier_montmartre.png",
+        "backTitle": "Montmartre",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-montmartre"
+    },
+    {
+        "frontImage": "quartier_goutte-d-or.png",
+        "backTitle": "Goutte d'Or",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-goutte-d-or"
+    },
+    {
+        "frontImage": "quartier_batignolles.png",
+        "backTitle": "Batignolles",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-batignolles"
+    },
+    {
+        "frontImage": "quartier_plaine-monceau.png",
+        "backTitle": "Plaine Monceau",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-plaine-monceau"
+    },
+    {
+        "frontImage": "quartier_ternes.png",
+        "backTitle": "Les Ternes",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-ternes"
+    },
+    {
+        "frontImage": "quartier_canal-saint-martin.png",
+        "backTitle": "Canal Saint-Martin",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-canal-saint-martin"
+    },
+    {
+        "frontImage": "quartier_oberkampf.png",
+        "backTitle": "Oberkampf",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-oberkampf"
+    },
+    {
+        "frontImage": "quartier_bastille.png",
+        "backTitle": "Bastille",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-bastille"
+    },
+    {
+        "frontImage": "quartier_faubourg-saint-antoine.png",
+        "backTitle": "Faubourg Saint-Antoine",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-faubourg-saint-antoine"
+    },
+    {
+        "frontImage": "quartier_belleville.png",
+        "backTitle": "Belleville",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-belleville"
+    },
+    {
+        "frontImage": "quartier_menilmontant.png",
+        "backTitle": "Ménilmontant",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-menilmontant"
+    },
+    {
+        "frontImage": "quartier_buttes-chaumont.png",
+        "backTitle": "Buttes-Chaumont",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-buttes-chaumont"
+    },
+    {
+        "frontImage": "quartier_la-villette.png",
+        "backTitle": "La Villette",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-la-villette"
+    },
+    {
+        "frontImage": "quartier_charonne.png",
+        "backTitle": "Charonne",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-charonne"
+    },
+    {
+        "frontImage": "quartier_bercy.png",
+        "backTitle": "Bercy",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-bercy"
+    },
+    {
+        "frontImage": "quartier_bois-de-vincennes.png",
+        "backTitle": "Bois de Vincennes",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-bois-de-vincennes"
+    },
+    {
+        "frontImage": "quartier_bois-de-boulogne.png",
+        "backTitle": "Bois de Boulogne",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-bois-de-boulogne"
+    },
+    {
+        "frontImage": "quartier_passy.png",
+        "backTitle": "Passy",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-passy"
+    },
+    {
+        "frontImage": "quartier_auteuil.png",
+        "backTitle": "Auteuil",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-auteuil"
+    },
+    {
+        "frontImage": "quartier_trocadero.png",
+        "backTitle": "Trocadéro",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-trocadero"
+    },
+    {
+        "frontImage": "quartier_quartier-latin.png",
+        "backTitle": "Quartier latin",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-quartier-latin"
+    },
+    {
+        "frontImage": "quartier_saint-germain-des-pres.png",
+        "backTitle": "Saint-Germain-des-Prés",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-saint-germain-des-pres"
+    },
+    {
+        "frontImage": "quartier_faubourg-saint-germain.png",
+        "backTitle": "Faubourg Saint-Germain",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-faubourg-saint-germain"
+    },
+    {
+        "frontImage": "quartier_invalides.png",
+        "backTitle": "Invalides",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-invalides"
+    },
+    {
+        "frontImage": "quartier_champ-de-mars.png",
+        "backTitle": "Champ-de-Mars",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-champ-de-mars"
+    },
+    {
+        "frontImage": "quartier_grenelle.png",
+        "backTitle": "Grenelle",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-grenelle"
+    },
+    {
+        "frontImage": "quartier_montparnasse.png",
+        "backTitle": "Montparnasse",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-montparnasse"
+    },
+    {
+        "frontImage": "quartier_alesia.png",
+        "backTitle": "Alésia",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-alesia"
+    },
+    {
+        "frontImage": "quartier_montsouris.png",
+        "backTitle": "Montsouris",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-montsouris"
+    },
+    {
+        "frontImage": "quartier_butte-aux-cailles.png",
+        "backTitle": "Butte-aux-Cailles",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-butte-aux-cailles"
+    },
+    {
+        "frontImage": "quartier_gobelins.png",
+        "backTitle": "Gobelins",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-gobelins"
+    },
+    {
+        "frontImage": "quartier_quartier-asiatique.png",
+        "backTitle": "Quartier asiatique",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-quartier-asiatique"
+    },
+    {
+        "frontImage": "quartier_paris-rive-gauche.png",
+        "backTitle": "Paris Rive Gauche",
+        "tags": [
+            "Quartiers"
+        ],
+        "id": "quartier-paris-rive-gauche"
+    }
+]

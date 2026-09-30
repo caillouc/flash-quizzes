@@ -1,0 +1,167 @@
+[
+    {
+        "frontTitle": "Dysphagie",
+        "backDescription": "Difficulté à avaler.",
+        "id": "0001"
+    },
+    {
+        "frontTitle": "Polyphagie",
+        "backDescription": "Faim excessive / besoin de manger beaucoup.",
+        "id": "0002"
+    },
+    {
+        "frontTitle": "Anémie",
+        "backDescription": "Diminution du nombre de globules rouges ou de l’hémoglobine dans le sang.",
+        "id": "0003"
+    },
+    {
+        "frontTitle": "Rectorragie",
+        "backDescription": "Saignement provenant de l’anus, avec du sang rouge dans les selles.",
+        "id": "0004"
+    },
+    {
+        "frontTitle": "Asthénie",
+        "backDescription": "Fatigue anormale et persistante.",
+        "id": "0005"
+    },
+    {
+        "frontTitle": "Arthrose",
+        "backDescription": "Usure progressive du cartilage d’une articulation.",
+        "id": "0006"
+    },
+    {
+        "frontTitle": "Coxarthrose",
+        "backDescription": "Arthrose de l’articulation de la hanche.",
+        "id": "0007"
+    },
+    {
+        "frontTitle": "Paraplégie",
+        "backDescription": "Paralysie des deux membres inférieurs.",
+        "id": "0008"
+    },
+    {
+        "frontTitle": "Hémiplégie",
+        "backDescription": "Paralysie d’un côté du corps.",
+        "id": "0009"
+    },
+    {
+        "frontTitle": "Paresthésie",
+        "backDescription": "Sensation anormale : fourmillements, picotements, engourdissement…",
+        "id": "0010"
+    },
+    {
+        "frontTitle": "Thrombose",
+        "backDescription": "Formation d’un caillot de sang dans un vaisseau sanguin.",
+        "id": "0011"
+    },
+    {
+        "frontTitle": "Nécrose",
+        "backDescription": "Mort d’une partie de cellules ou de tissus.",
+        "id": "0012"
+    },
+    {
+        "frontTitle": "Arythmie",
+        "backDescription": "Trouble du rythme cardiaque.",
+        "id": "0013"
+    },
+    {
+        "frontTitle": "Bradycardie",
+        "backDescription": "Rythme cardiaque anormalement lent.",
+        "id": "0014"
+    },
+    {
+        "frontTitle": "Diarrhée",
+        "backDescription": "Selles trop fréquentes et/ou trop liquides.",
+        "id": "0015"
+    },
+    {
+        "frontTitle": "Vasodilatation",
+        "backDescription": "Élargissement des vaisseaux sanguins.",
+        "id": "0016"
+    },
+    {
+        "frontTitle": "Hémoptysie",
+        "backDescription": "Rejet de sang provenant des voies respiratoires lors de la toux.",
+        "id": "0017"
+    },
+    {
+        "frontTitle": "Expectoration",
+        "backDescription": "Rejet de sécrétions des voies respiratoires, généralement en toussant.",
+        "id": "0018"
+    },
+    {
+        "frontTitle": "Hématémèse",
+        "backDescription": "Vomissement de sang.",
+        "id": "0019"
+    },
+    {
+        "frontTitle": "Histologie",
+        "backDescription": "Étude des tissus au microscope.",
+        "id": "0020"
+    },
+    {
+        "frontTitle": "Polype",
+        "backDescription": "Petite excroissance de tissu, souvent sur une muqueuse.",
+        "id": "0021"
+    },
+    {
+        "frontTitle": "Hépatocyte",
+        "backDescription": "Cellule du foie.",
+        "id": "0022"
+    },
+    {
+        "frontTitle": "Adipocyte",
+        "backDescription": "Cellule qui stocke les graisses.",
+        "id": "0023"
+    },
+    {
+        "frontTitle": "Hypoxémie",
+        "backDescription": "Diminution de la quantité d’oxygène dans le sang.",
+        "id": "0024"
+    },
+    {
+        "frontTitle": "Hypoxie",
+        "backDescription": "Diminution de l’apport en oxygène aux tissus.",
+        "id": "0025"
+    },
+    {
+        "frontTitle": "Ischémie",
+        "backDescription": "Diminution ou arrêt de l’apport sanguin à un tissu ou un organe.",
+        "id": "0026"
+    },
+    {
+        "frontTitle": "Dysurie",
+        "backDescription": "Difficulté ou douleur lors de la miction (uriner).",
+        "id": "0027"
+    },
+    {
+        "frontTitle": "Urologue",
+        "backDescription": "Médecin spécialisé dans l’appareil urinaire et l’appareil génital masculin.",
+        "id": "0028"
+    },
+    {
+        "frontTitle": "Cardiomyopathie",
+        "backDescription": "Maladie qui touche le muscle du cœur.",
+        "id": "0029"
+    },
+    {
+        "frontTitle": "Myopathie",
+        "backDescription": "Maladie qui touche les muscles.",
+        "id": "0030"
+    },
+    {
+        "frontTitle": "Neuropathie",
+        "backDescription": "Maladie ou atteinte d’un ou plusieurs nerfs.",
+        "id": "0031"
+    },
+    {
+        "frontTitle": "Atrophie",
+        "backDescription": "Diminution de la taille ou du volume d’un organe, d’un muscle ou d’un tissu.",
+        "id": "0032"
+    },
+    {
+        "frontTitle": "Hépatomégalie",
+        "backDescription": "Augmentation du volume du foie.",
+        "id": "0033"
+    }
+]

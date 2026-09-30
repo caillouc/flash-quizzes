@@ -1,5 +1,5 @@
 {
-	"version": "1.4",
+	"version": "1.5",
 	"quizzes": [
 		{
 			"name": "Capitales",
@@ -172,6 +172,12 @@
 			"file_name": "biotherapies.json",
 			"version": "1.0",
 			"icon": "0xf06fc"
+		},
+		{
+			"name": "Biologie",
+			"file_name": "biologie.json",
+			"version": "1.0",
+			"icon": "0xe0eb"
 		}
 	]
 }

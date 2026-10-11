@@ -1,5 +1,5 @@
 {
-	"version": "1.6",
+	"version": "1.7",
 	"quizzes": [
 		{
 			"name": "Capitales",
@@ -188,6 +188,16 @@
 			"tags": [
 				"Arrondissements",
 				"Quartiers"
+			]
+		},
+		{
+			"name": "Digestive System",
+			"file_name": "digestive-system.json",
+			"version": "1.0",
+			"icon": "0xe532",
+			"tags": [
+				"Organs",
+				"Substances and process"
 			]
 		}
 	]

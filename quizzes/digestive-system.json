@@ -1,0 +1,303 @@
+[
+    {
+        "frontTitle": "Système / Tube digestif",
+        "backTitle": "Digestive system / tract",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0001"
+    },
+    {
+        "frontTitle": "Bouche",
+        "backTitle": "Mouth",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0002"
+    },
+    {
+        "frontTitle": "Oesophage",
+        "backTitle": "Oesophagus",
+        "backDescription": "US : esophagus",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0003"
+    },
+    {
+        "frontTitle": "Estomac",
+        "backTitle": "Stomach",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0004"
+    },
+    {
+        "frontTitle": "Paroi de l'estomac",
+        "backTitle": "Stomach lining",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0005"
+    },
+    {
+        "frontTitle": "Intestin grêle",
+        "backTitle": "Small intestine",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0006"
+    },
+    {
+        "frontTitle": "Villosités",
+        "backTitle": "Villi",
+        "backDescription": "Singulier : villus",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0007"
+    },
+    {
+        "frontTitle": "Gros intestin / Côlon",
+        "backTitle": "Large intestine / Colon",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0008"
+    },
+    {
+        "frontTitle": "Rectum",
+        "backTitle": "Rectum",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0009"
+    },
+    {
+        "frontTitle": "Anus",
+        "backTitle": "Anus",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0010"
+    },
+    {
+        "frontTitle": "Glandes salivaires",
+        "backTitle": "Salivary glands",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0011"
+    },
+    {
+        "frontTitle": "Foie",
+        "backTitle": "Liver",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0012"
+    },
+    {
+        "frontTitle": "Vésicule biliaire",
+        "backTitle": "Gallbladder",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0013"
+    },
+    {
+        "frontTitle": "Pancréas",
+        "backTitle": "Pancreas",
+        "tags": [
+            "Organs"
+        ],
+        "id": "0014"
+    },
+    {
+        "frontTitle": "Mâcher / Mastication",
+        "backTitle": "To chew / Mastication",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0015"
+    },
+    {
+        "frontTitle": "Avaler / Déglutition",
+        "backTitle": "To swallow / Swallowing",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0016"
+    },
+    {
+        "frontTitle": "Péristaltisme",
+        "backTitle": "Peristalsis",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0017"
+    },
+    {
+        "frontTitle": "Brassage",
+        "backTitle": "Churning",
+        "backDescription": "Aussi : sloshing",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0018"
+    },
+    {
+        "frontTitle": "Sécréter",
+        "backTitle": "To secrete",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0019"
+    },
+    {
+        "frontTitle": "Sucs gastriques",
+        "backTitle": "Gastric juices",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0020"
+    },
+    {
+        "frontTitle": "Salive",
+        "backTitle": "Saliva",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0021"
+    },
+    {
+        "frontTitle": "Sucs pancréatiques",
+        "backTitle": "Pancreatic juices",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0022"
+    },
+    {
+        "frontTitle": "Bile",
+        "backTitle": "Bile",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0023"
+    },
+    {
+        "frontTitle": "Enzymes",
+        "backTitle": "Enzymes",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0024"
+    },
+    {
+        "frontTitle": "Nutriments",
+        "backTitle": "Nutrients",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0025"
+    },
+    {
+        "frontTitle": "Absorption",
+        "backTitle": "Absorption",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0026"
+    },
+    {
+        "frontTitle": "Circulation sanguine",
+        "backTitle": "Bloodstream",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0027"
+    },
+    {
+        "frontTitle": "Déchets / Élimination",
+        "backTitle": "Waste / Elimination",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0028"
+    },
+    {
+        "frontTitle": "Décomposer / Dégradation",
+        "backTitle": "To break down / Breakdown",
+        "backDescription": "Aussi : to decompose / degradation",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0029"
+    },
+    {
+        "frontTitle": "Chyme",
+        "backTitle": "Chyme",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0030"
+    },
+    {
+        "frontTitle": "Acides gras et glycérol",
+        "backTitle": "Fatty acids and glycerol",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0031"
+    },
+    {
+        "frontTitle": "Glucides",
+        "backTitle": "Carbohydrates",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0032"
+    },
+    {
+        "frontTitle": "Graisses",
+        "backTitle": "Fats",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0033"
+    },
+    {
+        "frontTitle": "Protéines",
+        "backTitle": "Proteins",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0034"
+    },
+    {
+        "frontTitle": "Acides aminés",
+        "backTitle": "Amino acids",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0035"
+    },
+    {
+        "frontTitle": "Oses",
+        "backTitle": "Simple sugars",
+        "backDescription": "Monosaccharides",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0036"
+    },
+    {
+        "frontTitle": "Digérer / Digestion",
+        "backTitle": "To digest / Digestion",
+        "tags": [
+            "Substances and process"
+        ],
+        "id": "0037"
+    }
+]

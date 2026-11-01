@@ -1,5 +1,5 @@
 {
-	"version": "1.7",
+	"version": "1.9",
 	"quizzes": [
 		{
 			"name": "Capitales",
@@ -198,6 +198,19 @@
 			"tags": [
 				"Organs",
 				"Substances and process"
+			]
+		},
+		{
+			"name": "Totalitarismes et Seconde Guerre mondiale",
+			"file_name": "seconde-guerre-mondiale.json",
+			"version": "1.1",
+			"icon": "0xe3e7",
+			"tags": [
+				"Personnages",
+				"Dates",
+				"Villes et lieux",
+				"Notions et événements",
+				"Pays et alliances"
 			]
 		}
 	]

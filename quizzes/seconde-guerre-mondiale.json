@@ -1,0 +1,394 @@
+[
+    {
+        "frontDescription": "Qui est le dictateur de l'Allemagne ?",
+        "backTitle": "Adolf Hitler",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0001"
+    },
+    {
+        "frontDescription": "Qui est le dictateur de l'URSS ?",
+        "backTitle": "Joseph Staline",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0002"
+    },
+    {
+        "frontDescription": "Qui est le rival de Staline ?",
+        "backTitle": "Léon Trotski",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0003"
+    },
+    {
+        "frontDescription": "Qui nomme Hitler chancelier ?",
+        "backTitle": "Hindenburg",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0004"
+    },
+    {
+        "frontDescription": "Qui dirige le régime de Vichy ?",
+        "backTitle": "Philippe Pétain",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0005"
+    },
+    {
+        "frontDescription": "Qui lance l'appel du 18 juin ?",
+        "backTitle": "Charles de Gaulle",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0006"
+    },
+    {
+        "frontDescription": "Que signifie Führer ?",
+        "backTitle": "Guide ou chef",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0007"
+    },
+    {
+        "frontDescription": "Qui est le chef du parti nazi ?",
+        "backTitle": "Adolf Hitler",
+        "tags": [
+            "Personnages"
+        ],
+        "id": "0008"
+    },
+    {
+        "frontDescription": "Quand Staline arrive-t-il au pouvoir ?",
+        "backTitle": "1928",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0009"
+    },
+    {
+        "frontDescription": "Quand commence la crise économique ?",
+        "backTitle": "1929",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0010"
+    },
+    {
+        "frontDescription": "Quand Hitler arrive-t-il au pouvoir comme chancelier ?",
+        "backTitle": "30 janvier 1933",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0011"
+    },
+    {
+        "frontDescription": "Quand Hitler devient-il maître absolu ?",
+        "backTitle": "1934",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0012"
+    },
+    {
+        "frontDescription": "Quand sont adoptées les lois de Nuremberg ?",
+        "backTitle": "1935",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0013"
+    },
+    {
+        "frontDescription": "Quand commence la Seconde Guerre mondiale ?",
+        "backTitle": "Septembre 1939",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0014"
+    },
+    {
+        "frontDescription": "Quand a lieu l'appel du général de Gaulle ?",
+        "backTitle": "18 juin 1940",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0015"
+    },
+    {
+        "frontDescription": "Quand est signé l'armistice avec l'Allemagne ?",
+        "backTitle": "22 juin 1940",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0016"
+    },
+    {
+        "frontDescription": "Quand naît le régime de Vichy ?",
+        "backTitle": "10 juillet 1940",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0017"
+    },
+    {
+        "frontDescription": "Quand Hitler attaque-t-il l'URSS ?",
+        "backTitle": "Juin 1941",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0018"
+    },
+    {
+        "frontDescription": "Quand a lieu l'attaque de Pearl Harbor ?",
+        "backTitle": "7 décembre 1941",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0019"
+    },
+    {
+        "frontDescription": "Quand a lieu la bataille de Stalingrad ?",
+        "backTitle": "1942-1943",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0020"
+    },
+    {
+        "frontDescription": "Quand a lieu le débarquement de Normandie ?",
+        "backTitle": "6 juin 1944",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0021"
+    },
+    {
+        "frontDescription": "Quand l'Allemagne capitule-t-elle ?",
+        "backTitle": "8 mai 1945",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0022"
+    },
+    {
+        "frontDescription": "Quand Hiroshima est-elle bombardée ?",
+        "backTitle": "6 août 1945",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0023"
+    },
+    {
+        "frontDescription": "Quand Nagasaki est-elle bombardée ?",
+        "backTitle": "9 août 1945",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0024"
+    },
+    {
+        "frontDescription": "Quand le Japon capitule-t-il ?",
+        "backTitle": "2 septembre 1945",
+        "tags": [
+            "Dates"
+        ],
+        "id": "0025"
+    },
+    {
+        "frontDescription": "Où de Gaulle lance-t-il son appel ?",
+        "backTitle": "Londres",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0026"
+    },
+    {
+        "frontDescription": "Où se trouve Pearl Harbor ?",
+        "backTitle": "Hawaï, aux États-Unis",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0027"
+    },
+    {
+        "frontDescription": "Quelle ville est prise par les Soviétiques en 1945 ?",
+        "backTitle": "Berlin",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0028"
+    },
+    {
+        "frontDescription": "Où a lieu la bataille qui marque un tournant sur le front de l'Est ?",
+        "backTitle": "Stalingrad",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0029"
+    },
+    {
+        "frontDescription": "Dans quel pays se trouve le régime de Vichy ?",
+        "backTitle": "France",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0030"
+    },
+    {
+        "frontDescription": "Dans quel pays Hitler met-il en place le nazisme ?",
+        "backTitle": "Allemagne",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0031"
+    },
+    {
+        "frontDescription": "Dans quel pays Staline impose-t-il le communisme ?",
+        "backTitle": "URSS",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0032"
+    },
+    {
+        "frontDescription": "Quelles sont les deux villes bombardées au Japon ?",
+        "backTitle": "Hiroshima et Nagasaki",
+        "tags": [
+            "Villes et lieux"
+        ],
+        "id": "0033"
+    },
+    {
+        "frontDescription": "Quel est le nom du parti d'Hitler ?",
+        "backTitle": "NSDAP",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0034"
+    },
+    {
+        "frontDescription": "Quelle est la devise de Vichy ?",
+        "backTitle": "Travail, famille, patrie",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0035"
+    },
+    {
+        "frontDescription": "Qu'est-ce que la Shoah ?",
+        "backTitle": "Le génocide des Juifs d'Europe",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0036"
+    },
+    {
+        "frontDescription": "Que sont les lois de Nuremberg ?",
+        "backTitle": "Des lois raciales antisémites de 1935",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0037"
+    },
+    {
+        "frontDescription": "Qu'est-ce que le Lebensraum ?",
+        "backTitle": "L'espace vital voulu par Hitler à l'Est",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0038"
+    },
+    {
+        "frontDescription": "Quels sont les deux régimes totalitaires étudiés ?",
+        "backTitle": "Nazisme et stalinisme",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0039"
+    },
+    {
+        "frontDescription": "Qu'est-ce que la France Libre ?",
+        "backTitle": "La France qui continue le combat avec de Gaulle",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0040"
+    },
+    {
+        "frontDescription": "Qu'est-ce que la Résistance ?",
+        "backTitle": "Ceux qui luttent contre l'occupation nazie",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0041"
+    },
+    {
+        "frontDescription": "Qu'est-ce que l'armistice ?",
+        "backTitle": "Un accord qui met fin aux combats",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0042"
+    },
+    {
+        "frontDescription": "Qu'est-ce que la dictature ?",
+        "backTitle": "Un régime où le pouvoir est concentré entre les mains d'un chef",
+        "tags": [
+            "Notions et événements"
+        ],
+        "id": "0043"
+    },
+    {
+        "frontDescription": "Quel pays attaque la Pologne en 1939 avec l'URSS ?",
+        "backTitle": "L'Allemagne nazie",
+        "tags": [
+            "Pays et alliances"
+        ],
+        "id": "0044"
+    },
+    {
+        "frontDescription": "Quel pays Hitler attaque-t-il en 1941 ?",
+        "backTitle": "L'URSS",
+        "tags": [
+            "Pays et alliances"
+        ],
+        "id": "0045"
+    },
+    {
+        "frontDescription": "Quel pays résiste seul à l'Allemagne en juin 1940 ?",
+        "backTitle": "Le Royaume-Uni",
+        "tags": [
+            "Pays et alliances"
+        ],
+        "id": "0046"
+    },
+    {
+        "frontDescription": "Quel pays attaque Pearl Harbor ?",
+        "backTitle": "Le Japon",
+        "tags": [
+            "Pays et alliances"
+        ],
+        "id": "0047"
+    },
+    {
+        "frontDescription": "Quels pays composent principalement les Alliés ?",
+        "backTitle": "Royaume-Uni, URSS, États-Unis et France Libre",
+        "tags": [
+            "Pays et alliances"
+        ],
+        "id": "0048"
+    },
+    {
+        "frontDescription": "Quels sont les principaux pays de l'Axe ?",
+        "backTitle": "Allemagne, Italie et Japon",
+        "tags": [
+            "Pays et alliances"
+        ],
+        "id": "0049"
+    }
+]
